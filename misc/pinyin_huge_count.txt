@@ -7,10 +7,13 @@ bu 1
 buxiang 1
 buzuo 1
 chongxin 1
-d 14
+chufa 1
+d 15
 da 1 1
 daitu 1
-danshi 6
+dan 1
+danshi 7
+danxin 1
 dao 2
 de 1
 dong 1
@@ -24,15 +27,18 @@ hai 1
 he 3
 hei 1
 henjiu 1
-hong 4
+hong 5
 honghongli 1
 hongli 8
-hongyi 1
+hongyi 2
+hongyishui 1
+hou 1
 hua 1 2
 hui 1
 huida 1
 huixiang 1
 jie 1
+jieting 1
 jihui 1
 jing 1
 jiudao 1
@@ -40,15 +46,16 @@ kanjian 1
 ken 1
 keneng 2
 keyi 1
-l 18
+l 19
 la 1
-meiyou 2
+meiyou 3
 mofa 1
 na 1
 nabian 1
 nande 1
 nao 1
 nawo 2
+neirong 1
 ni 2
 nishuo 1
 niyao 1
@@ -65,7 +72,8 @@ shizai 1
 shun 1
 shuo 13
 shuode 1
-ta 9 5 1
+suowei 1
+ta 10 5 1
 tai 1
 tietu 1
 wo 12
@@ -76,6 +84,7 @@ xiang 2
 xianzai 1
 xing 1
 xinren 1
+xuduo 2
 xuyao 1
 ya 1
 yan 1
@@ -83,13 +92,16 @@ yao 2
 yaoshi 1
 yiwei 2
 youyao 1
-zai 2
+youyu 1
+zai 3
 zheer 1
 zhege 3
 zheli 1
 zheme 3
 zhenshi 1
+zhexie 1
 zhijie 1
+zhineng 1
 zhiqian 1
 zhongyu 1
 zhuang 1
