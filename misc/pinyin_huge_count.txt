@@ -8,6 +8,7 @@ da 1 1
 danshi 3
 dao 1
 de 1
+dong 1
 gao 1
 geini 1
 he 1
@@ -33,7 +34,7 @@ shangqu 1
 shizai 1
 shun 1
 shuo 9
-ta 3 3 1
+ta 4 3 1
 wo 10
 wokan 1
 wom 1
