@@ -23,7 +23,7 @@ jing 1
 ken 1
 keneng 1
 keyi 1
-l 9
+l 10
 meiyou 2
 mofa 1
 nawo 2
