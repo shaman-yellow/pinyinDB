@@ -4,7 +4,8 @@ biaoshi 1
 buzuo 1
 chongxin 1
 d 2
-danshi 2
+danshi 3
+dao 1
 geini 1
 he 1
 hong 3
@@ -14,7 +15,7 @@ jie 1
 jihui 1
 keneng 1
 keyi 1
-l 8
+l 9
 meiyou 2
 mofa 1
 nawo 2
@@ -44,4 +45,6 @@ zhege 3
 zheli 1
 zheme 2
 zhenshi 1
+zhongyu 1
 zhui 1
+zhuyi 1
