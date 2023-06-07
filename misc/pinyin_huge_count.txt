@@ -60,6 +60,7 @@ wokan 1
 wom 1
 wufa 2
 xiang 1
+xianzai 1
 xing 1
 xinren 1
 xuyao 1
