@@ -50,7 +50,7 @@ dongxi 2
 dongzuo 1
 dou 3
 doushi 1
-dui 1
+dui 2
 duzi 5
 erqie 1
 ershi 1
@@ -69,6 +69,7 @@ geini 2
 geizheer 1
 gen 1 1
 genben 1
+geng 1
 gongzuo 1
 gu 1
 guanjian 1
