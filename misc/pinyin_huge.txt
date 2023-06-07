@@ -263,7 +263,7 @@ binhai 滨海
 binin 比您
 biqi 荸荠
 biran 必然
-biren 鄙人
+biren 鄙人 逼人
 biru 比如
 bisai 比赛
 bishe 毕设
@@ -1198,7 +1198,7 @@ duochu 多处
 duoci 多次
 duoda 多大
 duoduan 多端
-duoduo 多多
+duoduo 多多 咄咄
 duofang 多方
 duoge 多个
 duoji 多机
@@ -3218,6 +3218,7 @@ mianxiang 面向
 mianze 免责
 miao 秒 妙 描 庙 苗 渺 瞄 藐 缪 淼 缈 喵 眇 邈 鹋 杪 仯 吵 媌 嫹 庿 廟 彯 猫 玅 竗 篎 紗 緢 緲 纱 蜱 訬 鱙 鶓
 miaobian 描边
+miaohuizhi 描绘制
 miaorong 缪蓉
 miaosha 秒杀
 miaoshu 描述 秒数
@@ -3880,7 +3881,7 @@ raoguo 绕过
 re 热 惹 喏 偌 捼 渃 熱 若 蹃
 regengxin 热更新
 remen 热门
-ren 任 人 刃 认 忍 仁 韧 纫 饪 壬 仞 稔 葚 荏 妊 轫 衽 亻 仭 儿 刄 姙 屻 忈 忎 恁 扨 朲 杒 栠 栣 梕 棯 涊 牣 秂 秹 紉 紝 絍 綛 纴 肕 腍 芢 荵 菍 袵 訒 認 讱 躵 軔 釰 鈓 銋 靭 靱 韌 飪 餁 魜 鵀
+ren 人 任 刃 认 忍 仁 韧 纫 饪 壬 仞 稔 葚 荏 妊 轫 衽 亻 仭 儿 刄 姙 屻 忈 忎 恁 扨 朲 杒 栠 栣 梕 棯 涊 牣 秂 秹 紉 紝 絍 綛 纴 肕 腍 芢 荵 菍 袵 訒 認 讱 躵 軔 釰 鈓 銋 靭 靱 韌 飪 餁 魜 鵀
 rencai 人才
 renci 人次
 rende 人的
@@ -4007,6 +4008,7 @@ seng 僧 鬙
 senlin 森林
 sha 啥 杀 沙 傻 厦 刹 纱 莎 煞 砂 霎 嗄 挲 歃 鲨 唼 痧 裟 铩 乷 倽 儍 剎 唦 啑 喢 噎 帹 廈 挱 接 摂 摄 摋 攝 杉 榝 樧 殺 濈 猀 硰 箑 粆 紗 繌 繺 翜 翣 菨 萐 蔱 賒 賖 赊 鎩 閯 閷 霅 魦 鯊 鯋
 shadeng 纱灯
+shadiao 杀掉
 shai 晒 筛 酾 摋 攦 曬 殺 篩 簁 簛 籭 繺 色 術 諰 閷
 shaixuan 筛选
 shan 山 删 善 闪 衫 煽 扇 陕 珊 杉 擅 掺 膳 栅 讪 跚 汕 姗 赡 潸 缮 嬗 掸 膻 骟 芟 埏 剡 钐 鄯 舢 苫 髟 疝 蟮 鳝 傓 僐 僤 儃 儋 刪 剼 单 単 單 嘇 圸 墠 墡 壇 姍 嶦 幓 彡 挻 掞 搀 搧 摻 擔 攙 敾 晱 曏 曑 杣 柵 椫 樿 檀 檆 櫼 潬 澘 澹 灗 炶 烻 煔 熌 狦 猭 痁 睒 磰 禪 穇 笘 笧 縿 繕 纔 羴 羶 脠 葠 蔪 蟬 蟺 襂 襳 覢 訕 謆 譱 贍 赸 軕 邓 邖 釤 銏 鐥 閃 閄 閊 陝 顃 顫 颤 饍 騸 鯅 鱓 鱔 鱣 鳣
@@ -5700,7 +5702,7 @@ yiwancheng 已完成
 yiwang 以往 遗忘
 yiwei 以为
 yiwen 一问 译文
-yixia 以下 一下
+yixia 一下 以下
 yixiang 意向
 yixiao 一笑
 yixiashijian 以下事件
@@ -6303,6 +6305,7 @@ zhongyong 中用
 zhongyou 中有
 zhongyu 终于
 zhongyuan 忠愿 中原
+zhongzhao 中找
 zhongzhi 中指 终止
 zhongzhong 中中 种种
 zhongzhuan 中转
