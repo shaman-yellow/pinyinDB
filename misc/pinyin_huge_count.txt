@@ -1,4 +1,4 @@
-abeiliya 4
+abeiliya 5
 anzhuang 1
 bei 1
 biaoshi 1
@@ -44,6 +44,7 @@ shangqu 1
 shizai 1
 shun 1
 shuo 10
+shuode 1
 ta 7 5 1
 wo 10
 wokan 1
@@ -61,7 +62,7 @@ yiwei 2
 youyao 1
 zhege 3
 zheli 1
-zheme 2
+zheme 3
 zhenshi 1
 zhongyu 1
 zhui 1
