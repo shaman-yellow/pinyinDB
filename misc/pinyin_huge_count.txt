@@ -9,7 +9,7 @@ geini 1
 he 1
 hong 3
 honghongli 1
-hongli 2
+hongli 3
 jie 1
 jihui 1
 keneng 1
@@ -19,6 +19,7 @@ meiyou 2
 mofa 1
 nawo 1
 ni 1
+niyao 1
 qi 1
 qiang 1
 qixi 1
@@ -26,7 +27,7 @@ rangni 1
 shangqu 1
 shizai 1
 shun 1
-shuo 6
+shuo 7
 ta 2 1
 wo 9
 wokan 1
