@@ -6,9 +6,9 @@ biaoshi 1
 bu 1
 buzuo 1
 chongxin 1
-d 5
+d 6
 da 1 1
-danshi 5
+danshi 6
 dao 2
 de 1
 dong 1
@@ -16,11 +16,13 @@ dongxi 1
 dui 1
 gao 1
 geini 1
+genben 1
 he 3
 henjiu 1
 hong 3
 honghongli 1
 hongli 5
+hua 1 1
 huida 1
 jie 1
 jihui 1
@@ -32,6 +34,8 @@ keyi 1
 l 16
 meiyou 2
 mofa 1
+na 1
+nabian 1
 nande 1
 nawo 2
 ni 2
