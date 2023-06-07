@@ -1,16 +1,19 @@
-abeiliya 5
+abeiliya 6
 anzhuang 1
 bei 1
+biaoda 1
 biaoshi 1
+bu 1
 buzuo 1
 chongxin 1
-d 4
+d 5
 da 1 1
 danshi 5
 dao 2
 de 1
 dong 1
 dongxi 1
+dui 1
 gao 1
 geini 1
 he 3
@@ -24,9 +27,9 @@ jihui 1
 jing 1
 jiudao 1
 ken 1
-keneng 1
+keneng 2
 keyi 1
-l 13
+l 16
 meiyou 2
 mofa 1
 nande 1
@@ -37,15 +40,17 @@ nizai 1
 qi 1
 qiang 1
 qidai 1
+qiwang 1
 qixi 1
 rang 1
 rangni 1
 shangqu 1
 shizai 1
 shun 1
-shuo 10
+shuo 11
 shuode 1
 ta 7 5 1
+tai 1
 wo 10
 wokan 1
 wom 1
@@ -64,7 +69,8 @@ zhege 3
 zheli 1
 zheme 3
 zhenshi 1
+zhijie 1
 zhongyu 1
 zhui 1
 zhuyi 1
-ziji 1
+ziji 2
