@@ -55,7 +55,7 @@ conglai 1
 cui 1
 cuicu 4
 cuo 3
-d 151
+d 153
 da 3 2
 daan 4
 dabi 1
@@ -68,11 +68,11 @@ daliang 1
 dan 1
 dangshi 1
 danshen 3
-danshi 18
+danshi 19
 danxin 1
 dao 8
 daying 2
-de 7 4 1
+de 7 5 1
 dedao 1
 dianding 1
 diao 1
@@ -152,7 +152,7 @@ hong 5
 honghongli 1
 hongli 22
 hongyi 4
-hongyishui 15
+hongyishui 16
 hou 2
 houguo 1
 hua 5 1 1
@@ -170,7 +170,7 @@ jieting 1
 jiewei 3
 jihu 1
 jihua 1
-jihui 1
+jihui 3
 jing 1
 jinguan 1
 jinhou 1
@@ -189,16 +189,17 @@ kaishi 4
 kandao 1
 kangyi 1
 kanjian 2
+ke 1
 ken 1
 kending 1
 keneng 5
 keshi 1
-keyi 4
+keyi 5
 kua 1
 kuai 2
 kunjing 1
 kuzi 1
-l 104
+l 106
 la 1
 lai 1
 laishuo 4
@@ -211,6 +212,7 @@ lijie 3
 likai 2
 lingwai 1
 lishi 3
+liushi 1 1
 liyou 4
 luxian 1
 man 1
@@ -231,7 +233,7 @@ mouge 1
 na 13 2 2
 nabian 1
 naer 1 1
-nage 14 10
+nage 15 11
 nali 4 1
 name 1
 nande 1
@@ -321,7 +323,7 @@ sui 1
 suo 1
 suowei 1
 suoyou 2
-ta 137 10 6
+ta 139 10 6
 tai 3
 taiduo 1
 tan 2
@@ -415,13 +417,14 @@ yiyang 4
 yiyi 1
 yizhang 2
 yizhi 2
-you 2 3
+you 3 4
 youhen 1
 youren 1
 yousuo 1
 youyao 1
 youyige 1
 youyu 1
+yu 1
 yuanqu 1
 yuanyi 1
 yuanyin 1
@@ -453,7 +456,7 @@ zhijie 1
 zhineng 5
 zhiqian 2
 zhisheng 2
-zhishi 6 6
+zhishi 7 7
 zhiyao 3
 zhong 4
 zhongyao 1
