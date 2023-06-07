@@ -45,8 +45,8 @@ chun 1
 cong 2
 cui 1
 cuicu 3
-cuo 1
-d 106
+cuo 2
+d 107
 da 3 2
 daan 4
 dabi 1
@@ -155,6 +155,7 @@ jiushi 2
 jiuxing 1
 jiuyao 1
 jixu 1
+jue 1
 juede 6
 kai 1
 kaishi 3
@@ -246,7 +247,7 @@ shangxia 1
 she 1
 sheng 1
 shengyin 2
-shi 10 1
+shi 12 1
 shihe 1
 shijian 1
 shiye 1
@@ -372,7 +373,7 @@ zhijie 1
 zhineng 3
 zhiqian 2
 zhisheng 2
-zhishi 2 2
+zhishi 4 3
 zhong 3
 zhongyao 1
 zhongyu 2
