@@ -26,6 +26,7 @@ keyi 1
 l 10
 meiyou 2
 mofa 1
+nande 1
 nawo 2
 ni 2
 niyao 1
@@ -38,7 +39,7 @@ shangqu 1
 shizai 1
 shun 1
 shuo 9
-ta 4 3 1
+ta 4 4 1
 wo 10
 wokan 1
 wom 1
