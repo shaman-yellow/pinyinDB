@@ -21,7 +21,9 @@ bushi 2
 buxiang 1
 buyao 1
 buzuo 1
+caiyou 1
 caochang 1
+chadao 1
 cheng 1
 chengwei 1
 chi 1
@@ -32,6 +34,7 @@ chuandi 1
 chufa 1
 cong 1
 cuicu 3
+cuo 1
 d 67
 da 3 2
 dabi 1
@@ -39,11 +42,11 @@ daijia 1
 daitu 1
 daliang 1
 dan 1
-danshi 10
+danshi 11
 danxin 1
-dao 4
+dao 5
 daying 2
-de 3 1
+de 4 1
 dili 1
 diu 1
 dong 5
@@ -73,6 +76,7 @@ genben 1
 geng 1
 gongzuo 1
 gu 1
+guande 1
 guanjian 1
 guo 1
 hai 2 1
@@ -87,9 +91,9 @@ hei 1
 henjiu 1
 hong 5
 honghongli 1
-hongli 21
-hongyi 2
-hongyishui 3
+hongli 22
+hongyi 3
+hongyishui 4
 hou 1
 hua 3 1
 hui 2 1
@@ -109,19 +113,19 @@ jiushi 1
 jiuxing 1
 jiuyao 1
 jixu 1
-juede 4
+juede 5
 kai 1
 kandao 1
 kangyi 1
 kanjian 2
 ken 1
 kending 1
-keneng 3
+keneng 4
 keyi 1
 kua 1
 kuai 1
 kuzi 1
-l 61
+l 63
 la 1
 lianshang 1
 likai 2
@@ -129,6 +133,8 @@ liyou 4
 maocaogan 1
 mayi 1
 me 1
+mei 1
+meiguanxi 1
 meiyou 7
 mingming 2 1
 mofa 1
@@ -186,7 +192,7 @@ shuoguo 1
 shuoming 4
 sixing 1
 suowei 1
-ta 46 5 1
+ta 47 5 1
 tai 2
 tan 1
 tao 1
@@ -203,7 +209,7 @@ wazi 1
 wei 1
 wen 1
 wennuan 1
-wo 19
+wo 20
 wojuede 1
 wokan 1
 wom 2
@@ -212,7 +218,7 @@ wufa 2
 wuxing 1
 xia 2
 xian 1
-xiang 3 1
+xiang 3 2
 xianzai 7
 xiaoshi 1
 xiaqu 1
@@ -226,7 +232,7 @@ xuyao 3
 ya 1
 yali 1
 yan 1
-yao 6
+yao 7
 yaoshi 4
 yi 1
 yifen 1
@@ -234,7 +240,7 @@ yifu 2
 yige 1
 yijing 1
 yikuai 1
-yisi 1
+yisi 2
 yiwei 2
 yixia 2 3
 yizhang 2
@@ -259,6 +265,7 @@ zhengzai 1
 zhenshi 1
 zheshi 1
 zhexie 1
+zheyang 1
 zhidao 2
 zhijie 1
 zhineng 2

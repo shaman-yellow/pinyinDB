@@ -475,6 +475,7 @@ chabie 差别
 chabo 插播
 chabuduo 差不多
 chacuo 差错
+chadao 岔到
 chadian 茶点
 chaduo 差多
 chafang 茶坊
@@ -1669,6 +1670,7 @@ guajian 挂件
 guan 关 管 观 官 馆 惯 冠 贯 罐 灌 棺 莞 倌 纶 掼 盥 涫 鳏 鹳 丱 串 卝 婠 悹 悺 慣 懽 摜 斡 果 桄 樌 櫬 權 毌 沦 泴 淉 淪 潅 爟 琯 瓘 痯 瘝 癏 矔 矜 礶 祼 窤 筦 綸 罆 舘 菅 萖 蒄 覌 観 觀 貫 躀 輨 遦 錧 鏆 鑵 閞 関 闗 關 雚 館 鰥 鱞 鱹 鳤 鵍 鸛
 guanbi 关闭
 guanche 贯彻
+guande 管得
 guandian 观点
 guandiao 关掉
 guanfang 官方
