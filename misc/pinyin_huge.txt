@@ -933,7 +933,7 @@ dazhi 大志
 dazi 打字
 dazuo 大作
 dazuozhan 大作战
-de 得 的 地 德 锝 嘚 底 徳 恴 悳 惪 棏 淂 登 鍀 陟
+de 得 地 的 德 锝 嘚 底 徳 恴 悳 惪 棏 淂 登 鍀 陟
 debiao 的表
 dechen 的陈
 dechu 得出
@@ -1501,6 +1501,7 @@ ganhuo 干货
 ganjin 赶紧 干劲
 ganjue 感觉
 ganran 感染
+ganshou 感受
 ganxie 感谢
 ganying 感应
 gao 高 搞 告 稿 糕 膏 皋 羔 睾 槁 藁 缟 篙 镐 诰 槔 杲 郜 锆 勂 吿 咎 夰 峼 暠 槀 槹 橰 檺 櫜 浩 滜 澔 獋 獔 皐 睪 祮 祰 禞 稁 稾 筶 縞 羙 臯 菒 蒿 藳 誥 鋯 鎬 韟 餻 髙 鷎 鷱 鼛
@@ -1530,6 +1531,7 @@ gaoyu 高于
 gaoyuan 高原
 gaozhi 告知
 gaozhong 高中
+gazheyang 咖这样
 ge 歌 个 各 格 革 哥 戈 隔 葛 割 阁 胳 搁 疙 咯 鸽 嗝 骼 颌 屹 搿 膈 镉 纥 袼 仡 鬲 塥 圪 哿 舸 铬 硌 虼 介 佫 佮 個 匌 可 合 吤 呄 嘅 嘢 噶 彁 愅 戓 戨 扢 挌 擱 敋 杚 槅 櫊 浩 滆 滒 澔 牫 牱 犵 猲 獦 砝 秴 箇 紇 肐 臈 臵 茖 菏 蓋 蛒 蛤 裓 觡 詥 諽 謌 輵 轕 鉀 鉻 鉿 鎑 鎘 鎶 钾 铪 閘 閣 閤 闸 鞈 鞷 韐 韚 頜 騔 髂 魺 鮥 鮯 鰪 鲄 鴐 鴚 鴿 鵅
 gea 哥啊
 gebie 个别
@@ -1835,6 +1837,7 @@ haizai 还在
 haizao 还早
 han 韩 汉 喊 含 寒 汗 憾 涵 函 翰 撼 罕 旱 捍 酣 悍 憨 晗 瀚 鼾 顸 阚 焊 蚶 焓 颔 菡 撖 邗 邯 仠 佄 傼 兯 凾 厂 厈 咁 哻 唅 嚂 圅 垾 娢 嫨 屽 崡 嵅 嵌 忓 感 扞 攼 旰 晘 晥 暵 桿 梒 椷 榦 欦 歛 汵 泔 浛 浫 涆 淊 淦 滩 漢 澉 澏 澣 灘 熯 爳 猂 琀 甘 甝 皔 睅 矸 笒 筨 糮 肣 莟 蔊 蘫 虷 蛿 蜬 蜭 螒 譀 谽 豃 軒 轩 釬 鈐 銲 鋎 鋡 钤 閈 闞 闬 雗 靬 韓 頇 頜 頷 顄 顩 馠 馯 駻 鬫 魽 鳱 鶾
 hanbing 韩冰
+handeta 喊得她
 hang 行 航 巷 杭 夯 沆 颃 绗 珩 吭 垳 妔 忼 斻 桁 炕 狼 笐 筕 絎 肮 苀 蚢 貥 迒 邟 酐 頏 魧
 hangban 航班
 hangcheng 航程
@@ -3547,6 +3550,7 @@ pengdao 碰到
 penggao 鹏高
 penghe 鹏和
 pengle 碰了
+pengpeng 膨膨
 pengpengche 碰碰车
 pengyong 彭永
 pengyou 朋友
@@ -3807,6 +3811,7 @@ quanliang 全量
 quanmian 全面
 quanmin 全民
 quanping 全屏
+quanquanyou 劝劝诱
 quansheng 全省
 quanshi 全是
 quantao 全套
@@ -3816,6 +3821,7 @@ quanwei 权威
 quanwen 全文
 quanxian 权限
 quanxiao 全校
+quanyou 劝幼
 quanyuan 全院
 quanzhen 全帧
 quba 去吧
@@ -3858,6 +3864,7 @@ qunzi 裙子
 qunzu 群组
 qupiao 取票
 quqi 曲奇
+ququ 区区
 qushe 取舍
 qushi 趋势 趣事
 quxian 曲线
@@ -4248,7 +4255,7 @@ shiwei 视为
 shiwo 是我
 shiwu 事务
 shixi 实习
-shixian 实现
+shixian 实现 视线
 shixiang 事项 是想
 shixiao 失效 时效
 shixiaoxing 时效性
@@ -4501,7 +4508,7 @@ suzhi 素质
 suzhou 苏州
 suzhu 宿主
 suzhuang 诉状
-ta 她 他 它 踏 塔 塌 榻 嗒 蹋 沓 遢 挞 鳎 闼 铊 趿 漯 溻 獭 侤 傝 呾 咜 嚃 嚺 墖 太 崉 拓 搨 搭 撘 撻 榙 毾 涾 湿 溚 澾 濌 濕 牠 狧 獺 祂 禢 荅 褟 誻 譶 蹹 躢 达 迏 迖 逹 達 遝 鉈 錔 鎉 鎑 闒 闟 闥 阘 鞈 鞑 鞜 鞳 韃 鮙 鰨
+ta 她 它 他 踏 塔 塌 榻 嗒 蹋 沓 遢 挞 鳎 闼 铊 趿 漯 溻 獭 侤 傝 呾 咜 嚃 嚺 墖 太 崉 拓 搨 搭 撘 撻 榙 毾 涾 湿 溚 澾 濌 濕 牠 狧 獺 祂 禢 荅 褟 誻 譶 蹹 躢 达 迏 迖 逹 達 遝 鉈 錔 鎉 鎑 闒 闟 闥 阘 鞈 鞑 鞜 鞳 韃 鮙 鰨
 tachuan 它传
 tade 他的 她的
 tahe 他和
@@ -4552,6 +4559,7 @@ taoyuan 韬远
 taozhuang 套装
 taren 他人
 tashi 踏实
+tata 她她
 tawen 他文
 tawo 他我
 te 特 忑 忒 慝 铽 匿 式 犆 職 脦 蚮 螣 蟘 貣 貸 贷 鋱
@@ -4775,6 +4783,7 @@ tuopu 拓扑
 tuoru 拖入
 tuoshan 妥善
 tuotuo 拖拖
+tuoxie 妥协
 tuozhan 拓展
 tupian 图片
 tupo 突破
@@ -4921,6 +4930,7 @@ weixian 危险
 weixianweixin 危险微信
 weixie 威胁
 weixin 微信
+weiyan 威严
 weiyi 唯一 位移
 weiyu 位于
 weiyuan 委员
@@ -5103,6 +5113,7 @@ xiangna 翔那
 xiangnong 响浓
 xiangpu 相扑
 xiangqi 想起
+xiangqilai 响起来
 xiangqing 详情
 xiangrikui 向日葵
 xiangshan 香山
@@ -5168,6 +5179,7 @@ xiaohai 小孩
 xiaohao 消耗
 xiaohe 校和
 xiaohei 小黑
+xiaohuata 笑话她
 xiaohui 销毁
 xiaoji 校级
 xiaojia 销假
@@ -5767,6 +5779,7 @@ youguan 有关
 youhan 有韩
 youhao 友好
 youhe 有何
+youhen 又很
 youhua 优化
 youhui 又会 优惠
 youhuiquan 优惠券
