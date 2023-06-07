@@ -63,6 +63,7 @@ shuo 12
 shuode 1
 ta 8 5 1
 tai 1
+tietu 1
 wo 12
 wokan 1
 wom 1
