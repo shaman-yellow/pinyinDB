@@ -7,8 +7,9 @@ bu 1
 buxiang 1
 buzuo 1
 chongxin 1
-d 11
+d 14
 da 1 1
+daitu 1
 danshi 6
 dao 2
 de 1
