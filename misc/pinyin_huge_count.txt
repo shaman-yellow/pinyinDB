@@ -4,11 +4,12 @@ biaoshi 1
 buzuo 1
 chongxin 1
 d 1
+danshi 1
 geini 1
 he 1
 hong 3
 honghongli 1
-hongli 1
+hongli 2
 jie 1
 jihui 1
 keneng 1
@@ -17,9 +18,10 @@ l 7
 meiyou 1
 qiang 1
 rangni 1
+shangqu 1
 shizai 1
 shuo 4
-ta 1
+ta 2 1
 wo 9
 wom 1
 xiang 1
@@ -27,7 +29,9 @@ xing 1
 xinren 1
 xuyao 1
 ya 1
+yiwei 1
 zhege 1
 zheli 1
 zheme 2
 zhenshi 1
+zhui 1
