@@ -330,7 +330,7 @@ bukao 补考
 buke 补课 不可
 bulai 不来
 buli 不利
-buliao 不了
+buliao 不了 布料
 bulun 不论
 buman 不满
 bumei 不昧
@@ -3138,6 +3138,7 @@ manrizhi 慢日志
 manyao 慢摇
 manzu 满足
 mao 帽 毛 冒 猫 贸 矛 貌 茅 茂 髦 卯 耄 瑁 锚 懋 袤 铆 峁 牦 蟊 泖 昴 茆 旄 蝥 瞀 侔 冃 冇 冐 勖 務 堥 夘 媢 嵍 愗 戼 描 暓 枆 楙 毣 毷 氂 渵 牟 犛 獏 皃 眊 秏 笷 緢 罞 耗 芼 萺 蓩 蛑 蝐 覒 貇 貓 貿 軞 鄚 鄮 酕 鉚 鉾 錨 霿 髳 鶜
+maocaogan 毛糙感
 maochong 冒充
 maodian 锚点
 maoyu 冒雨
@@ -3302,7 +3303,7 @@ muqian 目前
 muyuan 墓园
 muzhi 拇指
 n 嗯 唔 咹 哏
-na 哪 拿 那 呢 纳 娜 呐 捺 钠 镎 肭 衲 乸 內 内 南 吶 呶 嗱 妠 抐 拏 挐 淰 秅 笚 笝 箬 篛 納 絮 蒘 蒳 袦 訤 詉 誽 豽 貀 蹃 軜 郍 鈉 鎿 雫 靹 魶
+na 那 哪 拿 呢 纳 娜 呐 捺 钠 镎 肭 衲 乸 內 内 南 吶 呶 嗱 妠 抐 拏 挐 淰 秅 笚 笝 箬 篛 納 絮 蒘 蒳 袦 訤 詉 誽 豽 貀 蹃 軜 郍 鈉 鎿 雫 靹 魶
 nabian 那边
 nachu 拿出
 naer 哪儿 那儿
