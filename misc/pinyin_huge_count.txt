@@ -23,9 +23,10 @@ hai 1
 he 3
 hei 1
 henjiu 1
-hong 3
+hong 4
 honghongli 1
 hongli 7
+hongyi 1
 hua 1 2
 hui 1
 huida 1
