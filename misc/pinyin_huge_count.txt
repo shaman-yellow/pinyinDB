@@ -17,6 +17,7 @@ keyi 1
 l 7
 meiyou 2
 mofa 1
+nawo 1
 ni 1
 qi 1
 qiang 1
@@ -25,7 +26,7 @@ rangni 1
 shangqu 1
 shizai 1
 shun 1
-shuo 5
+shuo 6
 ta 2 1
 wo 9
 wokan 1
@@ -37,7 +38,7 @@ xuyao 1
 ya 1
 yan 1
 yiwei 1
-zhege 2
+zhege 3
 zheli 1
 zheme 2
 zhenshi 1
