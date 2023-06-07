@@ -7,7 +7,7 @@ bu 1
 buxiang 1
 buzuo 1
 chongxin 1
-d 10
+d 11
 da 1 1
 danshi 6
 dao 2
@@ -26,7 +26,7 @@ henjiu 1
 hong 3
 honghongli 1
 hongli 6
-hua 1 1
+hua 1 2
 hui 1
 huida 1
 huixiang 1
@@ -47,6 +47,7 @@ nande 1
 nao 1
 nawo 2
 ni 2
+nishuo 1
 niyao 1
 nizai 1
 qi 1
