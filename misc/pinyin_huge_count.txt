@@ -437,7 +437,7 @@ zhege 15
 zheli 1
 zheme 11
 zhendong 1
-zhengge 2
+zhengge 3
 zhengshi 1
 zhengzai 1
 zhenshi 2
