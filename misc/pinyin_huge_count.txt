@@ -4,9 +4,10 @@ bei 1
 biaoda 1
 biaoshi 1
 bu 1
+buxiang 1
 buzuo 1
 chongxin 1
-d 6
+d 8
 da 1 1
 danshi 6
 dao 2
@@ -16,12 +17,14 @@ dongxi 1
 dui 1
 gao 1
 geini 1
+geizheer 1
 genben 1
 he 3
+hei 1
 henjiu 1
 hong 3
 honghongli 1
-hongli 5
+hongli 6
 hua 1 1
 huida 1
 jie 1
@@ -32,6 +35,7 @@ ken 1
 keneng 2
 keyi 1
 l 16
+la 1
 meiyou 2
 mofa 1
 na 1
@@ -51,15 +55,15 @@ rangni 1
 shangqu 1
 shizai 1
 shun 1
-shuo 11
+shuo 12
 shuode 1
 ta 7 5 1
 tai 1
-wo 10
+wo 12
 wokan 1
 wom 1
 wufa 2
-xiang 1
+xiang 2
 xianzai 1
 xing 1
 xinren 1
@@ -70,6 +74,7 @@ yao 1
 yaoshi 1
 yiwei 2
 youyao 1
+zheer 1
 zhege 3
 zheli 1
 zheme 3
