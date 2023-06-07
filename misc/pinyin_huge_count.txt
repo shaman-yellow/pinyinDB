@@ -7,7 +7,7 @@ bu 1
 buxiang 1
 buzuo 1
 chongxin 1
-d 8
+d 9
 da 1 1
 danshi 6
 dao 2
@@ -74,12 +74,14 @@ yao 1
 yaoshi 1
 yiwei 2
 youyao 1
+zai 1
 zheer 1
 zhege 3
 zheli 1
 zheme 3
 zhenshi 1
 zhijie 1
+zhiqian 1
 zhongyu 1
 zhuang 1
 zhui 1
