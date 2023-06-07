@@ -7,7 +7,7 @@ bu 1
 buxiang 1
 buzuo 1
 chongxin 1
-d 9
+d 10
 da 1 1
 danshi 6
 dao 2
@@ -19,6 +19,7 @@ gao 1
 geini 1
 geizheer 1
 genben 1
+hai 1
 he 3
 hei 1
 henjiu 1
@@ -26,7 +27,9 @@ hong 3
 honghongli 1
 hongli 6
 hua 1 1
+hui 1
 huida 1
+huixiang 1
 jie 1
 jihui 1
 jing 1
@@ -41,6 +44,7 @@ mofa 1
 na 1
 nabian 1
 nande 1
+nao 1
 nawo 2
 ni 2
 niyao 1
@@ -57,7 +61,7 @@ shizai 1
 shun 1
 shuo 12
 shuode 1
-ta 7 5 1
+ta 8 5 1
 tai 1
 wo 12
 wokan 1
@@ -74,7 +78,7 @@ yao 1
 yaoshi 1
 yiwei 2
 youyao 1
-zai 1
+zai 2
 zheer 1
 zhege 3
 zheli 1
