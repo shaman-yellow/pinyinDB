@@ -76,6 +76,7 @@ zheme 3
 zhenshi 1
 zhijie 1
 zhongyu 1
+zhuang 1
 zhui 1
 zhuyi 1
 ziji 2
