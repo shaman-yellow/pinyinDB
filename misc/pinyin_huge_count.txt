@@ -10,6 +10,7 @@ biaoda 1
 biaoshi 2
 bie 1
 bixu 3
+bozi 1
 bu 3
 budui 1
 bugan 1
@@ -31,7 +32,7 @@ chuandi 1
 chufa 1
 cong 1
 cuicu 3
-d 66
+d 67
 da 3 2
 dabi 1
 daijia 1
