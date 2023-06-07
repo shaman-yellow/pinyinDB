@@ -3,9 +3,12 @@ anzhuang 1
 bei 1
 biaoda 1
 biaoshi 1
+bie 1
 bu 1
+buneng 1
 buxiang 1
 buzuo 1
+chengwei 1
 chongxin 1
 chufa 1
 d 15
@@ -31,7 +34,7 @@ hong 5
 honghongli 1
 hongli 8
 hongyi 2
-hongyishui 1
+hongyishui 2
 hou 1
 hua 1 2
 hui 1
@@ -66,17 +69,19 @@ qidai 1
 qiwang 1
 qixi 1
 rang 1
-rangni 1
+rangni 2
 shangqu 1
+shi 1 1
 shizai 1
 shun 1
-shuo 13
+shuo 15
 shuode 1
 suowei 1
-ta 10 5 1
+ta 11 5 1
 tai 1
 tietu 1
-wo 12
+tu 1
+wo 13
 wokan 1
 wom 1
 wufa 2
@@ -91,6 +96,7 @@ yan 1
 yao 2
 yaoshi 1
 yiwei 2
+yousuo 1
 youyao 1
 youyu 1
 zai 3
