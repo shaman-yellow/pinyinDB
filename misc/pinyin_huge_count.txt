@@ -125,6 +125,7 @@ fu 1
 fubu 1
 fudan 1
 ga 1
+gai 1
 gan 2
 ganbu 1
 gandao 1
