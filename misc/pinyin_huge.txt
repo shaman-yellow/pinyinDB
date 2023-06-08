@@ -114,6 +114,7 @@ baoxiang 包厢
 baoxiao 报销
 baoxiu 报修
 baoyan 报验
+baoyi 报以
 baoyou 抱有
 baozha 爆炸
 baozhang 保障
@@ -6329,6 +6330,7 @@ zhongqing 中青
 zhongqiu 中秋
 zhongren 众人
 zhongshan 中山
+zhongshang 重赏
 zhongshi 重视
 zhongshuo 中说
 zhongtu 中途

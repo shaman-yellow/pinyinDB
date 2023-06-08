@@ -11,6 +11,7 @@ banfa 1
 bangni 1
 bankuai 1
 baofu 3 1
+baoyi 1
 bei 16
 beibei 1
 beibiwunai 1
@@ -85,7 +86,7 @@ dailai 2
 daima 1
 daitu 2
 daliang 1
-dan 4
+dan 5
 dangshi 1
 danshen 3
 danshi 26
@@ -260,7 +261,7 @@ kangyi 1
 kanjian 4
 ke 1
 ken 2
-kending 1
+kending 2
 keneng 9
 keshi 1
 keyi 5
@@ -270,7 +271,7 @@ kuai 4
 kuaile 1
 kunjing 1
 kuzi 1
-l 154
+l 155
 la 1
 lai 5
 laishuo 7
@@ -625,6 +626,7 @@ zhixu 1
 zhiyao 6
 zhiyou 1
 zhong 4
+zhongshang 2
 zhongyao 2
 zhongyu 2
 zhongzhao 1
