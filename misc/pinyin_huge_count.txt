@@ -22,7 +22,7 @@ biaoda 1
 biaoshi 4
 bie 1
 bing 2
-bingbu 1
+bingbu 2
 bingwei 1
 biren 3 2
 bixu 4
@@ -67,7 +67,7 @@ chufa 1
 chulai 1
 chun 1
 chuxian 1
-cong 4
+cong 6
 conglai 1
 cui 1
 cuicu 6
@@ -282,7 +282,7 @@ liangci 2
 lianshang 1
 lianxu 1
 lijie 3
-likai 2
+likai 3
 limian 1
 ling 1
 lingwai 1
@@ -311,7 +311,7 @@ mofa 1
 mosuo 1
 mouge 1
 n 1
-na 16 2 2
+na 17 2 2
 nabian 1
 nachu 1
 naer 2 2
@@ -386,7 +386,7 @@ renwei 3
 renyuan 1
 renzhen 2
 rong 1 1
-ru 4 1
+ru 5 1
 ruan 2
 ruci 5
 ruguo 2
@@ -427,7 +427,7 @@ shuai 1
 shui 1 1
 shuijiao 1
 shuju 2
-shun 2
+shun 3
 shuo 48
 shuode 2
 shuoguo 1
