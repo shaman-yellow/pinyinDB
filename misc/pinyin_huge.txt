@@ -127,6 +127,8 @@ bawo 把握
 bazhan 霸占
 bazhi 把值
 bei 被 背 北 备 悲 辈 杯 倍 贝 碑 卑 蓓 惫 悖 狈 呗 焙 鹎 孛 邶 陂 埤 碚 褙 鐾 鞴 萆 钡 俻 俾 偝 偹 備 僃 哱 唄 喺 垻 怫 愂 憊 揹 昁 杮 柸 桮 梖 棑 棓 椑 波 牬 犕 狽 珼 琲 痺 盃 禙 箃 糒 苝 茀 菩 萯 葡 藣 蛽 蜚 襬 誖 諀 貝 跋 軰 輩 鄁 鉳 鋇 錍 鐴 骳 鵯
+beibei 被被
+beibiwunai 被逼无奈
 beida 北大
 beifen 备份
 beijing 背景 北京
@@ -328,6 +330,7 @@ bujin 不仅
 buju 布局 不惧
 bukao 补考
 buke 补课 不可
+buken 不肯
 bulai 不来
 buli 不利
 buliao 不了 布料
@@ -546,6 +549,7 @@ che 车 彻 撤 扯 澈 掣 坼 砗 伡 俥 偖 勶 呫 唓 喢 多 夛 奲 宅 
 chedi 彻底
 chedui 车队
 chen 晨 辰 陈 称 沉 尘 臣 趁 衬 郴 谶 琛 忱 嗔 伧 抻 谌 宸 榇 龀 碜 侲 傖 儭 嚫 堪 塡 填 塵 墋 夦 帘 愖 捵 揨 敐 曟 枕 桭 棧 棽 樄 櫬 沈 湛 瀋 烥 煁 疢 疹 瘎 瘨 眈 瞋 硶 磣 稱 綝 縝 缜 肜 胂 茞 莀 莐 蔯 薼 螴 襯 訦 諃 諶 謓 謲 讖 賝 贂 趂 趻 跈 踸 軙 迧 醦 鈂 鍖 闖 闯 陳 霃 鷐 麎 齓 齔
+chenchi 沉迟
 chendian 沉淀
 cheng 成 称 程 城 承 诚 盛 乘 呈 撑 惩 澄 秤 瞠 橙 噌 逞 铛 丞 骋 埕 枨 塍 铖 裎 酲 柽 蛏 乗 伥 侱 倀 偁 僜 净 呛 嗆 埩 堘 塖 娍 宬 峸 嵊 庱 徎 徴 徵 悜 憆 憕 懲 抢 挰 掁 搶 摚 摤 撐 撜 敞 朾 棖 棦 椉 槍 樘 橕 橖 檉 檙 氶 泟 洆 浈 浧 浾 淨 溗 澂 瀓 瀞 爯 牚 珵 珹 琤 瑲 畻 盯 睈 矃 碀 稱 穪 窚 竀 筬 絾 緽 脀 脭 荿 虰 蟶 觕 誠 赪 赬 趟 踜 蹦 郕 郢 醒 鋮 鎗 鏳 鏿 鐺 阷 靗 頳 饓 騁 騬 鯎 黨
 chengang 陈钢
@@ -773,6 +777,7 @@ cunzai 存在
 cunzaiyu 存在于
 cuo 错 措 搓 挫 撮 磋 蹉 矬 嵯 脞 痤 瘥 鹾 厝 锉 剉 剒 夎 嵳 庴 摧 昔 最 棤 澨 營 瑳 睉 縒 莝 莡 蒫 蓌 蔖 虘 襊 諎 躜 躦 逪 遳 酂 酇 醝 銼 錯 髊 鹺 齹
 cuoci 措辞
+cuocuoshi 错错失
 cuoshi 措施
 cuowei 错位
 cuowu 错误
@@ -1097,6 +1102,7 @@ diyan 低盐
 diyao 地要
 diyi 第一
 diyige 第一个
+diyitian 第一天
 diyu 地域 低于
 dizeng 递增
 dizhi 地址
@@ -1656,8 +1662,10 @@ gou 够 购 构 狗 沟 勾 苟 钩 觏 篝 垢 佝 岣 诟 鞲 笱 枸 遘 媾 
 goucheng 构成
 goujia 构架
 goujian 构建 构件
+goulai 勾来
 goumai 购买
 goumang 够忙
+gouren 勾人
 gousi 构思
 goutong 沟通
 gouxiang 构想
@@ -1807,6 +1815,7 @@ haiba 海拔
 haibao 海报
 haibei 还被
 haibu 还不
+haide 孩得
 haidei 还得
 haifeng 海峰
 haige 海哥
@@ -2443,6 +2452,7 @@ jingguo 经过
 jinghua 精化
 jingji 经济
 jingjian 精简
+jingju 警局
 jingli 经理 经历
 jingong 仅供
 jingqing 敬请
@@ -3351,6 +3361,7 @@ nawo 那我
 naxie 哪些 那些
 nayang 那样
 nayou 哪有
+nayouyitian 哪有一天
 nazhong 那种
 nazui 那最
 ne 呢 讷 那 呐 吶 哪 抐 疒 疔 眲 訥
@@ -3478,6 +3489,7 @@ nou 耨 啂 嬬 搙 擩 槈 檽 獳 羺 譨 譳 鎒 鐞
 nu 怒 努 奴 弩 驽 胬 孥 仅 伖 伮 傉 呶 帑 搙 擩 砮 笯 褥 詉 駑
 nuan 暖 奻 渜 湪 濡 煖 煗 餪
 nue 婩 虐 疟 硸
+nuedaikuang 虐待狂
 nuli 努力
 nuo 挪 诺 懦 糯 喏 搦 傩 锘 儺 吶 呐 堧 娜 媠 嫷 愞 懧 掉 掿 搙 搻 梛 榒 橠 毭 渪 稬 穤 糑 糥 耎 袲 袳 諾 蹃 逽 那 郍 鍩 难 難 需
 nuolan 诺兰
@@ -3512,6 +3524,7 @@ paiqi 排期
 paishang 排上
 paishe 拍摄
 paixu 排序
+paizi 拍子
 pan 判 盘 盼 叛 畔 潘 攀 拚 蹒 磐 爿 蟠 番 襻 袢 泮 乑 伴 冸 半 卞 坢 姍 姗 媻 审 宷 審 幋 弁 彦 扳 拌 搫 柈 槃 沜 洀 湴 溿 瀊 瀋 炍 片 牉 牓 畨 皤 盤 盻 眅 眫 碆 磻 籓 縏 繁 胖 膰 般 蒰 螌 褩 詊 跘 踫 蹣 鄱 鋬 鎜 鑻 闆 鞶 頖 鵥
 panbie 判别
 panbo 潘波
@@ -3792,6 +3805,7 @@ qiyi 歧义 其一
 qiyong 启用 弃用
 qiyu 其余
 qiyuan 起源
+qiyue 契约
 qizai 其在
 qizhi 起止
 qizhong 其中 期中
@@ -3849,6 +3863,7 @@ quezai 却在
 qufen 区分
 qufeng 曲风
 qujian 区间
+quke 躯壳
 quku 曲库
 qule 去了
 qulou 去喽
@@ -5588,6 +5603,7 @@ yidi 一地
 yidian 已点 一点
 yiding 一定 议定
 yidong 移动 易懂
+yidu 一度
 yiduan 一段
 yidui 一堆
 yidun 一顿
@@ -5709,6 +5725,7 @@ yisuo 一所
 yitao 一套
 yiti 一题
 yitian 一天
+yitiao 一跳
 yituo 依托
 yiwai 意外 以外
 yiwancheng 已完成
@@ -6116,7 +6133,7 @@ zhaota 找他
 zhaozhun 找准
 zhashi 扎实
 zhazha 渣渣
-zhe 者 这 着 折 哲 浙 遮 辙 辄 谪 蔗 蛰 褶 鹧 锗 磔 摺 蜇 赭 柘 乇 仛 厇 啠 喆 嗫 嗻 嘀 嚞 囁 埑 堵 嫬 庶 悊 慹 扸 摂 摄 攝 斥 慴 晢 晣 杔 棏 樀 樜 歽 淛 潪 矺 砓 籷 粍 耷 聂 聑 聶 虴 蟄 蟅 袩 褚 襵 詟 謫 謶 謺 讁 讋 軼 輒 輙 轍 轶 這 適 銸 鍺 陬 馲 驝 鮿 鷓 鷙 鸷
+zhe 者 着 这 折 哲 浙 遮 辙 辄 谪 蔗 蛰 褶 鹧 锗 磔 摺 蜇 赭 柘 乇 仛 厇 啠 喆 嗫 嗻 嘀 嚞 囁 埑 堵 嫬 庶 悊 慹 扸 摂 摄 攝 斥 慴 晢 晣 杔 棏 樀 樜 歽 淛 潪 矺 砓 籷 粍 耷 聂 聑 聶 虴 蟄 蟅 袩 褚 襵 詟 謫 謶 謺 讁 讋 軼 輒 輙 轍 轶 這 適 銸 鍺 陬 馲 驝 鮿 鷓 鷙 鸷
 zhebian 这边
 zhecai 这才
 zheci 这次 这词
@@ -6550,7 +6567,7 @@ zunxun 遵循
 zunzhao 遵照
 zunzhong 尊重
 zunzhu 遵嘱
-zuo 左 做 作 乍 佐 侳 凿 咗 唑 嘬 坐 岝 岞 座 怍 挫 捽 昨 柞 柮 椊 琢 砟 祚 秨 稓 笮 筰 糳 繓 胙 苲 莋 葃 葄 蓙 袏 諎 酢 醋 鈼 鑿 阼 飵
+zuo 做 左 作 乍 佐 侳 凿 咗 唑 嘬 坐 岝 岞 座 怍 挫 捽 昨 柞 柮 椊 琢 砟 祚 秨 稓 笮 筰 糳 繓 胙 苲 莋 葃 葄 蓙 袏 諎 酢 醋 鈼 鑿 阼 飵
 zuobian 左边
 zuobiao 坐标
 zuobiaoxi 坐标系

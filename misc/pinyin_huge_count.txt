@@ -1,22 +1,29 @@
-a 3 1
-abeiliya 53
+a 7 1
+abeiliya 73
+an 1
+anpai 1
 anzhuang 1
-ba 12
+ayi 1
+ba 17
+baituo 1
 banfa 1
 bangni 1
 bankuai 1
-bei 10
-bi 1
+bei 16
+beibei 1
+beibiwunai 1
+bi 2
 bian 2
 biaoda 1
-biaoshi 2
+biaoshi 3
 bie 1
 bing 1
+bingbu 1
 bingwei 1
-biren 3 1
+biren 3 2
 bixu 4
 bozi 1
-bu 5
+bu 7
 buduan 3
 budui 1
 bugan 1
@@ -24,17 +31,20 @@ bugou 1
 buguan 3
 buguo 1
 buhui 3
+buken 1
 buman 2
 buneng 3
-bushi 5
+bushi 6
 buxiang 2
-buxin 1
+buxin 2
 buyao 1
+buyiyang 1
 buzuo 1
 caiyou 1
 caochang 1
 chadao 1
 chedi 1
+chenchi 2
 cheng 1
 chengfa 1
 chengwei 1
@@ -50,50 +60,60 @@ chufa 1
 chulai 1
 chun 1
 chuxian 1
-cong 2
+cong 4
 conglai 1
 cui 1
-cuicu 4
-cuo 3
-d 154
+cuicu 6
+cuo 6
+cuocuoshi 1
+d 193
 da 3 2
 daan 4
 dabi 1
 daduan 1
-dai 1
+dai 1 1
 daijia 1
 dailai 1
-daitu 1
+daitu 2
 daliang 1
 dan 1
 dangshi 1
 danshen 3
-danshi 19
+danshi 22
 danxin 1
-dao 9
+dao 12
+daodi 1
+daole 1
 daying 2
-de 7 5 1
+de 8 9 1
 dedao 1
+dezhi 1
+dian 1 1
 dianding 1
+dianji 1
 diao 1
-difang 1
+difang 2
 dili 1
 diu 2
+diyi 1
+diyitian 1
 dong 6
 dongxi 2
 dongzuo 1
-dou 6
+dou 7
 douhao 2
-doushi 3
+doushi 4
 douzai 3
-dui 5
+du 1
+dui 8
+duini 1
 duiyu 3
 duo 1
 duoduo 2 1
 duzhe 3
 duzi 5
 e 1
-erqie 3
+erqie 5
 ershi 1
 eryi 2
 exin 1
@@ -106,107 +126,128 @@ fubu 1
 fudan 1
 ga 1
 gan 2
+ganbu 1
+gandao 1
 gang 1
-ganjue 3
+ganjue 4
 ganshou 1
 gao 1 1
 gaosu 2
 gazheyang 1
-ge 2 1
-gei 5
+ge 3 2
+gei 6
 geini 2
 geizheer 1
-gen 1 1
-genben 1
+gen 2 2
+genben 2
 geng 2
-gongzuo 1
+gengduo 1
+gongzuo 2
 gou 1
+goulai 1
+gouren 1
 gu 1
 guande 1
 guanjian 1
-guo 5
+guanxi 1
+guanxin 1
+gun 1
+guo 6
 guoqu 4
 gushi 17
 h 2
 hai 2 1
+haide 1
 haihui 2
 haimei 1
 haineng 1
 haishi 2
 haixu 1
 haiyao 1
-haiyou 2
-haizai 1
+haiyou 3
+haizai 2
 han 1
 handeta 1
 haochu 1
 haowu 1
-haoxiang 3
-he 12
+haoxiang 8
+he 16
 hei 1
-hen 2
+hen 3
 henduo 1
+henhao 1
 henjiu 1
 henkuai 1
+heshi 1
 hong 5
 honghongli 1
-hongli 24
+hongli 44
 hongyi 4
 hongyishui 16
 hou 2
 houguo 1
-hua 5 1 1
-hui 12 6
-huida 8
+hua 7 1 1
+hui 13 7
+huida 11
+huidao 1
 huixiang 1
 huizhi 2
 huozhe 1
 jianbang 1
+jiang 1
 jianglai 2
 jianxiao 1
+jiaojian 1
 jie 1
 jieduan 2
+jieshao 1
 jieting 1
 jiewei 3
 jihu 1
 jihua 1
-jihui 3
+jihui 4
 jijinjichu 1
 jing 1
+jingju 1
+jingshen 1
 jinguan 1
+jingxin 1
 jinhou 1
-jiu 9
+jishu 1
+jiu 12
 jiudao 1
-jiuhui 5
+jiuhui 6
 jiushi 2
 jiuxing 2
 jiuyao 1
 jixu 1
 jiyi 1
 jue 1
-juede 7
+juede 8
 kai 1
-kaishi 4
+kaishi 5
+kan 4
 kandao 1
 kangyi 1
 kanjian 3
 ke 1
-ken 1
+ken 2
 kending 1
-keneng 5
+keneng 6
 keshi 1
 keyi 5
 kua 1
-kuai 2
+kuai 3
 kunjing 1
 kuzi 1
-l 108
+l 128
 la 1
-lai 1
-laishuo 4
+lai 4
+laishuo 5
 laoshi 1
 leisi 1
-li 1
+li 1 1 1
+liang 1
 liangci 2
 lianshang 1
 lianxu 1
@@ -217,7 +258,9 @@ lingwai 1
 lishi 3
 liushi 1 1
 liyou 4
+lun 1
 luxian 1
+ma 2
 man 1
 mang 2
 maocaogan 1
@@ -225,7 +268,8 @@ mayi 1
 me 1
 mei 2
 meiguanxi 1
-meiyou 11
+meiyou 15
+men 1 1
 mian 2
 mianlin 1
 miaohuizhi 1
@@ -233,107 +277,129 @@ mingming 3 2
 mofa 1
 mosuo 1
 mouge 1
-na 13 2 2
+na 16 2 2
 nabian 1
-naer 1 1
+naer 2 2
 nage 15 11
-nali 4 1
+nai 1
+nali 5 1
 name 1
 nande 1
 nani 1
 nanyi 1
 nao 1
 nawo 3
-naxie 3 3
+naxie 5 5
 nayang 1
+nayou 1
+nayouyitian 1
 ne 3
 neirong 2
-neng 2
-ni 13
+neng 4
+nenggou 1
+ni 15
 nidui 1
 nishi 1
 nishuo 1
 niwei 1
 nixu 1
 niyao 1
-nizai 2
+nizai 5
+nuedaikuang 1
 nuli 1
 nuo 1
+paizi 1
 pan 2
 pao 1
 pengpeng 1
+pian 1
 qi 1
-qian 2
+qian 3
 qiang 1
+qianzi 1
 qidai 1
-qiguai 1
-qilai 3
+qiguai 2
+qilai 4
 qingshi 1 1
+qingxin 1
 qingxu 1
 qipian 2
 qiwang 1
 qixi 2
+qiyue 1
 qu 1
 quanbu 2
 quanquanyou 1
 quanyou 1
-que 2 1
+que 2 2
 queshao 1
+quke 1
 ququ 1
 ran 2
-raner 1
-rang 8
+raner 2
+rang 9
 rangni 2
-ranhou 1
-ren 11 2
-renhe 2
+ranhou 4
+ren 13 2
+renhe 4
 renwei 3
+renyuan 1
 renzhen 2
 rong 1 1
 ru 4 1
 ruan 1
 ruci 3
-sha 2 1
+sha 3 1
 shadiao 1
-shang 6
+shang 8
 shanglai 1
 shangmian 1
 shangqu 2
 shangxia 1
 shaowei 1
 she 1
+sheji 1
 shenbian 1
 sheng 5
 shengyin 19
-shi 18 1 1
+shenti 1
+shi 23 1 1
+shige 1
+shih 1
 shihe 1
 shihou 1
 shijian 2 2
-shijie 2
+shijie 3
+shishui 1
 shiye 1
 shizai 1
 shou 1
 shouduan 1
+shouzhi 1
+shui 1
 shuijiao 1
-shun 1
-shuo 29
+shun 2
+shuo 36
 shuode 2
 shuoguo 1
 shuohua 1
 shuoming 4
 si 1
+sihu 1
 sixing 1
 sui 1
 suo 1
 suowei 1
 suoyou 2
-ta 139 10 6
+ta 163 10 8
 tai 3
 taiduo 1
 taitou 1
+tamen 1
 tan 2
 tao 1
 tata 1
+tian 1
 tiao 2
 tiaojian 2
 tietu 1
@@ -356,27 +422,33 @@ wazi 1
 wei 7
 weisheng 1
 weiyan 1
-wen 2
+wen 3
+wenjian 2
 wennuan 1
-wenti 5
+wenti 9
 wenzi 1
-wo 31
+wo 36
 wojuede 1
 wokan 1
 wom 2
 woshuo 1
+wu 1
+wubi 1 1
 wufa 4
+wuliao 1
 wuxing 1
-xia 3
+xia 4
 xialai 1
 xian 1
-xiang 3 4
+xiang 6 5
 xiangfa 1
+xiangqi 1
 xiangqilai 1
 xiangxiang 1
-xiangxin 1
+xiangxin 2
 xiangyao 1
-xianzai 11
+xiansuo 1
+xianzai 12
 xiaohuata 2
 xiaoshi 3
 xiaqu 2
@@ -394,20 +466,26 @@ xuduo 2
 xuyao 4
 ya 3
 yali 1
-yan 1
+yan 3
 yang 2
-yanjing 1
+yanjing 2
+yanshen 1
 yao 11
-yaoshi 7
-ye 2 1
+yaoshi 8
+ye 3 2
 yebu 1
+yehui 1
 yejiu 2
 yi 2
+yiding 1
+yidu 1
+yiduan 1
 yifen 1
 yifu 2
-yige 18
+yige 21
 yihan 1
 yijing 1
+yikao 1
 yikuai 1
 yinggai 1
 yinwei 1
@@ -415,14 +493,16 @@ yiqi 2
 yiran 1
 yishi 2
 yisi 2
-yitian 1
-yiwei 3
+yitian 2
+yitiao 1
+yiwei 4
 yixia 4 2
-yiyang 4
+yiyang 9
 yiyi 1
 yizhang 2
 yizhi 2
-you 3 4
+yong 3
+you 6 7
 youhen 1
 youren 1
 yousuo 1
@@ -435,34 +515,37 @@ yuanyi 1
 yuanyin 1
 yushi 2
 yuzhou 1
-zai 37 2
+zai 45 2
 zaiyu 1
 zaizhe 1
 zenme 1
 zhan 2 1
-zhe 2
-zheer 4
-zhege 15
-zheli 1
-zheme 11
+zhe 5 5 4
+zheer 5
+zhege 17
+zheli 5
+zheme 13
 zhendong 1
+zhengchang 1
 zhengge 3
 zhengshi 1
-zhengzai 1
-zhenshi 2
+zhengzai 3
+zhenshi 3
 zheshi 2
-zhexie 3
+zhewei 1
+zhexie 5
 zheyang 6
 zhi 1
-zhidao 5
+zhidao 6
 zhide 1
 zhihou 1
 zhijie 1
 zhineng 5
 zhiqian 2
 zhisheng 2
-zhishi 7 7
-zhiyao 3
+zhishi 9 7
+zhiyao 4
+zhiyou 1
 zhong 4
 zhongyao 1
 zhongyu 2
@@ -471,17 +554,22 @@ zhuai 1
 zhuan 1
 zhuang 1
 zhuangban 1
+zhuangtai 1
+zhuanjia 1
 zhuazhu 1
 zhui 2
 zhunbei 1
+zhuomian 1
 zhuti 1
-zhuyi 2
-zi 1
-ziji 7
+zhuyi 3
+zi 3
+ziji 8
+ziwo 1
 zou 4
 zugou 1
 zui 2
 zuihou 3
-zuo 1 2
+zuo 5 1
+zuozai 1
 zuozhe 1
 zuzhi 1
