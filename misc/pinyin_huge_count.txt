@@ -76,7 +76,7 @@ cuicu 6
 cunzai 3
 cuo 6
 cuocuoshi 1
-d 244
+d 245
 da 3 2
 daan 4
 dabi 1
@@ -264,7 +264,7 @@ kanjian 4
 ke 1
 ken 2
 kending 2
-keneng 10
+keneng 11
 keshi 1
 keyi 5
 kongjian 2
@@ -445,6 +445,7 @@ sui 2
 suo 1
 suowei 1
 suoyou 5
+suozai 1
 ta 217 13 8
 tai 3
 taiduo 1
