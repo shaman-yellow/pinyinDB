@@ -2405,6 +2405,7 @@ jijian 基建 肌腱
 jijiang 即将
 jijiekou 即接口
 jijin 极尽
+jijinjichu 挤进挤出
 jiju 集聚 急剧 几句
 jike 即可
 jilei 积累 基类 几类

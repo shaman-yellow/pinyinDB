@@ -1,11 +1,11 @@
 a 3 1
 abeiliya 53
 anzhuang 1
-ba 11
+ba 12
 banfa 1
 bangni 1
 bankuai 1
-bei 9
+bei 10
 bi 1
 bian 2
 biaoda 1
@@ -55,7 +55,7 @@ conglai 1
 cui 1
 cuicu 4
 cuo 3
-d 153
+d 154
 da 3 2
 daan 4
 dabi 1
@@ -70,7 +70,7 @@ dangshi 1
 danshen 3
 danshi 19
 danxin 1
-dao 8
+dao 9
 daying 2
 de 7 5 1
 dedao 1
@@ -78,7 +78,7 @@ dianding 1
 diao 1
 difang 1
 dili 1
-diu 1
+diu 2
 dong 6
 dongxi 2
 dongzuo 1
@@ -150,7 +150,7 @@ henjiu 1
 henkuai 1
 hong 5
 honghongli 1
-hongli 23
+hongli 24
 hongyi 4
 hongyishui 16
 hou 2
@@ -171,6 +171,7 @@ jiewei 3
 jihu 1
 jihua 1
 jihui 3
+jijinjichu 1
 jing 1
 jinguan 1
 jinhou 1
@@ -188,7 +189,7 @@ kai 1
 kaishi 4
 kandao 1
 kangyi 1
-kanjian 2
+kanjian 3
 ke 1
 ken 1
 kending 1
@@ -199,10 +200,11 @@ kua 1
 kuai 2
 kunjing 1
 kuzi 1
-l 106
+l 108
 la 1
 lai 1
 laishuo 4
+laoshi 1
 leisi 1
 li 1
 liangci 2
@@ -242,7 +244,7 @@ nani 1
 nanyi 1
 nao 1
 nawo 3
-naxie 2 3
+naxie 3 3
 nayang 1
 ne 3
 neirong 2
@@ -298,6 +300,7 @@ shanglai 1
 shangmian 1
 shangqu 2
 shangxia 1
+shaowei 1
 she 1
 shenbian 1
 sheng 5
@@ -327,6 +330,7 @@ suoyou 2
 ta 139 10 6
 tai 3
 taiduo 1
+taitou 1
 tan 2
 tao 1
 tata 1
