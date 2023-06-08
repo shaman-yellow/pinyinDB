@@ -156,7 +156,7 @@ guo 6
 guoqu 4
 gushi 17
 h 2
-hai 2 1
+hai 2 2
 haide 1
 haihui 2
 haimei 1
@@ -391,7 +391,7 @@ sui 1
 suo 1
 suowei 1
 suoyou 2
-ta 163 10 8
+ta 164 10 8
 tai 3
 taiduo 1
 taitou 1
