@@ -2057,6 +2057,7 @@ huanju 欢聚
 huanle 欢乐
 huanmu 环幕
 huanshan 环山
+huanshang 换上
 huansuan 换算
 huantai 换胎
 huanwei 换为
@@ -5610,7 +5611,7 @@ yiceng 一层
 yichang 异常 一场 已唱
 yichu 移除 溢出
 yici 一次 以此 依次
-yidao 驿道
+yidao 驿道 移到
 yideng 一等
 yidi 一地
 yidian 已点 一点

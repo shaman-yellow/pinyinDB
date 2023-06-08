@@ -69,14 +69,14 @@ chufa 1
 chulai 1
 chun 1
 chuxian 1
-cong 6
+cong 7
 conglai 1
 cui 1
 cuicu 6
 cunzai 3
 cuo 6
 cuocuoshi 1
-d 246
+d 247
 da 3 2
 daan 4
 dabi 1
@@ -92,7 +92,7 @@ dangshi 2
 danshen 3
 danshi 27
 danxin 1
-dao 15 1
+dao 16 1
 daochu 1
 daodi 2
 daole 1
@@ -197,6 +197,7 @@ haowu 1
 haoxiang 9
 he 19
 hei 2
+heise 1
 hen 5
 henduo 1
 henhao 1
@@ -214,6 +215,8 @@ hou 3
 houguo 2
 houtui 1
 hua 9 1 1
+huan 1
+huanshang 1
 hui 16 11
 huida 14
 huidao 1
@@ -386,6 +389,7 @@ ran 2
 raner 2
 rang 11
 rangni 2
+rangta 1 1
 ranhou 5
 ren 17 2
 renhe 4
@@ -397,10 +401,10 @@ ru 5 1
 ruan 2
 ruci 5
 ruguo 2
-ruhe 2
+ruhe 3
 sha 3 2
 shadiao 1
-shang 11
+shang 12
 shanglai 1
 shangmian 1
 shangqu 2
@@ -414,7 +418,7 @@ shenghuo 1
 shengyin 19
 shenti 1
 shenzhi 1
-shi 32 1 1
+shi 33 1 1
 shifou 1
 shige 1
 shih 1
@@ -608,7 +612,7 @@ zaizhe 1
 zenme 1
 zhan 2 1
 zhe 9 8 9
-zheer 5
+zheer 6
 zhege 17
 zheli 7
 zheme 16
