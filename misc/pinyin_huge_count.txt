@@ -568,7 +568,7 @@ yidu 1
 yiduan 1
 yifen 1
 yifu 2
-yige 24
+yige 25
 yihan 1
 yijing 2
 yikao 1
@@ -667,6 +667,7 @@ zui 2
 zuihou 4
 zuo 8 1
 zuobu 1
+zuole 1
 zuozai 1
 zuozhe 1
 zuzhi 1
