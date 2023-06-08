@@ -74,7 +74,7 @@ cuicu 6
 cunzai 3
 cuo 6
 cuocuoshi 1
-d 239
+d 240
 da 3 2
 daan 4
 dabi 1
