@@ -356,6 +356,7 @@ qian 5
 qiang 2
 qianzi 1
 qidai 1
+qiebu 1
 qiguai 2
 qilai 6
 qingshi 1 1
