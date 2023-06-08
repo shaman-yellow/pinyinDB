@@ -90,7 +90,7 @@ daliang 1
 dan 6
 dangshi 2
 danshen 3
-danshi 26
+danshi 27
 danxin 1
 dao 15 1
 daodi 2
@@ -412,7 +412,7 @@ shenghuo 1
 shengyin 19
 shenti 1
 shenzhi 1
-shi 31 1 1
+shi 32 1 1
 shifou 1
 shige 1
 shih 1
@@ -608,7 +608,7 @@ zhan 2 1
 zhe 9 8 9
 zheer 5
 zhege 17
-zheli 6
+zheli 7
 zheme 16
 zhendong 1
 zhengchang 1
