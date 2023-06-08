@@ -435,7 +435,7 @@ shui 1 1
 shuijiao 1
 shuju 2
 shun 3
-shuo 48
+shuo 49
 shuode 2
 shuoguo 1
 shuohua 1
