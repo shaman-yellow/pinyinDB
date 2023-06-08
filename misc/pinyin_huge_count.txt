@@ -131,7 +131,7 @@ ershi 1
 eryi 2
 exin 1
 fabu 1
-fang 4
+fang 4 1
 fangai 1
 fangda 1
 faxian 1
@@ -311,10 +311,11 @@ mofa 1
 mosuo 1
 mouge 1
 n 1
-na 17 2 2
+na 18 2 2
 nabian 1
 nachu 1
 naer 2 2
+nafang 1
 nage 15 11
 nai 1
 nali 5 1
