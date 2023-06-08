@@ -76,7 +76,7 @@ cuicu 6
 cunzai 3
 cuo 6
 cuocuoshi 1
-d 245
+d 246
 da 3 2
 daan 4
 dabi 1
@@ -88,7 +88,7 @@ daima 1
 daitu 2
 daliang 1
 dan 6
-dangshi 1
+dangshi 2
 danshen 3
 danshi 26
 danxin 1
@@ -202,6 +202,7 @@ heni 1
 henjiu 1
 henkuai 1
 heshi 2
+hexia 1
 hong 5
 honghongli 1
 hongli 48
@@ -319,7 +320,7 @@ nabian 1
 nachu 1
 naer 2 2
 nafang 1
-nage 15 11
+nage 17 12
 nai 1
 nali 5 1
 name 2
@@ -337,7 +338,7 @@ ne 3
 neirong 2
 neng 6
 nenggou 1
-ni 16
+ni 17
 niba 1
 nidui 1
 nishi 1
@@ -381,7 +382,7 @@ quke 1
 ququ 1
 ran 2
 raner 2
-rang 10
+rang 11
 rangni 2
 ranhou 5
 ren 17 2
@@ -504,14 +505,14 @@ wubi 1 1
 wufa 7
 wuliao 1
 wuxing 1
-xia 5
+xia 6
 xiaba 1
 xialai 1
 xian 2
 xiang 7 5
 xiangbei 1
 xiangfa 1
-xiangqi 2
+xiangqi 3
 xiangqilai 1
 xiangxiang 2
 xiangxin 2
