@@ -75,7 +75,7 @@ cuicu 6
 cunzai 3
 cuo 6
 cuocuoshi 1
-d 240
+d 241
 da 3 2
 daan 4
 dabi 1
@@ -320,7 +320,7 @@ nafang 1
 nage 15 11
 nai 1
 nali 5 1
-name 1
+name 2
 nande 1
 nani 1
 nanyi 1
