@@ -50,6 +50,7 @@ caiyou 1
 caochang 1
 caozong 2
 chadao 1
+changqi 1
 chaoqi 1
 chedi 1
 chenchi 2
@@ -75,7 +76,7 @@ cuicu 6
 cunzai 3
 cuo 6
 cuocuoshi 1
-d 241
+d 243
 da 3 2
 daan 4
 dabi 1
@@ -112,7 +113,7 @@ diyitian 1
 dong 6
 dongxi 3
 dongzuo 1
-dou 9
+dou 11
 douhao 2
 doushi 4
 douzai 3
@@ -123,6 +124,7 @@ duini 3
 duiyu 4
 duo 1
 duoduo 2 1
+duoshu 1
 duzhe 3
 duzi 5
 e 1
@@ -271,7 +273,7 @@ kuai 4
 kuaile 1
 kunjing 1
 kuzi 1
-l 155
+l 156
 la 1
 lai 5
 laishuo 7
@@ -301,7 +303,7 @@ me 1
 mei 2
 meiguanxi 1
 meiyou 18
-men 1 2
+men 3 1
 meng 1
 mian 2
 mianlin 1
@@ -356,7 +358,7 @@ pengpeng 1
 pian 1
 qi 2
 qian 5
-qiang 2
+qiang 3
 qianzi 1
 qidai 1
 qiebu 1
@@ -382,7 +384,7 @@ raner 2
 rang 10
 rangni 2
 ranhou 5
-ren 16 2
+ren 17 2
 renhe 4
 renwei 3
 renyuan 1
@@ -503,7 +505,8 @@ xia 5
 xiaba 1
 xialai 1
 xian 2
-xiang 6 5
+xiang 7 5
+xiangbei 1
 xiangfa 1
 xiangqi 2
 xiangqilai 1
@@ -561,7 +564,7 @@ yijing 2
 yikao 1
 yikuai 1
 yinggai 1
-yinwei 1
+yinwei 2
 yiqi 2
 yiqie 1
 yiran 1
@@ -597,7 +600,7 @@ zaiyu 1
 zaizhe 1
 zenme 1
 zhan 2 1
-zhe 8 8 9
+zhe 9 8 9
 zheer 5
 zhege 17
 zheli 6
