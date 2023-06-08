@@ -129,7 +129,7 @@ duoshu 1
 duzhe 3
 duzi 5
 e 1
-er 1 1
+er 2 1
 erqie 5
 ershi 1
 eryi 2
@@ -164,6 +164,7 @@ gen 2 2
 genben 3
 geng 2
 gengduo 1
+gong 1
 gongzuo 2
 gou 2
 goulai 1
@@ -639,6 +640,7 @@ zhongshang 2
 zhongyao 2
 zhongyu 2
 zhongzhao 1
+zhu 1
 zhuai 1
 zhuan 1
 zhuang 1
