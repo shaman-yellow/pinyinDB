@@ -23,7 +23,7 @@ biaoda 1
 biaoshi 4
 bie 1
 bing 2
-bingbu 2
+bingbu 3
 bingwei 1
 biren 3 2
 bixu 4
@@ -36,7 +36,7 @@ bugan 1
 bugou 2
 buguan 3
 buguo 1
-buhui 4
+buhui 5
 buken 1
 buman 2
 buneng 4
