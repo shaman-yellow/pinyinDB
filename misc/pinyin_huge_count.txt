@@ -434,7 +434,7 @@ wom 2
 woshuo 1
 wu 1
 wubi 1 1
-wufa 4
+wufa 5
 wuliao 1
 wuxing 1
 xia 4
