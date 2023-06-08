@@ -4932,6 +4932,7 @@ weiguan 微观
 weihai 危害
 weihe 为何
 weihu 维护
+weihuo 为祸
 weiji 危机 微机
 weijian 未见
 weikong 为空
@@ -6026,6 +6027,7 @@ zaishuo 再说
 zaiti 载体
 zaiwai 在外 再歪
 zaiwen 再问 再温
+zaiwenwu 再温无
 zaixia 在下
 zaixian 在线
 zaixiao 在小

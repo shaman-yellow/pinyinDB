@@ -76,7 +76,7 @@ cuicu 6
 cunzai 3
 cuo 6
 cuocuoshi 1
-d 243
+d 244
 da 3 2
 daan 4
 dabi 1
@@ -219,7 +219,7 @@ huizhi 2
 huozhe 1
 jianbang 1
 jiang 1
-jianglai 2
+jianglai 3
 jiangyao 1
 jianxiao 1
 jiaojian 1
@@ -264,7 +264,7 @@ kanjian 4
 ke 1
 ken 2
 kending 2
-keneng 9
+keneng 10
 keshi 1
 keyi 5
 kongjian 2
@@ -445,7 +445,7 @@ sui 2
 suo 1
 suowei 1
 suoyou 5
-ta 215 13 8
+ta 217 13 8
 tai 3
 taiduo 1
 taitou 1
@@ -480,7 +480,8 @@ wangluo 2
 wangshang 1
 wangzhan 2
 wazi 1
-wei 8
+wei 9
+weihuo 1
 weile 2
 weisheng 1
 weituo 2
@@ -497,7 +498,7 @@ wokan 1
 wom 2
 woshuo 1
 woyao 1
-wu 1
+wu 1 1
 wubi 1 1
 wufa 7
 wuliao 1
@@ -597,6 +598,7 @@ yunxu 1
 yushi 2
 yuzhou 1
 zai 55 3
+zaiwenwu 1
 zaiyu 1
 zaizhe 1
 zenme 1
