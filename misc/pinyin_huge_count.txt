@@ -468,7 +468,7 @@ quke 1
 ququ 1
 ran 2
 raner 6
-rang 18
+rang 19
 rangni 2
 rangren 1
 rangta 1 1
