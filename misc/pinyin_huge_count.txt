@@ -155,7 +155,7 @@ dou 15
 douhao 2
 doushi 4
 douzai 3
-du 2
+du 3
 duanzan 1
 dui 13
 duini 3
@@ -229,7 +229,7 @@ guanxin 1
 guanyu 2
 guanyuan 1
 gun 1
-guo 12
+guo 13
 guodu 1
 guolai 1
 guoqu 5
@@ -265,7 +265,7 @@ heshi 2
 hexia 1
 hong 8
 honghongli 1
-hongli 61
+hongli 62
 hongmo 1
 hongyi 8
 hongyishui 20
@@ -363,7 +363,7 @@ kuaile 1
 kunhuo 1
 kunjing 1
 kuzi 1
-l 223
+l 225
 la 1
 lai 11
 laishuo 7
@@ -371,6 +371,7 @@ laizi 1
 laoshi 1
 leisi 1
 li 7 6 2 1
+lia 1
 liang 2
 liangci 2
 liangdi 1
@@ -522,7 +523,7 @@ ruguo 2
 ruhe 4
 sha 5 3
 shadiao 1
-shang 21
+shang 22
 shanglai 1
 shangmian 1
 shangqu 2
@@ -666,7 +667,7 @@ wuliao 1
 wuxing 1
 wuzhu 2
 wuzhuduzi 1
-xia 7
+xia 8
 xiaba 2
 xialai 2
 xian 2
@@ -727,7 +728,7 @@ yaohe 1
 yaoqiu 1
 yaoshi 9
 yaru 1
-ye 5 5
+ye 6 5
 yebu 2
 yehui 1
 yejiu 2
@@ -878,6 +879,7 @@ zuobu 1
 zuole 1
 zuoqilai 1
 zuoxia 1
+zuoyan 2
 zuozai 2
 zuozhe 2
 zuzhi 1 1
