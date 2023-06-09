@@ -1,5 +1,5 @@
 a 7 1
-abeiliya 112
+abeiliya 114
 ai 2
 an 4
 anpai 1
@@ -102,7 +102,7 @@ cunzai 3
 cuo 7
 cuocuoshi 1
 cuoshi 1 1
-d 386
+d 388
 da 3 3
 daan 4
 dabi 1
@@ -248,7 +248,7 @@ haiyou 8
 haizai 3
 han 1
 handeta 1
-hao 1 1
+hao 1 2
 haochu 1
 haowu 1
 haoxiang 12
@@ -551,7 +551,7 @@ shih 1
 shihe 1
 shihou 2
 shijian 4 5 1
-shijie 5
+shijie 6
 shike 1
 shiqing 2
 shiren 1
@@ -637,7 +637,7 @@ wanhao 1
 wanquan 1
 wanzou 1
 wazi 1
-wei 11
+wei 12
 weichi 1
 weihuo 1
 weile 3
@@ -664,6 +664,7 @@ wu 1 1 1
 wubi 1 1
 wufa 7
 wuliao 1
+wuqu 1
 wuxing 1
 wuzhu 2
 wuzhuduzi 1
@@ -686,7 +687,7 @@ xiansuo 1
 xianzai 18
 xiao 2
 xiaohuata 2
-xiaoshi 3
+xiaoshi 3 1
 xiaoxi 3
 xiaoxin 1
 xiaqu 3
@@ -743,7 +744,7 @@ yidu 3
 yiduan 1
 yifen 1
 yifu 2
-yige 29
+yige 30
 yihan 1
 yijia 1
 yijing 2
@@ -803,7 +804,7 @@ zhan 2 1
 zhanshi 1
 zhe 17 11 9
 zheer 6
-zhege 21
+zhege 22
 zheli 8
 zheme 18
 zhendong 2

@@ -5370,7 +5370,7 @@ xingdeng 性等
 xingdong 行动
 xingfu 幸福
 xingguan 星官
-xinghao 型号 星号
+xinghao 型号 星号 幸好
 xinghe 性和
 xingma 行吗
 xingme 行么
