@@ -1236,7 +1236,7 @@ dute 独特
 duxie 读写
 duzhan 独占
 duzhe 读者
-duzi 肚子
+duzi 肚子 独自
 e 额 俄 恶 饿 哦 鹅 扼 愕 遏 噩 娥 峨 呃 厄 鄂 讹 婀 蛾 轭 颚 鳄 锷 谔 屙 锇 阏 垩 腭 苊 鹗 萼 莪 亚 亜 亞 伪 佮 侉 偔 偽 僞 僫 匎 匼 卾 吪 呝 咢 咹 哑 唖 啈 啊 啐 啞 噁 囐 囮 垭 埡 堊 堨 堮 妸 妿 姶 娾 娿 媕 屵 岋 峉 峩 崿 庵 廅 悪 惡 戹 搕 搤 搹 擜 曷 枙 椏 櫮 欸 歞 歹 歺 洝 涐 湂 玀 珴 琧 痷 皒 睋 砈 砐 砨 砵 硆 硪 磀 礘 胺 蒍 蕚 蘁 蚅 蝁 覨 訛 詻 誐 諤 譌 讍 豟 軛 軶 輵 迗 遌 遻 邑 鈋 鋨 鍔 鑩 閜 閼 阨 阸 阿 隘 頞 頟 額 顎 餓 餩 騀 鬲 魤 魥 鰐 鰪 鱷 鴳 鵈 鵝 鵞 鶚 齃 齶 齾
 ei 诶 欸
 ele 饿了
@@ -4354,7 +4354,7 @@ shouqi 收齐 收起
 shouqiang 手枪
 shouquan 授权
 shouru 收入
-shoushang 手上
+shoushang 手上 受伤
 shoushen 收审
 shousuo 收缩
 shoutang 手烫
@@ -5179,6 +5179,7 @@ xiangxun 详询
 xiangyao 想要
 xiangying 相应 响应
 xiangyou 向右 向有
+xiangzisha 想自杀
 xianhai 线还
 xianhe 仙鹤
 xianjiang 现将
@@ -6312,6 +6313,7 @@ zhitou 指头
 zhiwai 之外
 zhiwang 指望
 zhiwei 职位 指委
+zhiwen 质问
 zhixia 之下
 zhixiang 指向
 zhixie 致谢
@@ -6631,6 +6633,7 @@ zuohao 做好
 zuoji 座机
 zuole 做了 作了
 zuopin 作品
+zuoqilai 坐起来
 zuoshangjiao 左上角
 zuoshi 做事
 zuotan 座谈
