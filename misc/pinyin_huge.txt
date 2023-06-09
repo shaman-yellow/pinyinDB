@@ -105,6 +105,7 @@ baokao 报考
 baokuo 包括
 baole 报了
 baoliu 保留
+baolu 暴露
 baomi 保密
 baoming 包名 报名
 baomu 报幕
@@ -281,7 +282,7 @@ biye 毕业
 biyou 必有
 biyu 比喻
 bo 播 波 博 伯 勃 薄 拨 泊 柏 剥 玻 驳 卜 脖 搏 膊 饽 簸 掰 舶 跛 礴 菠 帛 铂 钵 渤 檗 钹 擘 箔 趵 孛 鹁 踣 亳 啵 仢 佛 侼 僠 僰 剝 募 哱 噃 嚗 壆 妭 孹 嶓 帗 彴 怕 愽 懪 拍 拔 挬 撥 擗 暴 服 柭 桲 榑 檘 欂 殕 泼 浡 淿 湐 潑 潘 瀑 煿 爆 牔 犦 犻 狛 猼 瓝 瓟 番 癶 發 白 百 皪 盋 砵 碆 磻 礡 秡 穛 笩 箥 簙 簿 糪 紴 缽 肑 胉 般 艊 艴 苩 茀 茷 菩 葧 蒲 蔔 蔢 蕃 薜 蘖 蘗 蚾 袚 袯 袹 襎 襏 襮 詙 譒 豰 跑 蹳 郣 鈸 鉑 鉢 鋍 鎛 鑮 镈 餑 餺 馎 馛 馞 駁 駮 驋 髆 髉 魄 鮁 鮊 鱍 鲅 鲌 鵓
-bodong 波动
+bodong 波动 搏动
 bodun 博顿
 bofang 播放
 bofangde 播放的
@@ -293,6 +294,7 @@ boshi 博士
 botang 波汤
 boye 播也
 boyi 博弈
+bozhuang 波状
 bozi 脖子
 bu 不 补 捕 步 部 布 怖 卜 簿 哺 埔 卟 埠 钸 逋 醭 晡 瓿 钚 佈 僕 勏 吥 咘 埗 堡 婄 尃 峬 庯 廍 悑 抪 拊 捗 捬 撲 擈 柨 歨 歩 溥 獛 秿 箁 篰 荹 蔀 薄 補 誧 踄 輹 轐 郶 鈈 鈽 附 陠 鞴 餔 餢 鯆 鳪 鵏 鸔
 buban 补办
@@ -780,7 +782,7 @@ cunzaiyu 存在于
 cuo 错 措 搓 挫 撮 磋 蹉 矬 嵯 脞 痤 瘥 鹾 厝 锉 剉 剒 夎 嵳 庴 摧 昔 最 棤 澨 營 瑳 睉 縒 莝 莡 蒫 蓌 蔖 虘 襊 諎 躜 躦 逪 遳 酂 酇 醝 銼 錯 髊 鹺 齹
 cuoci 措辞
 cuocuoshi 错错失
-cuoshi 措施
+cuoshi 措施 错视
 cuowei 错位
 cuowu 错误
 cuowuma 错误码
@@ -882,7 +884,7 @@ danxin 担心
 danye 但也 单也 单页
 danyi 单一
 danyou 但有 担忧 但又
-danyuan 单元
+danyuan 单元 但愿
 danzai 但在
 dao 到 刀 导 倒 道 岛 悼 盗 蹈 捣 祷 叨 稻 忉 帱 氘 纛 俦 儔 刂 受 啁 嘄 噵 壔 宲 導 屶 島 嶋 嶌 嶹 幬 忑 惆 捯 搗 擣 朷 椡 槝 檤 檮 洮 涛 濤 焘 燾 瓙 盜 禂 禱 稲 箌 絩 翢 翿 舠 菿 薵 虭 衜 衟 裯 軇 醻 釖 陦 陶 隝 隯 魛 鱽 鳥 鸟
 daochu 到处 导出
@@ -1087,6 +1089,7 @@ dingyu 定于
 dingzhang 订张
 dingzhi 定制
 dingzhu 叮嘱
+dipan 地盘
 diqi 底气
 diqiu 地球
 diqu 地区
@@ -1225,6 +1228,7 @@ duoxing 惰性
 duoyong 多用
 duoyu 多余 多于
 duozhong 多种
+duozou 夺走
 duqu 读取
 duse 堵塞
 dute 独特
@@ -1245,6 +1249,7 @@ erding 而定
 erhao 二号
 erji 二级 耳机
 erjinzhi 二进制
+erlai 而来
 erqie 而且
 ersan 二三
 ershi 而是
@@ -1364,6 +1369,7 @@ feichang 非常
 feidao 飞刀 飞到
 feile 费了
 feipin 废品
+feiwu 飞舞
 feixin 飞信
 feiyang 飞扬
 feiye 扉页
@@ -1986,6 +1992,7 @@ honghu 鸿鹄
 hongjie 红姐
 hongle 红了
 hongli 红黎
+hongmo 虹模
 hongqiao 虹桥
 hongse 红色
 hongshan 红山
@@ -2052,7 +2059,7 @@ huanhang 换行
 huanhangfu 换行符
 huanhu 欢呼
 huanjie 环节
-huanjing 环境
+huanjing 环境 幻境
 huanju 欢聚
 huanle 欢乐
 huanmu 环幕
@@ -2147,7 +2154,7 @@ huoshi 或是
 huoshuo 或说
 huowai 或外
 huowei 或为
-huowu 货物
+huowu 货物 活物
 huoyi 获一
 huoyuan 货源
 huoyue 活跃 或曰
@@ -2478,7 +2485,7 @@ jingyin 静音
 jingying 经营 精英
 jingyu 境遇
 jingzheng 竞争
-jingzhi 精致
+jingzhi 精致 静止
 jingzhu 敬祝
 jinhou 今后
 jinhuo 进货
@@ -2743,6 +2750,7 @@ kequn 课群
 keshi 可是 课时
 ketang 课堂
 keti 课题
+kewa 可挖
 kewai 课外
 kexi 可惜
 kexin 可信
@@ -2780,8 +2788,10 @@ koucheng 叩呈
 kouling 口令
 ku 酷 库 苦 哭 裤 枯 窟 骷 刳 堀 喾 绔 俈 古 嚳 圐 圣 崫 庫 扝 挎 捁 掘 搰 朏 桍 楛 泏 焅 狜 瘔 矻 硞 秙 窋 絝 胐 袴 褲 趶 跍 跨 郀 鮬 齁
 kua 跨 夸 垮 挎 胯 侉 咵 姱 恗 晇 楇 絓 舿 華 蕐 袔 誇 銙 錁 锞 顝 骻 髁
+kuabu 跨步
 kuadu 跨度
 kuai 快 块 筷 脍 蒯 哙 侩 狯 浍 郐 傀 儈 凷 噲 圦 塊 墤 巜 廥 擓 旝 會 澮 獪 璯 糩 膾 蒉 蕢 鄶 駃 鬠 魁 鱠 鲙
+kuaibu 快步
 kuaican 快餐
 kuaiji 会计
 kuaijie 快捷
@@ -2898,7 +2908,7 @@ lexiang 了翔
 lexin 了新
 leyuan 乐园
 lezhuan 了砖
-li 理 立 里 力 历 例 利 离 李 礼 丽 励 黎 厉 璃 莉 哩 笠 粒 俐 漓 栗 狸 梨 隶 吏 沥 篱 厘 犁 雳 罹 莅 戾 鲤 俚 砺 藜 俪 蜊 黧 郦 痢 枥 逦 娌 詈 骊 荔 鳢 喱 鹂 嫠 蠡 鬲 鲡 悝 坜 苈 砾 藓 呖 唳 猁 溧 澧 栎 轹 蓠 傈 缡 疠 疬 蛎 锂 篥 粝 跞 醴 仂 位 儮 儷 凓 刕 列 剓 剺 劙 勵 厤 厯 厲 叓 叕 叻 唎 嚟 嚦 囄 囇 塛 壢 娳 婯 孋 孷 屴 岦 峛 峲 巁 廲 悡 悧 悷 慄 扐 扚 捩 搮 擽 攊 攦 攭 斄 暦 曆 曞 朸 柂 栃 栛 栵 梸 棃 棙 樆 檪 櫔 櫟 櫪 欐 欚 歴 歷 氂 沴 沵 泣 浬 涖 淚 濼 濿 瀝 灑 灕 爄 爏 犂 犛 犡 珕 珞 琍 瑮 瓅 瓈 瓑 瓥 癘 癧 皪 盠 盭 睝 矖 砅 砬 硌 磿 礪 礫 礰 禮 禲 秝 穲 竰 筣 籬 粚 粴 糎 糲 綟 縭 纅 纚 翮 脷 艃 苙 茘 荲 菞 蒚 蒞 蔾 藶 蘺 蚸 蛠 蜧 蝕 蝷 蟍 蟸 蠇 蠣 蠫 裏 裡 褵 觻 謧 讈 豊 貍 赲 躒 轢 轣 邌 邐 酈 醨 釃 釐 鉝 銐 鋫 鋰 錅 錑 鎘 鏫 鑗 鑠 铄 镉 隷 隸 離 霾 靂 靋 颯 飒 驪 鬁 鬴 鯉 鯏 鯬 鱧 鱱 鱳 鱺 鳨 鴗 鵹 鷅 鸝 麗 麜
+li 理 里 立 力 历 例 利 离 李 礼 丽 励 黎 厉 璃 莉 哩 笠 粒 俐 漓 栗 狸 梨 隶 吏 沥 篱 厘 犁 雳 罹 莅 戾 鲤 俚 砺 藜 俪 蜊 黧 郦 痢 枥 逦 娌 詈 骊 荔 鳢 喱 鹂 嫠 蠡 鬲 鲡 悝 坜 苈 砾 藓 呖 唳 猁 溧 澧 栎 轹 蓠 傈 缡 疠 疬 蛎 锂 篥 粝 跞 醴 仂 位 儮 儷 凓 刕 列 剓 剺 劙 勵 厤 厯 厲 叓 叕 叻 唎 嚟 嚦 囄 囇 塛 壢 娳 婯 孋 孷 屴 岦 峛 峲 巁 廲 悡 悧 悷 慄 扐 扚 捩 搮 擽 攊 攦 攭 斄 暦 曆 曞 朸 柂 栃 栛 栵 梸 棃 棙 樆 檪 櫔 櫟 櫪 欐 欚 歴 歷 氂 沴 沵 泣 浬 涖 淚 濼 濿 瀝 灑 灕 爄 爏 犂 犛 犡 珕 珞 琍 瑮 瓅 瓈 瓑 瓥 癘 癧 皪 盠 盭 睝 矖 砅 砬 硌 磿 礪 礫 礰 禮 禲 秝 穲 竰 筣 籬 粚 粴 糎 糲 綟 縭 纅 纚 翮 脷 艃 苙 茘 荲 菞 蒚 蒞 蔾 藶 蘺 蚸 蛠 蜧 蝕 蝷 蟍 蟸 蠇 蠣 蠫 裏 裡 褵 觻 謧 讈 豊 貍 赲 躒 轢 轣 邌 邐 酈 醨 釃 釐 鉝 銐 鋫 鋰 錅 錑 鎘 鏫 鑗 鑠 铄 镉 隷 隸 離 霾 靂 靋 颯 飒 驪 鬁 鬴 鯉 鯏 鯬 鱧 鱱 鱳 鱺 鳨 鴗 鵹 鷅 鸝 麗 麜
 lia 俩 倆
 lian 联 连 脸 链 练 恋 怜 莲 廉 炼 帘 敛 涟 镰 殓 琏 楝 裢 裣 蠊 鲢 濂 臁 潋 蔹 奁 亷 令 僆 劆 匲 匳 嗹 噒 堜 奩 娈 媡 嫾 嬚 孌 慩 憐 戀 挛 搛 摙 撿 攣 斂 梿 槏 槤 櫣 欄 歛 殮 浰 湅 溓 漣 澰 濓 瀲 煉 熑 燫 瑓 璉 瞵 磏 稴 簾 籢 籨 練 縺 纞 羷 羸 翴 聨 聫 聮 聯 膦 臉 苓 莶 萰 蓮 薕 薟 蘝 蘞 螊 褳 襝 覝 謰 譧 蹥 連 鄻 醶 錬 鍊 鎌 鏈 鐮 镧 零 鬑 鰊 鰱 鱄 利安
 lianban 联办
@@ -2907,6 +2917,7 @@ liandong 联动
 liang 两 量 亮 良 辆 梁 俩 凉 粮 谅 粱 晾 踉 莨 墚 魉 椋 靓 両 俍 倆 倞 兩 哴 唡 啢 喨 悢 惊 掚 樑 涼 湸 煷 簗 糧 綡 緉 脼 蜋 蜽 裲 諒 蹒 蹣 輌 輛 輬 辌 鍄 閬 阆 靚 駺 魎
 liangce 两侧
 liangci 两次
+liangdi 两滴
 liangdian 两点 亮点
 liangdu 亮度
 liangduan 两段
@@ -3041,6 +3052,7 @@ liuliang 流量
 liunian 刘念
 liushi 流失 流逝
 liutu 流图
+liuwen 流纹
 liuxia 留下
 liuxiao 刘晓
 liuxin 刘欣
@@ -3454,6 +3466,7 @@ nimei 你没
 nimen 你们
 niming 匿名
 nin 您 恁 囜 拰 脌
+ninao 泥淖
 nincong 您从
 ninde 您的
 nineng 你能
@@ -3646,7 +3659,7 @@ pubu 瀑布
 pubushuru 瀑布输入
 puchen 铺陈
 pugongying 蒲公英
-puji 普及
+puji 普及 扑己
 puliang 铺量
 pushi 普适
 putao 葡萄
@@ -4165,6 +4178,7 @@ shengxia 剩下
 shengxiao 生效
 shengxun 声讯
 shengyin 声音
+shengyinkeneng 声音可能
 shengyu 剩余
 shengyuan 生源
 shenhe 审核
@@ -4184,6 +4198,7 @@ shensu 神速
 shenti 身体
 shentou 渗透
 shenwen 审问
+shenxia 身下
 shenyang 沈阳
 shenyou 神游
 shenyuan 甚远 深远
@@ -4268,6 +4283,7 @@ shipin 视频 食品
 shiqi 是其 使其
 shiqing 事情
 shiqu 识曲 失去
+shiren 世人
 shisheng 师生
 shishi 试试 实时 实施 事实 适时
 shishui 是谁
@@ -4374,6 +4390,7 @@ shudao 疏导
 shude 树的
 shudian 书店
 shufa 抒发
+shufu 束缚
 shui 谁 水 税 睡 娷 帨 挩 捝 氵 氺 涗 涚 祱 稅 脽 裞 說 説 誰 说 閖
 shuidian 水电
 shuigai 谁改
@@ -4766,7 +4783,7 @@ tuanyuan 团员
 tubiao 图标 图表
 tubu 图不
 tucao 吐槽
-tuchu 突出
+tuchu 突出 吐出
 tufa 突发
 tuhe 图和
 tui 推 退 腿 褪 颓 蜕 忒 煺 侻 俀 僓 啍 墤 娧 尵 弚 弟 怢 橔 稅 税 穨 聉 脫 脮 脱 蓷 藬 蘈 蛻 謉 讉 蹆 蹪 追 隤 頹 頺 頽 饋 馈 駾 騩 骽 魋
@@ -4946,6 +4963,7 @@ weineng 未能
 weinin 为您
 weiqi 为其
 weiqun 微群
+weirongwu 胃容物
 weiruan 微软 为阮
 weisheng 为省
 weita 为他
@@ -5094,6 +5112,7 @@ wuxu 无需
 wuyi 五一 无疑
 wuyiyi 无意义
 wuyong 误用
+wuzhu 捂住
 xi 西 细 系 息 希 喜 囍 席 习 戏 吸 洗 惜 稀 悉 析 夕 牺 袭 昔 熙 兮 溪 隙 嘻 锡 晰 媳 樨 熄 膝 郗 犀 禧 曦 奚 羲 蹊 唏 淅 嬉 皙 汐 徙 茜 玺 熹 烯 翕 蟋 屣 檄 浠 僖 穸 蜥 隰 觋 螅 铣 菥 葸 蓰 舾 矽 粞 硒 醯 欷 鼷 歙 饩 阋 禊 舄 义 係 俙 傒 凞 匸 卌 卥 卻 厀 吚 呬 呰 咥 咦 咭 唽 噏 嚊 嚱 塈 壐 奊 娭 媐 嬆 宩 屃 屎 屖 屭 嵠 嶍 嶲 巂 巇 廗 徆 徯 忔 忚 忥 怬 怸 恄 悕 惁 愾 慀 憘 憙 戯 戱 戲 扱 扸 摡 撕 擊 既 晞 晳 暿 杫 枲 桸 棲 椞 椺 榽 槢 橀 橲 欪 欯 歖 氣 氥 洒 渓 湿 滊 漇 漝 潝 潟 澙 濕 灑 焁 焈 焟 焬 煕 熂 熈 熺 熻 燍 燨 爔 犔 犠 犧 狶 猎 獡 獻 琋 璽 瓕 瘜 盻 睎 瞦 矖 碏 磶 礂 稧 窸 糦 細 綌 緆 縘 縰 繥 繫 纚 绤 羛 義 習 翖 肸 肹 胁 脅 脇 脋 腊 舃 莃 莔 葈 蒠 蒵 蓆 蔇 蕮 薂 虩 蜤 蜴 蝷 螇 蟢 蠵 衋 裼 褶 襲 覀 覡 覤 觹 觽 觿 訢 詑 誒 諰 謑 謚 謵 譆 诶 谥 谿 豀 豨 豯 貕 赥 赩 趇 趘 蹝 躧 遟 郄 郋 郤 鄎 酅 釐 釳 釸 鈒 鈢 鉨 鉩 銑 錫 錯 鎴 鏭 鑴 钑 错 闟 隟 隵 雟 雭 霫 霼 飁 餏 餙 餼 饻 騱 騽 驨 鬩 鯑 鰓 鰼 鱚 鳃 鳛 鵗 鸂 黖 鼰 鼳
 xia 下 夏 吓 峡 厦 侠 狭 霞 瞎 暇 虾 唬 辖 遐 匣 黠 瑕 呷 狎 柙 硖 瘕 罅 丅 俠 假 傄 叚 呀 哧 嗄 嗑 嚇 圷 埉 夓 夾 岈 峽 廈 徦 懗 押 捾 搳 敮 昰 梺 欱 歃 毳 浃 浹 溊 炠 烚 煆 狹 珨 疜 疨 睱 硤 碬 磍 祫 笚 筪 給 縀 縖 给 翈 舝 舺 芐 葭 蕸 蝦 螛 諕 謑 谺 赮 轄 郃 鍜 鎋 鏬 閕 閜 陜 陿 颬 騢 魻 鰕 鶷
 xiaba 下巴
@@ -5138,7 +5157,7 @@ xiangjiao 橡胶
 xiangjin 详尽
 xiangkuang 相框
 xiangmu 项目
-xiangna 翔那
+xiangna 翔那 像那
 xiangnong 响浓
 xiangpu 相扑
 xiangqi 想起
@@ -5563,6 +5582,7 @@ yaoyong 要用
 yaoyou 要由 要有
 yaoyue 邀约
 yaozai 要在
+yaru 轧入
 yasi 雅思
 yatong 牙痛
 ye 页 也 叶 业 夜 爷 野 液 耶 咽 曳 拽 揶 噎 烨 冶 椰 掖 腋 谒 邺 靥 晔 铘 亪 亱 倻 偞 僷 吔 啘 喝 嘢 嚈 埜 堨 墅 墷 壄 射 峫 嶪 嶫 懕 抴 捓 捙 揞 揲 擖 擛 擨 擪 擫 斜 暍 曄 曅 曗 枒 枼 枽 楪 業 歋 殕 殗 洂 洇 涂 漜 潱 澲 煠 熀 燁 爗 爺 瓛 痷 皣 瞱 瞸 礏 窫 緤 聂 聶 荼 葉 虵 蠮 蠱 謁 邪 鄓 鄴 釶 釾 鋣 鍱 鎁 鎑 鐷 靨 頁 餘 餣 饁 饐 馀 馌 驜 鵺 鸈 黦
@@ -5729,7 +5749,7 @@ yiqu 一趣
 yiran 依然
 yirujiwang 一如既往
 yishang 以上
-yisheng 医生
+yisheng 医生 一声
 yishi 意识 仪式 已是 以示 以十 一时 遗失
 yishigan 仪式感
 yishou 一首
@@ -6148,7 +6168,7 @@ zhaota 找他
 zhaozhun 找准
 zhashi 扎实
 zhazha 渣渣
-zhe 者 着 这 折 哲 浙 遮 辙 辄 谪 蔗 蛰 褶 鹧 锗 磔 摺 蜇 赭 柘 乇 仛 厇 啠 喆 嗫 嗻 嘀 嚞 囁 埑 堵 嫬 庶 悊 慹 扸 摂 摄 攝 斥 慴 晢 晣 杔 棏 樀 樜 歽 淛 潪 矺 砓 籷 粍 耷 聂 聑 聶 虴 蟄 蟅 袩 褚 襵 詟 謫 謶 謺 讁 讋 軼 輒 輙 轍 轶 這 適 銸 鍺 陬 馲 驝 鮿 鷓 鷙 鸷
+zhe 着 这 者 折 哲 浙 遮 辙 辄 谪 蔗 蛰 褶 鹧 锗 磔 摺 蜇 赭 柘 乇 仛 厇 啠 喆 嗫 嗻 嘀 嚞 囁 埑 堵 嫬 庶 悊 慹 扸 摂 摄 攝 斥 慴 晢 晣 杔 棏 樀 樜 歽 淛 潪 矺 砓 籷 粍 耷 聂 聑 聶 虴 蟄 蟅 袩 褚 襵 詟 謫 謶 謺 讁 讋 軼 輒 輙 轍 轶 這 適 銸 鍺 陬 馲 驝 鮿 鷓 鷙 鸷
 zhebian 这边
 zhecai 这才
 zheci 这次 这词
@@ -6225,6 +6245,7 @@ zheshi 这是 这事
 zhesuan 折算
 zheteng 折腾
 zhewei 这位 这为
+zhewen 褶纹
 zhexia 这下
 zhexiang 这项
 zhexie 这些
@@ -6256,7 +6277,7 @@ zhifubao 支付宝
 zhihao 只好
 zhihou 之后 滞后
 zhihui 智慧
-zhijian 之间 质检
+zhijian 之间 质检 指尖
 zhijianzhijie 之间直接
 zhijie 直接
 zhijin 至今
@@ -6353,6 +6374,7 @@ zhongyong 中用
 zhongyou 中有
 zhongyu 终于
 zhongyuan 忠愿 中原
+zhongzai 种在
 zhongzhao 中找
 zhongzhi 中指 终止
 zhongzhong 中中 种种
@@ -6493,7 +6515,7 @@ zige 资格
 zihan 子晗
 zihe 字和
 ziheng 子恒
-ziji 自己
+ziji 自己 渍迹
 zijin 资金
 zijue 自觉
 zikao 自考
@@ -6537,6 +6559,7 @@ zongzai 总在
 zongzhi 总之
 zongzi 粽子
 zou 走 奏 邹 揍 驺 鲰 诹 陬 鄹 偢 媰 掫 搊 族 棷 棸 楱 箃 緅 芻 菆 諏 赱 郰 鄒 騶 鯐 鯫 黀 齱 齺
+zoujin 走近
 zouli 走哩
 zoushi 走时
 zouxiang 走向
@@ -6585,6 +6608,7 @@ zunzhao 遵照
 zunzhong 尊重
 zunzhu 遵嘱
 zuo 做 左 作 乍 佐 侳 凿 咗 唑 嘬 坐 岝 岞 座 怍 挫 捽 昨 柞 柮 椊 琢 砟 祚 秨 稓 笮 筰 糳 繓 胙 苲 莋 葃 葄 蓙 袏 諎 酢 醋 鈼 鑿 阼 飵
+zuoban 坐板
 zuobian 左边
 zuobiao 坐标
 zuobiaoxi 坐标系
