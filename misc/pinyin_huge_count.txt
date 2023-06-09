@@ -94,7 +94,7 @@ cunzai 3
 cuo 7
 cuocuoshi 1
 cuoshi 1 1
-d 342
+d 343
 da 3 2
 daan 4
 dabi 1
@@ -138,6 +138,7 @@ diyitian 1
 dong 14
 dongji 1
 dongli 1
+dongmai 1
 dongxi 3
 dongzuo 1
 dou 15
