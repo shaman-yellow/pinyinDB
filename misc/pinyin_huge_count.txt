@@ -94,7 +94,7 @@ cunzai 3
 cuo 7
 cuocuoshi 1
 cuoshi 1 1
-d 343
+d 345
 da 3 2
 daan 4
 dabi 1
@@ -489,7 +489,7 @@ ruguo 2
 ruhe 3
 sha 4 3
 shadiao 1
-shang 18
+shang 19
 shanglai 1
 shangmian 1
 shangqu 2
@@ -529,7 +529,7 @@ shoudao 1
 shouduan 1
 shoushang 1 1
 shouzhang 1
-shouzhi 2
+shouzhi 3
 shuai 1
 shuang 1
 shufu 1
@@ -552,7 +552,7 @@ suo 3
 suowei 1
 suoyou 6
 suozai 1
-ta 262 13 9
+ta 263 13 9
 tai 3
 taiduo 1
 taitou 2
@@ -573,7 +573,7 @@ tong 4
 tongguo 1
 tongku 2
 tongxing 1
-tou 2
+tou 3
 tu 1
 tuan 1
 tuilikai 1
