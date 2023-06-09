@@ -537,7 +537,7 @@ shui 1 2
 shuijiao 1
 shuju 2
 shun 3
-shuo 50
+shuo 51
 shuode 2
 shuoguo 1
 shuohua 1
@@ -552,7 +552,7 @@ suo 3
 suowei 1
 suoyou 6
 suozai 1
-ta 263 13 9
+ta 264 13 9
 tai 3
 taiduo 1
 taitou 2
