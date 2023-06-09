@@ -94,12 +94,12 @@ cunzai 3
 cuo 7
 cuocuoshi 1
 cuoshi 1 1
-d 345
+d 346
 da 3 2
 daan 4
 dabi 1
 daduan 1
-dai 2 1
+dai 3 1
 daijia 2
 dailai 3
 daima 1
@@ -135,7 +135,7 @@ diu 2
 diushi 1
 diyi 1
 diyitian 1
-dong 14
+dong 15
 dongji 1
 dongli 1
 dongmai 1
@@ -225,7 +225,7 @@ haide 1
 haidei 1
 haihui 3
 haimei 1
-haineng 1
+haineng 2
 haishi 3
 haixu 1
 haiyao 1
@@ -500,6 +500,7 @@ she 1
 sheji 1
 shenbian 1
 sheng 5
+shengdai 1
 shenghuo 1
 shengyin 21
 shengyinkeneng 1
@@ -620,7 +621,7 @@ wuliao 1
 wuxing 1
 wuzhu 1
 xia 7
-xiaba 1
+xiaba 2
 xialai 2
 xian 2
 xiang 7 7
@@ -679,6 +680,7 @@ ye 5 4
 yebu 2
 yehui 1
 yejiu 2
+yeneng 1
 yezai 1
 yi 2
 yibing 1
@@ -744,7 +746,7 @@ zheer 6
 zhege 20
 zheli 7
 zheme 17
-zhendong 1
+zhendong 2
 zheng 2
 zhengchang 1
 zhengge 4
@@ -769,7 +771,7 @@ zhijie 2
 zhiling 1
 zhineng 6
 zhiqian 2
-zhishao 1
+zhishao 2
 zhisheng 2
 zhishi 18 17
 zhiwen 1
