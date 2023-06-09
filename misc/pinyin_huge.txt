@@ -227,6 +227,7 @@ bibao 闭包
 bibei 必备
 biding 必定
 bie 别 憋 瘪 蹩 鳖 別 咇 彆 徶 扒 拔 捌 撆 撇 柭 柲 猰 癟 秘 穪 苾 莂 蔽 虌 蛂 蟞 襒 鱉 鼈 龞
+biebiequ 憋憋屈
 biede 别的
 biehou 别后
 biequ 别去
@@ -1317,7 +1318,7 @@ fangxu 芳徐
 fangyu 防御
 fangzai 放在
 fangzao 仿造
-fangzhen 仿真 方针
+fangzhen 仿真 方针 方阵
 fangzhi 防止
 fangzhu 房主
 fangzi 房子
@@ -1371,6 +1372,7 @@ feile 费了
 feipin 废品
 feiwu 飞舞
 feixin 飞信
+feixuan 飞旋
 feiyang 飞扬
 feiye 扉页
 feiyong 费用
@@ -2623,6 +2625,7 @@ juli 距离 举例
 jumu 巨幕
 jun 均 军 龟 君 俊 峻 钧 隽 筠 菌 郡 骏 竣 麇 皲 捃 浚 儁 勻 匀 呁 埈 姰 寯 懏 攈 旬 晙 桾 汮 濬 焌 焞 燇 狻 珺 畯 皸 皹 碅 箘 箟 莙 葰 蔨 蚐 蜠 袀 覠 訇 軍 鈞 銁 銞 鋆 鍕 陖 雋 餕 馂 駿 鮶 鲪 鵔 鵕 鵘 麏 麕 龜
 jungong 竣工
+junguan 军观
 junheng 均衡
 junjie 俊杰
 junjiu 君就
@@ -3378,7 +3381,7 @@ nashi 那是
 natian 哪天 那天
 nawei 哪位
 nawo 那我
-naxie 哪些 那些
+naxie 那些 哪些
 nayang 那样
 nayou 哪有
 nayouyitian 哪有一天
@@ -5428,6 +5431,7 @@ xuande 选的
 xuanding 选定
 xuanjiang 宣讲
 xuanke 选课
+xuanku 炫酷
 xuanni 选呢
 xuanpin 选聘
 xuanping 炫屏
