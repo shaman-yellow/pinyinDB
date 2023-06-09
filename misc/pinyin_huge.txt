@@ -328,7 +328,7 @@ buhan 不含
 buhao 不好
 buhui 不会
 bujia 不佳
-bujian 部件
+bujian 部件 不见
 bujie 不接
 bujin 不仅
 buju 布局 不惧
@@ -1111,7 +1111,7 @@ diyige 第一个
 diyitian 第一天
 diyu 地域 低于
 dizeng 递增
-dizhi 地址
+dizhi 地址 抵制
 dizi 笛子 弟子
 dong 动 懂 东 冬 洞 冻 董 栋 咚 恫 侗 氡 硐 鸫 岽 垌 峒 胨 胴 倲 働 凍 動 勭 埬 墥 姛 娻 嬞 峝 崠 崬 戙 挏 揰 昸 東 桐 棟 氭 涷 湩 烔 燑 狫 甬 笗 筒 筩 箽 絧 腖 苳 菄 蕫 蝀 衕 詷 諌 迵 酮 霘 駧 騆 鮗 鯟 鶇 鶫 鼕
 dongbei 东北
@@ -1123,6 +1123,7 @@ dongfang 东方
 donggan 动感
 donghe 东河
 donghua 动画
+dongji 动机
 dongjin 董金
 dongli 动力
 dongmai 动脉
@@ -3383,6 +3384,7 @@ nawei 哪位
 nawo 那我
 naxie 那些 哪些
 nayang 那样
+nayitian 哪一天
 nayou 哪有
 nayouyitian 哪有一天
 nazhong 那种
@@ -4225,6 +4227,7 @@ shibai 失败
 shibiao 是表
 shibie 识别
 shibielv 识别率
+shibushi 时不时
 shicha 时差
 shichang 时长 市场
 shici 诗词
@@ -5153,6 +5156,7 @@ xiangge 翔哥
 xiangguan 相关
 xianggui 箱柜
 xianghao 想好
+xianghe 想和
 xianghu 相互
 xiangjia 相加
 xiangjian 详见
@@ -5522,6 +5526,7 @@ yangle 痒了
 yangli 样例
 yanglu 杨璐
 yangming 杨明
+yangqinaodai 仰起脑袋
 yangshi 样式 阳是
 yanguan 验关
 yangxiao 杨晓
@@ -5636,7 +5641,7 @@ yiceng 一层
 yichang 异常 一场 已唱
 yichu 移除 溢出
 yici 一次 以此 依次
-yidao 驿道 移到
+yidao 驿道 移到 一刀
 yideng 一等
 yidi 一地
 yidian 已点 一点
