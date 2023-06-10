@@ -196,6 +196,7 @@ fang 4 2
 fangai 1
 fangda 1
 fangzi 1
+fangzui 1
 fanren 1
 fanshe 1
 faxian 1
@@ -427,6 +428,7 @@ liuwen 1
 liyong 1
 liyou 5
 lu 1
+luanlun 2
 lun 1
 luxian 1
 ma 5
