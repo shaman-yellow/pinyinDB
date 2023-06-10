@@ -697,6 +697,7 @@ chun 纯 春 唇 蠢 醇 淳 椿 鹑 蝽 莼 偆 僢 堾 媋 惷 旾 暙 朐 杶
 chunfeng 春风
 chunjia 春假
 chunjie 春节
+chunmeng 春梦
 chunqing 纯情
 chuo 戳 绰 啜 辍 踔 龊 促 吷 嚽 娕 娖 婥 婼 孎 惙 拺 擉 斫 歠 涰 淖 焯 磭 箹 簇 綴 綽 繛 缀 腏 荃 蔟 趠 趵 跿 踱 躇 輟 辵 辶 逴 酫 醛 鋜 錣 鏃 鑡 镞 齪 齱
 chuohao 绰号
@@ -4253,7 +4254,7 @@ shibie 识别
 shibielv 识别率
 shibushi 时不时
 shicha 时差
-shichang 时长 市场
+shichang 时长 市场 时常
 shici 诗词
 shicong 是从
 shida 师大
