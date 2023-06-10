@@ -864,7 +864,7 @@ yanshi 1
 yanwo 1
 yanxu 1
 yanzhong 2
-yao 30
+yao 31
 yaohe 1
 yaoqiu 1
 yaoshi 12
