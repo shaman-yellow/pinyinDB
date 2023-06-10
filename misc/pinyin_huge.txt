@@ -912,7 +912,7 @@ daoshi 到时 倒是 导师
 daoshu 倒数
 daowo 到我
 daoyan 导演
-daozhi 导致
+daozhi 导致 倒置
 daozhuan 到专
 daozhui 导锥
 dapai 打牌 大牌
@@ -1169,6 +1169,7 @@ duan 端 短 断 段 锻 缎 煅 椴 簖 偳 剬 塅 媏 彖 斷 毈 瑖 碫 篅
 duande 端的
 duandian 断电
 duankai 断开
+duanli 端粒
 duanlian 锻炼
 duanluo 段落
 duanma 短码
@@ -2507,6 +2508,7 @@ jingzheng 竞争
 jingzhi 精致 静止
 jingzhu 敬祝
 jinhou 今后
+jinhua 进化
 jinhuo 进货
 jinian 纪念
 jinji 紧急 禁忌 晋级
@@ -3907,7 +3909,7 @@ quefa 缺乏
 queqie 确切
 queren 确认
 queshao 缺少
-queshi 确实 却是
+queshi 确实 却是 缺失
 quewei 确为
 quexian 缺陷
 quezai 却在
@@ -5954,7 +5956,7 @@ yuangong 员工
 yuangongbiao 员工标
 yuanhu 院胡
 yuanji 院级
-yuanjian 原件
+yuanjian 原件 元件
 yuanjiao 圆角
 yuanlai 原来
 yuanli 原理 院里
