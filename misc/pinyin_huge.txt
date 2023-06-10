@@ -284,6 +284,7 @@ biyao 必要
 biye 毕业
 biyou 必有
 biyu 比喻
+bizhen 逼真
 bo 播 波 博 伯 勃 薄 拨 泊 柏 剥 玻 驳 卜 脖 搏 膊 饽 簸 掰 舶 跛 礴 菠 帛 铂 钵 渤 檗 钹 擘 箔 趵 孛 鹁 踣 亳 啵 仢 佛 侼 僠 僰 剝 募 哱 噃 嚗 壆 妭 孹 嶓 帗 彴 怕 愽 懪 拍 拔 挬 撥 擗 暴 服 柭 桲 榑 檘 欂 殕 泼 浡 淿 湐 潑 潘 瀑 煿 爆 牔 犦 犻 狛 猼 瓝 瓟 番 癶 發 白 百 皪 盋 砵 碆 磻 礡 秡 穛 笩 箥 簙 簿 糪 紴 缽 肑 胉 般 艊 艴 苩 茀 茷 菩 葧 蒲 蔔 蔢 蕃 薜 蘖 蘗 蚾 袚 袯 袹 襎 襏 襮 詙 譒 豰 跑 蹳 郣 鈸 鉑 鉢 鋍 鎛 鑮 镈 餑 餺 馎 馛 馞 駁 駮 驋 髆 髉 魄 鮁 鮊 鱍 鲅 鲌 鵓
 bodong 波动 搏动
 bodun 博顿
@@ -447,6 +448,7 @@ canyin 餐饮
 canyincanying 餐饮残影
 canyu 参与
 canyue 参阅
+canzao 惨早
 canzhan 参战
 canzhao 参照
 cao 槽 草 艹 操 曹 糙 嘈 螬 艚 漕 傮 屮 嶆 愺 慅 慒 懆 撡 曺 澡 肏 艸 蓸 褿 襙 造 鄵 鏪 鐰 騲 鼜
@@ -1235,12 +1237,14 @@ duotiao 多条
 duoxiang 多项
 duoxie 多些
 duoxing 惰性
+duoyi 多疑
 duoyong 多用
 duoyu 多余 多于
 duozhong 多种
 duozou 夺走
 duqu 读取
 duse 堵塞
+dushou 毒手
 dute 独特
 duxie 读写
 duzhan 独占
@@ -1458,6 +1462,7 @@ fulu 附录
 fumei 赴美
 fumian 负面
 fumu 父母
+fuqian 肤浅
 fushi 复试 服饰
 fushu 负数 附属
 futu 附图
@@ -1892,7 +1897,7 @@ hanwu 汉武
 hanxuan 韩宣
 hanyi 含义
 hanyu 汉语
-hao 号 好 耗 毫 豪 浩 皓 嚎 昊 郝 壕 蒿 貉 灏 镐 嗥 嚆 薅 濠 蚝 颢 傐 儫 呺 哠 唬 嘷 噑 妞 恏 悎 昦 晧 暠 暤 暭 曍 椃 淏 滈 滜 澔 灝 獆 獋 皋 皜 皞 皡 皥 睾 秏 竓 籇 翯 聕 膠 臯 茠 薃 薧 藃 號 虠 蠔 諕 譹 鄗 鎒 鎬 鐞 顥 鰝
+hao 好 号 耗 毫 豪 浩 皓 嚎 昊 郝 壕 蒿 貉 灏 镐 嗥 嚆 薅 濠 蚝 颢 傐 儫 呺 哠 唬 嘷 噑 妞 恏 悎 昦 晧 暠 暤 暭 曍 椃 淏 滈 滜 澔 灝 獆 獋 皋 皜 皞 皡 皥 睾 秏 竓 籇 翯 聕 膠 臯 茠 薃 薧 藃 號 虠 蠔 諕 譹 鄗 鎒 鎬 鐞 顥 鰝
 haoba 好吧
 haochu 好处
 haode 好的 号的
@@ -1904,6 +1909,7 @@ haohao 好好
 haohe 豪何
 haohong 号红
 haojiu 好久
+haojuhaosan 好聚好散
 haole 好了
 haoma 号码
 haome 好么
@@ -2120,7 +2126,7 @@ huigu 回顾
 huigui 回归
 huigun 回滚
 huiguo 回国 回过
-huihe 回合
+huihe 回合 会和
 huihua 会话
 huihui 慧慧
 huijia 回家
@@ -2444,7 +2450,7 @@ jijia 几家
 jijian 基建 肌腱
 jijiang 即将
 jijiekou 即接口
-jijin 极尽
+jijin 极尽 激进
 jijinjichu 挤进挤出
 jiju 集聚 急剧 几句
 jike 即可
@@ -2781,7 +2787,7 @@ kexing 可行
 kexuan 可选
 kexue 科学
 keyan 科研
-keyi 可以 可疑
+keyi 可以 可疑 刻意
 keyong 可用
 keyou 课有
 keyuan 科员
@@ -4008,8 +4014,10 @@ rongyi 容易
 rongyu 荣誉
 rou 肉 柔 揉 蹂 鞣 糅 厹 媃 宍 楺 渘 煣 瑈 瓇 禸 粈 腬 莥 葇 蝚 輮 鍒 鑐 韖 騥 髳 鰇 鶔
 rouhe 柔和
+roulin 蹂躏
+routi 肉体
 rouxing 柔性
-ru 如 入 辱 儒 乳 汝 褥 嚅 茹 濡 蠕 孺 缛 襦 颥 薷 蓐 洳 溽 铷 侞 偄 吺 咮 嗕 女 媷 嬬 嶿 帤 扖 挐 擩 曘 月 杁 桇 檽 渪 燸 獳 筎 縟 繻 肉 肗 臑 蒘 蕠 袽 込 邚 鄏 醹 銣 鑐 需 顬 鱬 鳰 鴑 鴽
+ru 入 如 辱 儒 乳 汝 褥 嚅 茹 濡 蠕 孺 缛 襦 颥 薷 蓐 洳 溽 铷 侞 偄 吺 咮 嗕 女 媷 嬬 嶿 帤 扖 挐 擩 曘 月 杁 桇 檽 渪 燸 獳 筎 縟 繻 肉 肗 臑 蒘 蕠 袽 込 邚 鄏 醹 銣 鑐 需 顬 鱬 鳰 鴑 鴽
 ruan 软 阮 朊 偄 堧 壖 媆 嫰 愞 撋 檽 渪 濡 燸 瑌 瓀 碝 礝 緛 耎 腝 蝡 軟 輭 需
 ruangong 软工
 ruanhua 软化
@@ -4321,6 +4329,7 @@ shiqu 识曲 失去
 shiren 世人
 shisheng 师生
 shishi 试试 实时 实施 事实 适时
+shishou 尸首
 shishui 是谁
 shitang 食堂
 shiti 实体
@@ -4946,6 +4955,7 @@ wangyin 网银
 wangyou 网友 王友 王有
 wangzai 望再
 wangzhan 网站
+wangzhe 望着
 wangzhi 网址
 wangzhuang 网状
 wangzhuo 王卓
@@ -5152,6 +5162,7 @@ wuxu 无需
 wuyi 五一 无疑
 wuyiyi 无意义
 wuyong 误用
+wuzhong 物种
 wuzhu 捂住
 wuzhuduzi 捂住肚子
 xi 西 细 系 息 希 喜 囍 席 习 戏 吸 洗 惜 稀 悉 析 夕 牺 袭 昔 熙 兮 溪 隙 嘻 锡 晰 媳 樨 熄 膝 郗 犀 禧 曦 奚 羲 蹊 唏 淅 嬉 皙 汐 徙 茜 玺 熹 烯 翕 蟋 屣 檄 浠 僖 穸 蜥 隰 觋 螅 铣 菥 葸 蓰 舾 矽 粞 硒 醯 欷 鼷 歙 饩 阋 禊 舄 义 係 俙 傒 凞 匸 卌 卥 卻 厀 吚 呬 呰 咥 咦 咭 唽 噏 嚊 嚱 塈 壐 奊 娭 媐 嬆 宩 屃 屎 屖 屭 嵠 嶍 嶲 巂 巇 廗 徆 徯 忔 忚 忥 怬 怸 恄 悕 惁 愾 慀 憘 憙 戯 戱 戲 扱 扸 摡 撕 擊 既 晞 晳 暿 杫 枲 桸 棲 椞 椺 榽 槢 橀 橲 欪 欯 歖 氣 氥 洒 渓 湿 滊 漇 漝 潝 潟 澙 濕 灑 焁 焈 焟 焬 煕 熂 熈 熺 熻 燍 燨 爔 犔 犠 犧 狶 猎 獡 獻 琋 璽 瓕 瘜 盻 睎 瞦 矖 碏 磶 礂 稧 窸 糦 細 綌 緆 縘 縰 繥 繫 纚 绤 羛 義 習 翖 肸 肹 胁 脅 脇 脋 腊 舃 莃 莔 葈 蒠 蒵 蓆 蔇 蕮 薂 虩 蜤 蜴 蝷 螇 蟢 蠵 衋 裼 褶 襲 覀 覡 覤 觹 觽 觿 訢 詑 誒 諰 謑 謚 謵 譆 诶 谥 谿 豀 豨 豯 貕 赥 赩 趇 趘 蹝 躧 遟 郄 郋 郤 鄎 酅 釐 釳 釸 鈒 鈢 鉨 鉩 銑 錫 錯 鎴 鏭 鑴 钑 错 闟 隟 隵 雟 雭 霫 霼 飁 餏 餙 餼 饻 騱 騽 驨 鬩 鯑 鰓 鰼 鱚 鳃 鳛 鵗 鸂 黖 鼰 鼳
@@ -5401,7 +5412,7 @@ xingneng 性能
 xingong 信工
 xingqu 兴趣
 xingrong 形容
-xingshi 形式 形势
+xingshi 形式 形势 行事
 xingu 欣顾
 xinguan 信管
 xingwei 行为
@@ -6088,7 +6099,7 @@ zaikao 再考
 zailai 再来
 zailimian 在里面
 zaimei 在美
-zaina 在哪
+zaina 在哪 在拿
 zainali 在那里
 zainie 在聂
 zainin 在您
@@ -6127,6 +6138,7 @@ zanwu 暂无
 zao 造 早 遭 糟 澡 灶 躁 噪 凿 枣 皂 燥 蚤 藻 缲 唣 傮 唕 喿 慥 栆 梍 棗 槽 煰 璅 璪 皁 窖 竃 竈 簉 繅 繰 缫 艁 草 薻 謲 譟 趮 蹧 醩 鑿
 zaocheng 造成
 zaoci 造词
+zaofayi 遭法移
 zaojiu 造就
 zaoli 早哩
 zaoshang 早上
@@ -6586,6 +6598,7 @@ zimulu 子目录
 zini 自拟
 ziqiong 子琼
 ziran 自然
+zisha 自杀
 zishen 自身 资深
 zishi 姿势
 zishu 字数 自述
