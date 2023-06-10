@@ -322,7 +322,7 @@ hongyishui 23
 hou 8
 houguo 2
 houtui 2
-hua 13 1 2 1
+hua 14 1 2 1
 huadian 1
 huafei 1
 huafen 1
@@ -819,7 +819,8 @@ xiangzisha 1
 xianmu 1
 xiansuo 1
 xianzai 19
-xiao 2 1
+xiao 2 2
+xiaohua 1
 xiaohuata 2
 xiaoshi 3 1
 xiaoxi 3
