@@ -821,6 +821,7 @@ daichu 待出
 daidui 带队
 daihong 带红
 daijia 代价
+daijin 带进
 daikuan 带宽
 dailai 带来
 daili 代理

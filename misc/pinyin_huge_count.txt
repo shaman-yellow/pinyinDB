@@ -119,14 +119,15 @@ cunzai 4
 cuo 7
 cuocuoshi 1
 cuoshi 1 1
-d 520
+d 521
 da 10 5
 daan 4
 dabi 1
 daduan 1
 daduo 1
-dai 4 1
+dai 5 1
 daijia 2
+daijin 1
 dailai 3
 daima 1
 daitu 2
@@ -428,7 +429,7 @@ kuaile 1
 kunhuo 1
 kunjing 1
 kuzi 1
-l 284
+l 285
 la 1
 lai 20
 laishuo 7
