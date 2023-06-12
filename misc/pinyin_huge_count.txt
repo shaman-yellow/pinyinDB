@@ -26,7 +26,7 @@ beibiwunai 1
 beita 1
 ben 6
 bi 9
-bian 4
+bian 5
 bianhua 1
 bianma 1
 biantong 1
@@ -281,7 +281,7 @@ geng 6
 gengduo 3
 genghao 1
 genzong 2
-geshi 1
+geshi 2
 gong 1
 gongju 1
 gongzuo 2
@@ -325,7 +325,7 @@ haochu 1
 haojuhaosan 1
 haowu 1
 haoxiang 13
-he 56
+he 57
 hei 2
 heise 3
 hen 9
@@ -1125,6 +1125,8 @@ zishi 1
 ziwo 1
 zong 4
 zongji 1
+zongjie 1
+zongjiebianyi 1
 zongshi 1
 zou 10
 zoujin 2
