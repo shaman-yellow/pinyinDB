@@ -25,7 +25,7 @@ beibei 1
 beibiwunai 1
 beita 1
 ben 6
-bi 5
+bi 6
 bian 4
 bianhua 1
 bianma 1
@@ -153,7 +153,7 @@ danshen 3
 danshi 40
 danxin 1
 danyuan 1 1
-dao 32 2 1
+dao 33 2 1
 daochu 1
 daodi 2
 daole 1
@@ -200,7 +200,7 @@ duan 1 1
 duanli 1
 duanzan 1
 duduan 1
-dui 16
+dui 17
 duice 1
 duini 3
 duiyu 4
