@@ -239,6 +239,7 @@ fei 4 1 2
 feiwu 1
 feixuan 1
 fen 1
+fenxi 1
 fouze 2
 fu 1
 fubu 2
@@ -489,7 +490,7 @@ ling 3
 lingjiao 1
 lingwai 1
 lirun 1
-lishi 3
+lishi 4
 liucheng 1
 liushi 1 1
 liuwen 1
@@ -667,6 +668,7 @@ ruan 2
 ruci 8
 ruguo 3
 ruhe 6
+rukou 6
 rumeng 1
 ruoshi 1
 sha 6 3
@@ -717,6 +719,7 @@ shishui 2
 shitu 1 1
 shiwang 3
 shixian 1
+shiyan 2
 shiye 2
 shizai 1
 shizi 1
@@ -737,7 +740,7 @@ shuang 2
 shufu 1
 shui 1 2
 shuijiao 1
-shuju 2
+shuju 3
 shun 3
 shuo 69
 shuode 2
@@ -780,6 +783,7 @@ tiaojian 4
 tiaozhan 1
 tichu 2
 tietu 1
+tijiao 1
 tingqi 1
 tingxin 1
 tiwen 2
@@ -861,6 +865,7 @@ xiang 13 9
 xiangbei 1
 xiangfa 2
 xianghe 1
+xiangmu 1
 xiangqi 6
 xiangqilai 3
 xiangta 1
@@ -903,6 +908,7 @@ xuanze 3
 xuduo 5
 xue 3
 xuesheng 2
+xuexi 1
 xuexiao 3
 xulie 3
 xunhuan 1
@@ -912,7 +918,7 @@ xuyao 8
 ya 6
 yali 3
 yan 7
-yang 2
+yang 3
 yangqinaodai 1
 yanjing 16
 yanshen 1
