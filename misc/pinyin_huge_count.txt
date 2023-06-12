@@ -14,7 +14,7 @@ bangwo 1
 bankuai 1
 baochi 2
 baofu 3 1
-baohan 1
+baohan 2
 baoli 3
 baolu 1
 baoqian 1
@@ -25,7 +25,7 @@ beibei 1
 beibiwunai 1
 beita 1
 ben 6
-bi 3
+bi 4
 bian 4
 bianhua 1
 bianma 1
@@ -130,7 +130,7 @@ cunzai 4
 cuo 7
 cuocuoshi 1
 cuoshi 1 1
-d 580
+d 581
 da 10 5
 daan 4
 dabi 1
@@ -275,9 +275,10 @@ geizheer 1
 gen 2 2
 genben 4
 geng 6
-gengduo 2
+gengduo 3
 genghao 1
 genzong 2
+geshi 1
 gong 1
 gongju 1
 gongzuo 2
@@ -899,6 +900,7 @@ xingzhi 1
 xinli 1
 xinren 2
 xinwen 1
+xinxi 1
 xinzhi 1
 xiong 1
 xiongqian 1
@@ -982,6 +984,7 @@ yiyuan 1
 yizai 1
 yizhang 4
 yizhi 5 4 1
+yizhong 1
 yizhou 1
 yong 11
 you 14 12
