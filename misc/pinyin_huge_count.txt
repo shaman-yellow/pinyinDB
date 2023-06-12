@@ -438,6 +438,7 @@ kecheng 1
 ken 5
 kending 3
 keneng 19
+keni 1
 keshi 1
 ketang 3
 kewa 1
@@ -892,6 +893,8 @@ xue 3
 xuesheng 2
 xuexiao 3
 xulie 3
+xunhuan 1
+xunhuankeni 1
 xunzhao 1
 xuyao 8
 ya 6
