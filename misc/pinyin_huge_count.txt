@@ -30,6 +30,7 @@ bian 4
 bianhua 1
 bianma 1
 biantong 1
+bianyi 1
 biaoda 1
 biaoshi 8
 biaoxian 1
@@ -124,6 +125,7 @@ cong 10
 conglai 3
 cui 1
 cuicu 6
+cunchu 1
 cunzai 4
 cuo 7
 cuocuoshi 1
@@ -317,7 +319,7 @@ haochu 1
 haojuhaosan 1
 haowu 1
 haoxiang 13
-he 52
+he 53
 hei 2
 heise 3
 hen 9
@@ -372,6 +374,7 @@ jiaojian 1
 jiaoshi 1
 jiaotang 2
 jiazhi 1
+jiben 1
 jiduan 1
 jie 1
 jiebai 1
@@ -486,6 +489,7 @@ lingjiao 1
 lingwai 1
 lirun 1
 lishi 3
+liucheng 1
 liushi 1 1
 liuwen 1
 liyong 2
@@ -587,6 +591,7 @@ peihe 5
 pengpeng 1
 pian 1
 pianren 1
+pingjia 1
 pinjie 1
 putong 1
 qi 3
@@ -689,6 +694,7 @@ shenti 1
 shenxia 2
 shenzhi 1
 shi 52 3 2
+shibie 2
 shibushi 2
 shidai 1
 shifou 1
@@ -974,6 +980,7 @@ youba 1
 youge 1
 youhao 1
 youhen 1
+youhua 1
 youle 2
 youqi 4
 youren 3
@@ -1047,6 +1054,7 @@ zhihao 1
 zhihou 7
 zhihui 3
 zhijie 4
+zhiliang 1
 zhiling 1
 zhineng 9
 zhiqian 5
@@ -1077,8 +1085,9 @@ zhuanjia 1
 zhuanmen 1
 zhuazhu 1
 zhui 6
-zhunbei 2
+zhunbei 3
 zhuomian 1
+zhushi 1
 zhuti 1
 zhuyao 1
 zhuyi 4
