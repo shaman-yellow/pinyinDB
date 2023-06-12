@@ -46,6 +46,7 @@ bingqie 1
 bingwei 1
 bingzai 1
 biren 3 2
+bisai 1
 bixu 4
 biyao 2
 bizhen 1
@@ -130,7 +131,7 @@ cunzai 4
 cuo 7
 cuocuoshi 1
 cuoshi 1 1
-d 582
+d 583
 da 10 5
 daan 4
 dabi 1
@@ -289,7 +290,7 @@ gu 1
 guai 1
 guande 1
 guang 5
-guanjian 1
+guanjian 2
 guanxi 4
 guanxin 1
 guanyu 3
@@ -322,7 +323,7 @@ haochu 1
 haojuhaosan 1
 haowu 1
 haoxiang 13
-he 54
+he 55
 hei 2
 heise 3
 hen 9
@@ -595,7 +596,7 @@ peihe 5
 pengpeng 1
 pian 1
 pianren 1
-pinggu 1
+pinggu 2
 pingjia 1
 pinjie 2
 putong 1
@@ -897,6 +898,7 @@ xijie 1
 xin 7 1 1
 xing 5
 xingdong 1
+xingneng 1
 xingshi 3
 xingzhi 1
 xinli 1
