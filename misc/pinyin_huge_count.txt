@@ -132,7 +132,7 @@ cunzai 4
 cuo 7
 cuocuoshi 1
 cuoshi 1 1
-d 588
+d 589
 da 10 5
 daan 4
 dabi 1
@@ -992,7 +992,7 @@ yitiao 1
 yiwei 7
 yixia 6 2
 yiyang 11
-yiyi 2
+yiyi 3
 yiyuan 1
 yizai 1
 yizhang 4
