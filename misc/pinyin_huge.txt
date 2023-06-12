@@ -5042,6 +5042,7 @@ weituo 委托
 weiwei 巍巍
 weixian 危险
 weixianweixin 危险微信
+weixiao 微小
 weixie 威胁
 weixin 微信
 weiyan 威严
