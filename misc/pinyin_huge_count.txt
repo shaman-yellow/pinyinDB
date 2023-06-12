@@ -400,6 +400,7 @@ jingyan 2
 jinhou 1
 jinhua 1
 jinmo 1
+jinxing 1
 jiran 1
 jishi 2
 jishu 4
@@ -485,7 +486,7 @@ lirun 1
 lishi 3
 liushi 1 1
 liuwen 1
-liyong 1
+liyong 2
 liyou 5
 lu 2 1
 luanlun 2
@@ -1034,7 +1035,7 @@ zheyang 16
 zheyi 1
 zheyiquan 1
 zhezhong 3
-zhi 5 3
+zhi 6 3
 zhicheng 2
 zhichi 1
 zhidao 8
