@@ -94,7 +94,7 @@ chadian 4
 changqi 1
 changxiao 1
 chaoqi 1
-charu 1
+charu 2
 chayi 2
 chedi 2
 chenchi 2
@@ -324,7 +324,7 @@ haochu 1
 haojuhaosan 1
 haowu 1
 haoxiang 13
-he 55
+he 56
 hei 2
 heise 3
 hen 9
@@ -706,7 +706,7 @@ shenti 1
 shenxia 2
 shenzhi 1
 shi 52 4 2
-shibie 2
+shibie 3
 shibushi 2
 shidai 1
 shifou 1
