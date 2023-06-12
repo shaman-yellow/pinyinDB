@@ -192,10 +192,11 @@ douhao 2
 doushi 4
 douyao 1
 douzai 3
-du 4
+du 4 1
 duan 1 1
 duanli 1
 duanzan 1
+duduan 1
 dui 15
 duice 1
 duini 3
