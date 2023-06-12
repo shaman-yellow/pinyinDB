@@ -278,6 +278,7 @@ gengduo 2
 genghao 1
 genzong 2
 gong 1
+gongju 1
 gongzuo 2
 gou 2
 goulai 1
