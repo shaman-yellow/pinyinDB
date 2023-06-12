@@ -130,7 +130,7 @@ cunzai 4
 cuo 7
 cuocuoshi 1
 cuoshi 1 1
-d 579
+d 580
 da 10 5
 daan 4
 dabi 1
@@ -593,6 +593,7 @@ peihe 5
 pengpeng 1
 pian 1
 pianren 1
+pinggu 1
 pingjia 1
 pinjie 1
 putong 1
@@ -740,7 +741,7 @@ shuang 2
 shufu 1
 shui 1 2
 shuijiao 1
-shuju 3
+shuju 4
 shun 3
 shuo 69
 shuode 2
@@ -1062,7 +1063,7 @@ zhihao 1
 zhihou 7
 zhihui 3
 zhijie 4
-zhiliang 1
+zhiliang 2
 zhiling 1
 zhineng 9
 zhiqian 5
