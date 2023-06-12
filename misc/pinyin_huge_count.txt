@@ -94,7 +94,7 @@ chadian 4
 changqi 1
 changxiao 1
 chaoqi 1
-charu 2
+charu 4
 chayi 2
 chedi 2
 chenchi 2
@@ -106,7 +106,7 @@ chengzhang 2
 chi 1
 chixu 1
 chongfen 1
-chongfu 6
+chongfu 7
 chonghui 1
 chongjin 1
 chongman 2
@@ -154,10 +154,11 @@ danshen 3
 danshi 40
 danxin 1
 danyuan 1 1
-dao 33 2 1
+dao 33 2 1 1
 daochu 1
 daodi 2
 daole 1
+daowei 1
 daozhi 1 1
 daxiao 3 1
 daying 4
@@ -678,8 +679,10 @@ ruhe 6
 rukou 6
 rumeng 1
 ruoshi 1
+sanzai 1
 sha 6 3
 shadiao 1
+shanchu 1
 shang 33
 shanglai 1
 shangle 2
@@ -901,7 +904,7 @@ xiexu 1
 xiezi 1
 xiezuo 3 3
 xijie 1
-xin 7 1 1
+xin 8 1 1
 xing 5
 xingdong 1
 xingneng 1
@@ -923,7 +926,7 @@ xue 3
 xuesheng 2
 xuexi 1
 xuexiao 3
-xulie 6
+xulie 7
 xunhuan 1
 xunhuankeni 1
 xunzhao 1
@@ -1024,7 +1027,7 @@ yunxu 1
 yushi 6
 yuwang 1 1
 yuzhou 1
-zai 93 8
+zai 94 8
 zaici 1
 zaidu 1
 zainali 1

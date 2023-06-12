@@ -916,6 +916,7 @@ daoren 刀刃
 daoru 导入
 daoshi 到时 倒是 导师
 daoshu 倒数
+daowei 倒位
 daowo 到我
 daoyan 导演
 daozhi 导致 倒置
@@ -4089,6 +4090,7 @@ santu 三图
 sanwei 三位 三维
 sanwen 三问 散文
 sanxing 三星
+sanzai 散在
 sanzhe 三者
 sanzhong 三种
 sao 扫 骚 嫂 梢 臊 搔 缲 缫 鳋 埽 瘙 哨 慅 懆 掃 掻 橾 氉 溞 煰 燥 矂 縿 繅 繰 鄵 鐰 颾 騒 騷 髞 鯵 鰠 鰺 鱢 鲹
