@@ -250,6 +250,7 @@ fuzhi 2
 ga 3
 gai 3
 gaibian 1
+gaishu 1
 gakeneng 1
 gan 2
 ganbu 1
