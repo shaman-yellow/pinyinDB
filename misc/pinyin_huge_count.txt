@@ -130,7 +130,7 @@ cunzai 4
 cuo 7
 cuocuoshi 1
 cuoshi 1 1
-d 577
+d 579
 da 10 5
 daan 4
 dabi 1
@@ -152,7 +152,7 @@ danshen 3
 danshi 40
 danxin 1
 danyuan 1 1
-dao 31 2 1
+dao 32 2 1
 daochu 1
 daodi 2
 daole 1
@@ -685,6 +685,7 @@ sheji 1
 shenbian 1
 shenchu 1
 sheng 6 1
+shengcheng 1
 shengdai 1
 shenghuo 3
 shengyin 26
