@@ -275,6 +275,7 @@ geichu 1
 geini 2
 geiwo 1
 geizheer 1
+gelei 1
 gen 2 2
 genben 4
 geng 6
@@ -283,7 +284,7 @@ genghao 1
 genzong 2
 geshi 2
 gong 1
-gongju 1
+gongju 2
 gongzuo 2
 gou 2
 goulai 1
@@ -369,7 +370,7 @@ jian 2
 jianbang 2
 jiance 1
 jiandan 2
-jiang 1
+jiang 2
 jianglai 6
 jianguo 1
 jiangwei 1
@@ -751,7 +752,7 @@ shuang 2
 shufu 1
 shui 1 2
 shuijiao 1
-shuju 4
+shuju 5
 shun 3
 shuo 69
 shuode 2
@@ -1092,7 +1093,7 @@ zhixu 1
 zhiyao 8
 zhiyou 3
 zhizhiqian 1
-zhong 8 2
+zhong 9 2
 zhongren 1
 zhongshang 2
 zhongwu 1
