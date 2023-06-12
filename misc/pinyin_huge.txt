@@ -2208,6 +2208,7 @@ jiahui 佳惠
 jiajia 佳佳
 jiajian 加减
 jiajie 佳节
+jiajihua 甲基化
 jiajing 家境
 jiakuai 加快
 jiali 家里
@@ -5827,6 +5828,7 @@ yinyan 引言
 yinyong 引用
 yinyu 淫欲
 yinyue 音乐 隐约
+yinzi 因子
 yiqi 一起 以其 仪器 以期
 yiqian 以前
 yiqie 一切
