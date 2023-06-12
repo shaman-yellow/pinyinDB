@@ -6622,6 +6622,7 @@ zilv 自律
 zimu 字幕 字母
 zimulu 子目录
 zini 自拟
+zipinjie 自拼接
 ziqiong 子琼
 ziran 自然
 zisha 自杀

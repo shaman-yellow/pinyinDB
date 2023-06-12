@@ -586,6 +586,7 @@ peihe 5
 pengpeng 1
 pian 1
 pianren 1
+pinjie 1
 putong 1
 qi 3
 qian 9
@@ -1082,6 +1083,7 @@ zhuyao 1
 zhuyi 4
 zi 4
 ziji 19 1
+zipinjie 1
 zisha 4
 zishi 1
 ziwo 1
