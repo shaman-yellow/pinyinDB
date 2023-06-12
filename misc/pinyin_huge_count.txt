@@ -234,7 +234,7 @@ fangzui 1
 fankang 2
 fanren 1
 fanshe 1
-faxian 1
+faxian 2
 fei 4 1 2
 feiwu 1
 feixuan 1
@@ -319,7 +319,7 @@ haochu 1
 haojuhaosan 1
 haowu 1
 haoxiang 13
-he 53
+he 54
 hei 2
 heise 3
 hen 9
@@ -828,7 +828,7 @@ weixie 6
 weiyan 1
 weizhi 1
 wen 3
-wenjian 2
+wenjian 3
 wennuan 1
 wenti 11
 wenzi 1
