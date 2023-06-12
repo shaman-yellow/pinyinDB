@@ -87,6 +87,7 @@ cankao 4
 canzao 1
 caochang 1
 caozong 2
+ce 1
 ceshi 3
 chadao 1
 chadian 4
@@ -131,7 +132,7 @@ cunzai 4
 cuo 7
 cuocuoshi 1
 cuoshi 1 1
-d 585
+d 586
 da 10 5
 daan 4
 dabi 1
@@ -199,8 +200,8 @@ du 4 1
 duan 1 1
 duanli 1
 duanzan 1
-duduan 1
-dui 19
+duduan 2
+dui 20
 duice 1
 duini 3
 duiyu 4
@@ -410,11 +411,11 @@ jingyan 2
 jinhou 1
 jinhua 1
 jinmo 1
-jinxing 1
+jinxing 2
 jiran 1
 jishi 2
 jishu 4
-jisuan 1
+jisuan 2
 jisuanji 1
 jiti 1
 jiu 21
@@ -488,6 +489,7 @@ lianxu 1
 liewen 1
 lijie 3
 likai 5
+liliang 1
 limian 1
 ling 3
 lingjiao 1
@@ -596,6 +598,7 @@ peihe 5
 pengpeng 1
 pian 1
 pianren 1
+pinfan 1
 pinggu 2
 pingjia 1
 pinjie 2
@@ -670,7 +673,7 @@ routi 3
 ru 8 6
 ruan 2
 ruci 8
-ruguo 3
+ruguo 4
 ruhe 6
 rukou 6
 rumeng 1
@@ -691,6 +694,7 @@ shehui 2
 sheji 1
 shenbian 1
 shenchu 1
+shendu 1
 sheng 6 1
 shengcheng 1
 shengdai 1
@@ -884,6 +888,8 @@ xianzai 19
 xiao 3 2
 xiaohua 1
 xiaohuata 2
+xiaolv 1
+xiaolvliliang 1
 xiaoshi 3 1
 xiaoxi 3
 xiaoxin 1
@@ -909,7 +915,7 @@ xinzhi 1
 xiong 1
 xiongqian 1
 xiuxika 1
-xu 2
+xu 3
 xuanku 1
 xuanze 3
 xuduo 5
@@ -1027,6 +1033,7 @@ zaixiao 1
 zaiyu 1
 zaizhe 1
 zaofayi 1
+zengjia 1
 zenme 1
 zha 1
 zhan 2 1
