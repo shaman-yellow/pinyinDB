@@ -196,6 +196,7 @@ diaocha 1
 dier 1
 difang 2
 dili 1
+dingkong 1
 dipan 1
 diu 2
 diushi 1
@@ -501,6 +502,7 @@ keshi 2
 ketang 3
 kewa 1
 keyi 13
+kong 1
 kongjian 2
 ku 2
 kua 3
@@ -656,7 +658,7 @@ pu 1
 pusha 1
 putong 1
 qi 3
-qian 9
+qian 10
 qiang 3
 qiangda 5
 qianhou 1
@@ -769,7 +771,7 @@ shenru 1
 shenti 2
 shenxia 2
 shenzhi 1
-shi 60 6 2
+shi 61 6 2
 shibie 3
 shibushi 2
 shidai 1
@@ -797,11 +799,12 @@ shiyong 1
 shizai 2
 shizi 1
 shizijishi 1
-shou 4 1
+shou 4 1 1
 shoudao 1
 shouduan 2
 shouji 2
 shoushang 2 1
+shoushu 1
 shouxia 2
 shouxian 1 1
 shouzhang 1
@@ -1011,7 +1014,7 @@ xunzhao 1
 xuyao 9
 ya 6
 yali 3
-yan 7
+yan 8
 yang 3
 yangqinaodai 1
 yanjing 16
@@ -1086,7 +1089,7 @@ yo 1
 yong 12
 yongru 1
 yongyu 1
-you 14 14
+you 15 15
 youba 1
 youge 1
 youhao 1
@@ -1113,7 +1116,7 @@ yunxu 1
 yushi 6
 yuwang 1 1
 yuzhou 1
-zai 105 8
+zai 106 8
 zaici 1
 zaidu 1
 zainali 1

@@ -1093,6 +1093,7 @@ dingde 定的 订的
 dingguo 订过
 dinghou 定后
 dinghuo 订货
+dingkong 顶空
 dinglv 定律
 dingpiao 订票
 dingqi 定期
@@ -4434,6 +4435,7 @@ shouquan 授权
 shouru 收入
 shoushang 手上 受伤
 shoushen 收审
+shoushu 收束
 shousuo 收缩
 shoutang 手烫
 shouwan 手腕
