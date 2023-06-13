@@ -976,7 +976,7 @@ wennuan 1
 wenti 11
 wenzhou 2
 wenzi 1
-wo 89
+wo 90
 wohen 1
 wohui 2
 wojiu 1
@@ -986,7 +986,7 @@ wom 10
 woshuo 1
 woxiang 3
 woyao 1
-wozai 1
+wozai 2
 wu 3 1 1
 wubi 1 1
 wuchi 1
