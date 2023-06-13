@@ -152,7 +152,7 @@ cunzai 4
 cuo 7
 cuocuoshi 1
 cuoshi 1 1
-d 679
+d 680
 da 12 7
 daan 4
 dabi 1
@@ -683,6 +683,7 @@ pinggu 2
 pingjia 1
 pinjie 2
 pu 1
+pubian 1
 pusha 1
 putong 1
 qi 3
@@ -1024,7 +1025,7 @@ xiezi 1
 xiezuo 3 3
 xijie 1
 xin 9 3 1
-xing 5
+xing 6
 xingdong 1
 xingneng 1
 xingshi 3
@@ -1245,7 +1246,7 @@ zhuang 2 1
 zhuangban 1
 zhuangtai 3
 zhuanjia 1
-zhuanlu 3
+zhuanlu 4
 zhuanmen 1
 zhuazhu 1
 zhui 6
