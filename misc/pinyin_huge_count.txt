@@ -146,7 +146,7 @@ cunzai 4
 cuo 7
 cuocuoshi 1
 cuoshi 1 1
-d 663
+d 665
 da 12 7
 daan 4
 dabi 1
@@ -212,6 +212,7 @@ dongxi 5
 dongzuo 1
 dou 19
 douhao 2
+doumao 1
 doushi 4
 douyao 1
 douzai 3
@@ -563,6 +564,7 @@ man 1
 mang 2
 mantian 1
 manzu 1
+mao 1
 maocaogan 1
 mayi 1
 me 2
@@ -846,7 +848,7 @@ suowei 1
 suoyi 2
 suoyou 9
 suozai 1
-ta 378 15 13
+ta 379 15 13
 tade 1
 tai 4
 taiduo 1
