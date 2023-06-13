@@ -850,6 +850,7 @@ dale 大了
 dalei 打擂
 dali 大理
 daliang 大量
+dama 打骂
 damingdingding 大名鼎鼎
 dan 但 单 担 弹 淡 旦 蛋 胆 诞 丹 耽 惮 眈 啖 澹 掸 殚 箪 瘅 赕 疸 聃 氮 萏 郸 壇 儋 亻 丼 亶 伔 倓 僤 儃 冄 冉 刐 勯 匰 単 呾 唌 啗 啿 單 嘾 噉 噡 嚪 坛 妉 娊 媅 帎 弾 彈 忱 怛 惔 愖 憚 憺 憾 抌 撢 撣 擔 柦 檐 欿 殫 沊 泹 湛 潭 澶 澸 燀 狚 玬 瓭 甔 疍 癉 癚 皽 石 砃 禫 窞 簞 紞 繵 耼 聸 腅 膻 膽 蜑 蜒 蟺 衴 褝 襌 襜 覘 觇 觛 訑 詹 誕 譂 贉 贍 赡 蹛 躭 鄲 酖 醈 霮 頕 餤 饏 馾 駳 髧 鴠 黕 黮 黵
 danbai 蛋白
@@ -1264,6 +1265,7 @@ duzhan 独占
 duzhe 读者
 duzi 肚子 独自
 e 额 俄 恶 饿 哦 鹅 扼 愕 遏 噩 娥 峨 呃 厄 鄂 讹 婀 蛾 轭 颚 鳄 锷 谔 屙 锇 阏 垩 腭 苊 鹗 萼 莪 亚 亜 亞 伪 佮 侉 偔 偽 僞 僫 匎 匼 卾 吪 呝 咢 咹 哑 唖 啈 啊 啐 啞 噁 囐 囮 垭 埡 堊 堨 堮 妸 妿 姶 娾 娿 媕 屵 岋 峉 峩 崿 庵 廅 悪 惡 戹 搕 搤 搹 擜 曷 枙 椏 櫮 欸 歞 歹 歺 洝 涐 湂 玀 珴 琧 痷 皒 睋 砈 砐 砨 砵 硆 硪 磀 礘 胺 蒍 蕚 蘁 蚅 蝁 覨 訛 詻 誐 諤 譌 讍 豟 軛 軶 輵 迗 遌 遻 邑 鈋 鋨 鍔 鑩 閜 閼 阨 阸 阿 隘 頞 頟 額 顎 餓 餩 騀 鬲 魤 魥 鰐 鰪 鱷 鴳 鵈 鵝 鵞 鶚 齃 齶 齾
+edu 恶毒
 ei 诶 欸
 ele 饿了
 en 恩 嗯 唔 摁 蒽 奀 峎 煾 饐
@@ -4155,7 +4157,7 @@ shangdou 上都
 shangfan 商贩
 shangfu 上腹
 shangguo 上过
-shanghai 上海
+shanghai 上海 伤害
 shanghe 上和
 shangji 上级 商机 上机
 shangjia 商家 上架
@@ -4548,6 +4550,7 @@ sile 死了
 silu 思路
 sinian 四年
 siren 四人
+sisha 撕杀
 siwang 死亡
 siwei 思维 四位
 sixiang 思想
@@ -5410,6 +5413,7 @@ xiechu 写出
 xiedai 携带
 xiedan 谢丹
 xiede 写的 写得
+xiee 意志 邪恶
 xiehui 协会
 xiejue 谢绝
 xieli 协力
@@ -5906,7 +5910,7 @@ yiyou 已有
 yiyuan 医院
 yizai 一再
 yizhang 一张
-yizhi 一致 一直 移植 已知 一只 一至 抑制
+yizhi 一致 一直 移植 已知 一只 一至 抑制 意志
 yizhong 一种
 yizhou 一周
 yizu 一组
