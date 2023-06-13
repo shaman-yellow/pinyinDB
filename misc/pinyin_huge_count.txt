@@ -1,4 +1,4 @@
-a 8 1
+a 9 1
 abeiliya 157
 ai 8 1
 an 7
@@ -100,7 +100,7 @@ cankao 4
 canzao 1
 caochang 1
 caozong 2
-ce 1
+ce 2
 celiang 1
 ceshi 3
 chadao 1
@@ -149,7 +149,7 @@ cunzai 4
 cuo 7
 cuocuoshi 1
 cuoshi 1 1
-d 676
+d 677
 da 12 7
 daan 4
 dabi 1
@@ -201,6 +201,7 @@ diaocha 1
 dier 1
 difang 2
 dili 1
+ding 1
 dingkong 1
 dipan 1
 diu 2
@@ -714,10 +715,11 @@ qixi 2
 qiyue 1
 qizhong 1
 qu 3
-quan 1
+quan 2
 quanbu 2
 quanchang 1
 quanquanyou 1
+quanshen 1
 quantao 1
 quanxiao 1
 quanyou 1
@@ -782,7 +784,7 @@ shazi 2
 she 2
 shehui 2
 sheji 1
-shen 1
+shen 1 1
 shenbian 1
 shenchu 2
 shendu 1
@@ -1140,7 +1142,7 @@ youyige 2
 youyigeci 1
 youyu 1
 youzheng 1
-yu 10 3
+yu 10 4
 yuanqu 1
 yuanyi 3
 yuanyin 1
