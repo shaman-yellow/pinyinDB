@@ -282,7 +282,7 @@ gaishu 1
 gakeneng 1
 gan 3
 ganbu 1
-gandao 9
+gandao 10
 gang 1
 ganjue 8
 ganshou 3
