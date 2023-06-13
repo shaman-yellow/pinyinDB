@@ -154,7 +154,7 @@ cunzai 4
 cuo 7
 cuocuoshi 1
 cuoshi 1 1
-d 713
+d 717
 da 13 7
 daan 4
 dabi 1
@@ -163,7 +163,7 @@ daduo 7
 dai 5 1
 daijia 2
 daijin 1
-dailai 3
+dailai 4
 daima 1
 daitu 2
 dajia 2
@@ -239,7 +239,7 @@ duini 4
 duixiang 1
 duiying 1
 duiyu 4
-duli 1
+duli 2
 duo 3 1
 duoduo 2 1
 duojiu 1
@@ -315,7 +315,7 @@ gege 1
 gei 18
 geichu 1
 geini 2
-geiwo 1
+geiwo 2
 geizheer 1
 gelei 1
 gen 2 2
@@ -547,7 +547,7 @@ kuayukuayue 1
 kunhuo 1
 kunjing 1
 kuzi 1
-l 322
+l 325
 la 1
 lai 23
 laishuo 7
@@ -641,7 +641,7 @@ napa 1
 nashi 1
 natian 2
 nawo 3
-naxie 28 8
+naxie 29 8
 nayang 3
 nayitian 1
 nayou 1
@@ -824,7 +824,7 @@ shihe 1
 shihou 6 1
 shijian 6 7 1
 shijianzhihe 1
-shijie 13
+shijie 14
 shike 1
 shiqing 3
 shiren 1
@@ -888,7 +888,7 @@ suowei 1
 suoyi 2
 suoyou 9
 suozai 1
-ta 379 15 15
+ta 379 15 16
 tade 1
 tai 4
 taiduo 1
@@ -921,7 +921,7 @@ tixing 1
 tong 7 1
 tongbao 1
 tongguo 3
-tongku 10
+tongku 11
 tonglu 1
 tongxing 1
 tongxue 2
@@ -1041,7 +1041,7 @@ xiezuo 3 3
 xijie 1
 xin 9 3 1
 xing 6
-xingcheng 2
+xingcheng 3
 xingdong 1
 xingfu 1
 xingneng 1
@@ -1105,7 +1105,7 @@ yiduan 1
 yidun 1
 yifen 1
 yifu 2
-yige 43
+yige 45
 yihan 2
 yijia 1
 yijian 2
