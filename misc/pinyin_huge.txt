@@ -198,7 +198,7 @@ bianqian 变迁
 bianshi 便是
 biantong 变通
 bianxing 变形
-bianyi 编译
+bianyi 编译 变异
 bianyiqi 编译器
 bianyu 便于
 bianzhi 贬值
@@ -5750,6 +5750,7 @@ yibu 异步 移步
 yiceng 一层
 yichang 异常 一场 已唱
 yichu 移除 溢出
+yichuan 遗传
 yici 一次 以此 依次
 yidao 驿道 移到 一刀
 yideng 一等
