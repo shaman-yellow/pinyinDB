@@ -146,7 +146,7 @@ cunzai 4
 cuo 7
 cuocuoshi 1
 cuoshi 1 1
-d 665
+d 667
 da 12 7
 daan 4
 dabi 1
@@ -225,6 +225,7 @@ dui 25
 duice 1
 duini 3
 duixiang 1
+duiying 1
 duiyu 4
 duo 3 1
 duoduo 2 1
@@ -293,7 +294,7 @@ gaoda 1
 gaosu 4
 gaozhong 1
 gazheyang 1
-ge 3 2
+ge 4 3
 gege 1
 gei 18
 geichu 1
@@ -312,8 +313,10 @@ geshi 2
 gezhong 1
 gong 1
 gongju 2
+gongneng 1
 gongzuo 2
 gou 2
+goucheng 1
 goulai 1
 gouren 1
 gouzao 1
@@ -356,7 +359,7 @@ haochu 1
 haojuhaosan 1
 haowu 1
 haoxiang 13
-he 65
+he 66
 hei 3
 heise 6
 hen 10
@@ -427,6 +430,7 @@ jiduan 1
 jie 1
 jiebai 1
 jieduan 2
+jiegou 1
 jieguo 3
 jiehe 1
 jieli 1
@@ -519,7 +523,7 @@ kuayukuayue 1
 kunhuo 1
 kunjing 1
 kuzi 1
-l 314
+l 315
 la 1
 lai 22
 laishuo 7
@@ -557,6 +561,7 @@ lu 2 1
 luanlun 2
 lun 1
 luo 2
+luru 1
 luxian 1
 ma 6
 mai 1
@@ -862,6 +867,7 @@ taolun 2
 tashishi 1
 tashuo 1
 tata 1
+teding 1
 teyi 2
 tezheng 1
 ti 1
@@ -1097,7 +1103,7 @@ yo 1
 yong 12
 yongru 1
 yongyu 1
-you 16 16
+you 16 16 1
 youba 1
 youge 1
 youhao 1
@@ -1114,7 +1120,7 @@ youyige 2
 youyigeci 1
 youyu 1
 youzheng 1
-yu 9 3
+yu 10 3
 yuanqu 1
 yuanyi 3
 yuanyin 1
@@ -1193,7 +1199,7 @@ zhiyao 8
 zhiyi 1
 zhiyou 3
 zhizhiqian 1
-zhong 12 2
+zhong 13 2
 zhongren 1
 zhongshang 2
 zhongwu 1
