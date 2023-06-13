@@ -146,7 +146,7 @@ cunzai 4
 cuo 7
 cuocuoshi 1
 cuoshi 1 1
-d 656
+d 657
 da 12 7
 daan 4
 dabi 1
@@ -352,7 +352,7 @@ haojuhaosan 1
 haowu 1
 haoxiang 13
 he 65
-hei 2
+hei 3
 heise 4
 hen 10
 henduo 3
@@ -394,6 +394,7 @@ huiyi 1 1
 huizhi 2
 hun 5
 hunguoqu 2
+hunhei 1
 huoqu 2
 huozhe 5
 hutong 2
