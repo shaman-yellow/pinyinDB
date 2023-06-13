@@ -702,6 +702,7 @@ chule 除了 出了
 chuli 处理
 chumian 出面
 chun 纯 春 唇 蠢 醇 淳 椿 鹑 蝽 莼 偆 僢 堾 媋 惷 旾 暙 朐 杶 楯 槆 橁 櫄 沌 浱 湻 滣 漘 犉 瑃 睶 箺 純 肫 胊 脣 膞 芚 萅 萶 蒓 蓴 賰 踳 輇 輴 辁 醕 錞 陙 鯙 鰆 鶉 鶞
+chunchunjie 纯纯洁
 chunfeng 春风
 chunjia 春假
 chunjie 春节
@@ -2202,7 +2203,7 @@ huoyi 获一
 huoyuan 货源
 huoyue 活跃 或曰
 huoyun 货运
-huozhe 或者 货着 活着
+huozhe 或者 活着 货着
 hutong 胡同
 huxiang 互相
 huzhou 湖州
@@ -2613,6 +2614,7 @@ jiugongge 九宫格
 jiuhui 就会 就回
 jiuhuo 旧货
 jiujie 纠结
+jiujing 究竟
 jiukuai 就快
 jiulai 就来
 jiule 久了
@@ -5764,7 +5766,7 @@ yiding 一定 议定
 yidong 移动 易懂
 yidu 一度
 yiduan 一段
-yidui 一堆
+yidui 一堆 一对
 yidun 一顿
 yier 一二
 yifan 一番
