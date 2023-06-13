@@ -9,6 +9,7 @@ ayi 2
 ba 39 2
 babaxi 1
 babuneng 1
+bai 2
 baituo 1
 bandao 1
 banfa 2
@@ -137,17 +138,17 @@ chunmeng 2
 chuxian 5
 chuzai 1
 ci 1
-cong 11
+cong 12
 conglai 3
 cui 1
 cuicu 6
-cujin 2
+cujin 3
 cunchu 1
 cunzai 4
 cuo 7
 cuocuoshi 1
 cuoshi 1 1
-d 668
+d 671
 da 12 7
 daan 4
 dabi 1
@@ -163,7 +164,8 @@ dajia 2
 dajin 1
 dale 1
 daliang 1
-dan 16
+dan 17
+danbai 2
 dang 1 1
 dangchu 1
 dangshi 4
@@ -171,7 +173,7 @@ danshen 3
 danshi 47
 danxin 1
 danyuan 1 1
-dao 34 2 1 1
+dao 35 2 1 1
 daochu 1
 daodi 2
 daole 1
@@ -240,7 +242,7 @@ duzi 11 1
 e 4
 ei 1
 ele 1
-er 13 11
+er 14 11
 erlai 2
 erqie 5
 ershi 1
@@ -261,6 +263,7 @@ fangzui 1
 fankang 2
 fanren 1
 fanshe 1
+fanyi 1
 faxian 2
 fei 5 1 2
 feiwu 1
@@ -406,6 +409,7 @@ huizhi 2
 hun 5
 hunguoqu 2
 hunhei 1
+huo 1
 huoqu 2
 huozhe 5
 hutong 2
@@ -416,6 +420,7 @@ jianbang 2
 jiance 1
 jiandan 2
 jiang 2
+jiangjie 1 1
 jianglai 6
 jianguo 1
 jiangwei 1
@@ -430,7 +435,7 @@ jiazhi 1
 jiazhu 2
 jiben 1
 jiduan 1
-jie 1
+jie 2
 jiebai 1
 jieduan 2
 jiegou 1
@@ -888,7 +893,7 @@ tiwen 2
 tixing 1
 tong 7 1
 tongbao 1
-tongguo 1
+tongguo 2
 tongku 6
 tonglu 1
 tongxing 1
@@ -986,7 +991,7 @@ xiangzisha 1
 xianmu 1
 xiansuo 1
 xianzai 20
-xiao 5 2
+xiao 6 2
 xiaohua 1
 xiaohuata 2
 xiaolv 1
