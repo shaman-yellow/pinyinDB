@@ -141,12 +141,13 @@ cong 11
 conglai 3
 cui 1
 cuicu 6
+cujin 2
 cunchu 1
 cunzai 4
 cuo 7
 cuocuoshi 1
 cuoshi 1 1
-d 667
+d 668
 da 12 7
 daan 4
 dabi 1
@@ -359,7 +360,8 @@ haochu 1
 haojuhaosan 1
 haowu 1
 haoxiang 13
-he 66
+he 66 2
+hecheng 1
 hei 3
 heise 6
 hen 10
@@ -369,6 +371,7 @@ henhenjin 1
 heni 1
 henjiu 2
 henkuai 1
+heren 1
 heshi 2
 heta 1
 hexia 1
@@ -624,7 +627,7 @@ nayou 1
 nayouyitian 1
 nazhong 1
 ne 4
-nei 1
+nei 2
 neirong 2
 neng 11
 nengfou 2
@@ -930,6 +933,7 @@ weituo 2
 weixiao 1
 weixie 6
 weiyan 1
+weiyu 1
 weizhi 1
 wen 3
 wenjian 5
@@ -982,7 +986,7 @@ xiangzisha 1
 xianmu 1
 xiansuo 1
 xianzai 20
-xiao 4 2
+xiao 5 2
 xiaohua 1
 xiaohuata 2
 xiaolv 1
@@ -1103,7 +1107,7 @@ yo 1
 yong 12
 yongru 1
 yongyu 1
-you 16 16 1
+you 16 16 2
 youba 1
 youge 1
 youhao 1
@@ -1130,7 +1134,7 @@ yunxu 1
 yushi 6
 yuwang 1 1
 yuzhou 1
-zai 109 8
+zai 111 8
 zaici 1
 zaidu 1
 zainali 1
@@ -1199,7 +1203,7 @@ zhiyao 8
 zhiyi 1
 zhiyou 3
 zhizhiqian 1
-zhong 13 2
+zhong 15 2
 zhongren 1
 zhongshang 2
 zhongwu 1
@@ -1240,6 +1244,7 @@ zou 10
 zoujin 2
 zu 1 1
 zuanru 1
+zucheng 1
 zugou 1
 zui 2
 zuiduo 1
