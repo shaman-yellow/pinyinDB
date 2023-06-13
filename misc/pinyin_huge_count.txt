@@ -585,6 +585,8 @@ nide 2
 nidui 1
 nimei 1
 ninao 1
+ning 1
+ningyi 1
 nishi 1
 nishuo 1
 niu 1
@@ -858,7 +860,7 @@ wen 3
 wenjian 5
 wennuan 1
 wenti 11
-wenzhou 1
+wenzhou 2
 wenzi 1
 wo 73
 wohen 1
@@ -938,7 +940,7 @@ xuduo 5
 xue 3
 xuesheng 2
 xuexi 1
-xuexiao 3
+xuexiao 4
 xulie 7
 xunhuan 1
 xunhuankeni 1
@@ -1065,7 +1067,7 @@ zhe 26 13 9
 zhebushi 1
 zheer 6
 zhege 28
-zhejiang 1
+zhejiang 2
 zheli 8
 zheme 19
 zhen 1 1
