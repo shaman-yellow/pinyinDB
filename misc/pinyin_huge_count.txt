@@ -318,7 +318,7 @@ geshi 2
 gezhong 1
 gong 1
 gongju 2
-gongneng 1
+gongneng 2
 gongzuo 2
 gou 2
 goucheng 1
@@ -455,7 +455,7 @@ jietou 1
 jiewei 3
 jige 2
 jihu 2
-jihua 1
+jihua 2
 jihui 10
 jijinjichu 1
 jilu 1
@@ -714,7 +714,9 @@ qixi 2
 qiyue 1
 qizhong 1
 qu 3
+quan 1
 quanbu 2
+quanchang 1
 quanquanyou 1
 quantao 1
 quanxiao 1
@@ -795,7 +797,7 @@ shensu 1
 shenti 2
 shenxia 2
 shenzhi 1
-shi 61 6 2
+shi 62 6 2
 shibie 3
 shibushi 2
 shidai 1
@@ -843,6 +845,7 @@ shufu 2
 shui 1 2
 shuijiao 1
 shuju 5
+shujuku 1
 shun 3
 shuo 69
 shuode 2
@@ -986,7 +989,7 @@ xiangfa 3
 xiangge 1
 xianghe 1
 xianghu 1
-xiangmu 1
+xiangmu 2
 xiangqi 6
 xiangqilai 3
 xiangta 1
@@ -1239,7 +1242,7 @@ zhui 6
 zhujian 1
 zhunbei 3
 zhuomian 1
-zhushi 1
+zhushi 2
 zhuti 2 1
 zhuyao 1
 zhuyi 4
