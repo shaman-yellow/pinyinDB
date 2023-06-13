@@ -508,7 +508,7 @@ chan 产 颤 缠 禅 蝉 馋 铲 搀 阐 掺 潺 忏 蟾 婵 谄 谗 廛 孱 澶
 chanchu 产出
 chang 场 长 唱 常 厂 尝 昌 肠 偿 畅 倡 倘 敞 怅 娼 猖 嫦 伥 氅 徜 昶 鲳 阊 菖 苌 鬯 惝 仧 倀 僘 償 儻 兏 厰 嘗 嚐 場 塲 尙 尚 廠 悵 晿 暢 棖 椙 淌 淐 焻 玚 琩 瑒 瑺 瓺 甞 畼 脹 腸 膓 萇 蟐 裮 誯 鋹 鋿 錩 鏛 锠 長 镸 閶 闛 韔 鯧 鱨 鲿 鼚
 changan 长按
-changchang 常唱
+changchang 常唱 常常
 changchu 长处
 changdao 倡导
 changde 常德
@@ -6192,6 +6192,7 @@ zaizhe 在这
 zaizhi 在职
 zaizhuan 在专
 zaizhuang 在装
+zajiao 杂交
 zajin 咱金
 zale 咋了
 zan 暂 咱 赞 攒 簪 糌 瓒 拶 昝 趱 錾 偺 儧 儹 兂 喒 囋 寁 揝 撍 攢 暫 桚 涔 湔 濺 濽 灒 瓉 瓚 禶 穳 篸 簮 臢 襸 讃 讚 賛 贊 趲 蹔 鄼 酂 酇 鏨 鏩 鐕 鐟 饡
