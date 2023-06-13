@@ -2399,6 +2399,7 @@ jiche 机车
 jicheng 继承 集成
 jichu 基础 挤出
 jici 几次
+jid 及的
 jida 极大
 jidao 挤到
 jide 记得
@@ -6554,6 +6555,7 @@ zhuangtai 状态
 zhuanhuan 转换
 zhuanjia 专家
 zhuanli 专利
+zhuanlu 转录
 zhuanmen 专门
 zhuanpan 转盘
 zhuanshuo 专硕
