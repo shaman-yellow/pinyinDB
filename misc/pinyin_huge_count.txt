@@ -363,7 +363,7 @@ haochu 1
 haojuhaosan 1
 haowu 1
 haoxiang 13
-he 66 2
+he 67 2
 hecheng 1
 hei 3
 heise 6
@@ -476,7 +476,7 @@ jinru 1
 jinxing 2
 jiran 1
 jishi 2
-jishu 4
+jishu 5
 jisuan 2
 jisuanji 1
 jiti 1
@@ -1045,7 +1045,7 @@ yan 8
 yang 3
 yangqinaodai 1
 yanjing 16
-yanjiu 1
+yanjiu 2
 yanshen 1
 yanshi 1
 yanwo 1
