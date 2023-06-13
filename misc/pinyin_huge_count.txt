@@ -38,7 +38,7 @@ bianhua 1
 bianma 2
 biantong 1
 bianyi 1
-biaoda 2
+biaoda 3
 biaoshi 8
 biaoxian 1
 biaozheng 1
@@ -148,7 +148,7 @@ cunzai 4
 cuo 7
 cuocuoshi 1
 cuoshi 1 1
-d 672
+d 673
 da 12 7
 daan 4
 dabi 1
@@ -269,7 +269,7 @@ fei 5 1 2
 feiwu 1
 feixuan 1
 fen 2
-fenxi 2
+fenxi 3
 fouze 2
 fu 1
 fubu 2
@@ -491,7 +491,7 @@ jiuzhu 1
 jixing 1
 jixu 2
 jiyi 2
-jiyin 2
+jiyin 3
 jiziji 1
 juda 1
 jue 1
@@ -523,7 +523,7 @@ kewa 1
 keyi 13
 kong 1
 kongjian 2
-ku 2
+ku 3 1
 kua 3
 kuabu 1
 kuai 6
@@ -944,8 +944,9 @@ weixie 6
 weiyan 1
 weiyu 1
 weizhi 1
-wen 3
+wen 5
 wenjian 5
+wenku 1
 wennuan 1
 wenti 11
 wenzhou 2
@@ -1214,7 +1215,7 @@ zhiyao 8
 zhiyi 1
 zhiyou 3
 zhizhiqian 1
-zhong 15 2
+zhong 16 2
 zhongren 1
 zhongshang 2
 zhongwu 1

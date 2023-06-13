@@ -5107,6 +5107,7 @@ wenjianjiang 文件将
 wenjianming 文件名
 wenjuan 问卷
 wenke 文科
+wenku 文库
 wenli 纹理
 wenneng 稳能
 wennuan 温暖
