@@ -54,7 +54,7 @@ biebiequ 1
 bieren 1
 bijiao 1
 bijing 2
-bing 6 1
+bing 7 1
 bingbu 5
 bingbushi 2
 bingqie 1
@@ -275,6 +275,7 @@ duojiu 1
 duoshu 1
 duoyi 1
 duozou 2
+duqu 1
 dushou 1
 duzhe 3
 duzi 11 1
@@ -363,7 +364,7 @@ genzong 2
 geshi 2
 gezhong 1
 gong 1
-gongju 3
+gongju 4
 gongneng 2
 gongzuo 2
 gou 2
@@ -632,7 +633,7 @@ lishi 4
 liucheng 1
 liushi 1 1
 liuwen 1
-liyong 2
+liyong 3
 liyou 5
 lu 2 1
 luanlun 2
@@ -1024,7 +1025,7 @@ wa 1
 wai 3
 wajue 1
 wan 1 1
-wancheng 2
+wancheng 3
 wang 3
 wangji 3
 wangluo 2
@@ -1057,7 +1058,7 @@ weiyi 1
 weiyu 1
 weizhi 3
 wen 5
-wenjian 5
+wenjian 6
 wenku 2
 wennuan 1
 wenti 11
