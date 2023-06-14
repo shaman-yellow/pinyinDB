@@ -174,7 +174,7 @@ cuo 7
 cuocuoshi 1
 cuoshan 1
 cuoshi 1 1
-d 846
+d 848
 da 14 11
 daan 4
 dabao 1 1
@@ -315,7 +315,7 @@ feixuan 1
 fen 2
 fengkuang 1
 fenlei 1
-fenxi 3
+fenxi 4
 fouze 2
 fu 1
 fubu 2
@@ -386,6 +386,7 @@ guanxin 1
 guanyu 3
 guanyuan 1
 guanzhu 1
+guifan 1
 guji 1
 guli 1
 gun 1
@@ -416,7 +417,7 @@ haochu 2
 haojuhaosan 1
 haowu 1
 haoxiang 16
-he 85 2
+he 86 2
 hecheng 1
 hei 3
 heise 13
@@ -1176,7 +1177,7 @@ ya 7
 yali 3
 yan 9
 yang 4
-yangben 1
+yangben 2
 yangqinaodai 1
 yanjing 18
 yanjiu 2
