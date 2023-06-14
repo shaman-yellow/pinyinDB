@@ -412,7 +412,7 @@ haochu 2
 haojuhaosan 1
 haowu 1
 haoxiang 16
-he 84 2
+he 85 2
 hecheng 1
 hei 3
 heise 13
@@ -553,6 +553,7 @@ jixu 4
 jiyi 3
 jiyin 5
 jiziji 1
+jubu 1
 juda 1
 jue 1
 juede 26
@@ -797,6 +798,7 @@ qu 4
 quan 2
 quanbu 2
 quanchang 1
+quanju 1
 quanquanyou 1
 quanshen 1
 quantao 1
