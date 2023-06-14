@@ -172,7 +172,7 @@ cuo 7
 cuocuoshi 1
 cuoshan 1
 cuoshi 1 1
-d 844
+d 845
 da 14 11
 daan 4
 dabao 1 1
@@ -940,7 +940,7 @@ shui 3 1
 shuijiao 1
 shuimian 1
 shuiping 1
-shuju 6
+shuju 7
 shujuku 1
 shun 3
 shuo 79
@@ -1144,6 +1144,7 @@ xingwei 2
 xingxiang 1
 xingzhi 1
 xinli 3
+xinpian 1
 xinren 2
 xintiao 1
 xinwen 1
