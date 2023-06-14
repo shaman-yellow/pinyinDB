@@ -280,6 +280,7 @@ bisai 比赛
 bishe 毕设
 bitian 必填
 biwei 必为
+biwo 逼我
 bixian 必现
 bixin 必信
 bixiu 必修
@@ -1085,6 +1086,7 @@ dierci 第二次
 difang 地方
 digui 递归
 diji 第几
+dijiao 地窖
 dikan 地看
 dili 地理
 diliao 地聊
@@ -2634,6 +2636,7 @@ jiushi 就是
 jiushu 救赎
 jiusuan 就算
 jiuwo 就我
+jiuxia 救下
 jiuxing 就行
 jiuyao 就要
 jiuye 就业
@@ -2999,6 +3002,7 @@ liangduan 两段
 liangge 两个
 lianggen 两根
 lianghao 靓号 良好
+liangke 两棵
 liangliang 良良 亮亮 两辆
 liangmian 两面
 liangming 两名
@@ -3639,6 +3643,7 @@ panguang 盘光
 panpan 盼盼
 pao 跑 炮 抛 泡 袍 刨 咆 狍 疱 脬 庖 匏 包 嚗 垉 奅 抱 拋 摽 炰 爮 犥 瓟 皰 砲 礟 礮 穮 窌 胞 脟 苞 萢 藨 蚫 袌 褜 謈 軳 鉋 铇 鞄 颮 飑 鮑 鲍 麃 麅 麭
 paochu 抛出
+paode 跑得
 paolou 炮楼
 paotong 跑通
 paozhi 抛掷
@@ -3671,6 +3676,7 @@ pengpeng 膨膨
 pengpengche 碰碰车
 pengyong 彭永
 pengyou 朋友
+pengzhang 膨胀
 pengzhuang 碰撞
 penhui 喷灰
 pi 批 否 皮 屁 披 疲 辟 啤 脾 匹 僻 劈 譬 坯 痞 癖 琵 毗 霹 噼 媲 郫 裨 纰 丕 鼙 圮 蚍 蜱 貔 陂 陴 砒 仳 埤 擗 吡 庀 邳 疋 芘 枇 罴 淠 铍 甓 睥 伓 伾 俾 副 卑 噽 嚊 嚭 坏 培 壀 妚 嫓 岯 崥 嶏 帔 庇 庳 怶 悂 憵 扑 抷 拂 揊 旇 朇 枈 椑 榌 比 毘 毞 渒 潎 澼 濞 炋 焷 狉 狓 猈 疈 痦 痺 睤 磇 礔 礕 秛 秠 稫 笓 箆 篦 篺 簲 粃 紕 罷 羆 翍 耚 肶 脴 腗 膍 苉 苤 萆 蕃 蚌 蚽 蚾 螕 螷 蠯 被 諀 豼 豾 鄱 釽 鈈 鈚 鈲 鈹 鉟 銔 銢 錃 錍 鎞 钚 闢 阰 隦 鞞 頗 顖 颇 駓 髬 魮 魾 鮍 鲏 鴄 鵧 鷿 鸊
@@ -3752,6 +3758,7 @@ qi 气 期 奇 起 器 其 七 妻 企 汽 棋 齐 旗 弃 启 骑 欺 歧 岂 �
 qia 恰 洽 掐 伽 袷 葜 髂 佉 價 冾 卡 咭 圶 客 帢 愘 抲 拤 挈 揢 搳 擖 楬 殎 疴 矻 硈 磍 絜 跒 酠 鞐 鮚 鲒
 qian 前 钱 欠 千 签 牵 浅 潜 迁 谦 遣 歉 纤 嵌 乾 谴 铅 虔 钳 骞 倩 堑 黔 掮 悭 芊 缱 愆 荨 芡 阡 佥 搴 褰 肷 钎 仟 犍 钤 岍 箝 鬈 扦 慊 椠 乹 仱 伣 俔 偂 傔 僉 儙 凄 凵 刋 厱 唊 嗛 圱 圲 塹 墘 壍 奷 婜 媊 嬱 孅 孯 寨 岒 嵰 廞 忏 忴 悓 慳 扲 拑 拪 挳 掔 揃 揵 摼 撁 撍 撖 攐 攑 攓 朁 杄 杴 柑 棈 榩 槏 槧 橬 檶 櫏 欦 欿 歁 歬 汘 汧 涔 淒 淺 渐 湔 漸 潛 濳 濽 灊 灒 炶 煔 熑 燂 燫 牽 皘 竏 筋 箞 篏 篟 簽 籖 籤 粁 綪 縴 繾 羟 羥 羬 脥 腱 膁 臤 艌 苂 茜 茾 荕 葥 葴 蒨 蔳 蕁 藖 蚈 蚙 蜸 諐 謙 譴 谸 赶 軡 輤 遷 釺 鈆 鈐 鉆 鉗 鉛 銭 鋟 錎 錢 鍼 鎆 鏲 鐱 鑓 鑯 锓 開 雃 靬 韆 顅 馯 騚 騝 騫 鬜 鬝 鰜 鰬 鳒 鳽 鵮 鶼 鹐 鹣 黚 齦 龈
 qianbao 钱包
+qiancheng 虔诚
 qiandao 签到
 qianduan 前端 前段
 qianfei 欠费
@@ -3902,6 +3909,7 @@ qiuyou 秋游
 qiuzheng 求证
 qiuzhi 求职
 qiuzhu 求助
+qiwan 凄惋
 qiwang 期望
 qiwangyinggai 期望应该
 qiwei 气味
@@ -4249,7 +4257,7 @@ shencha 审查
 shenchu 身处
 shendu 深度
 shenfen 身份
-sheng 胜 生 声 省 升 圣 盛 剩 牲 绳 甥 笙 渑 眚 嵊 晟 丞 乗 乘 偗 冼 剰 勝 呏 垩 墭 姓 娍 媵 憴 斘 昇 晠 曻 枡 榺 橳 殅 殸 泩 渻 湦 澠 焺 狌 珄 琞 甸 竔 箵 縄 繩 聖 聲 苼 蕂 譝 貹 賸 鉎 鍟 阩 陞 陹 鱦 鵿 鼪
+sheng 胜 声 生 省 升 圣 盛 剩 牲 绳 甥 笙 渑 眚 嵊 晟 丞 乗 乘 偗 冼 剰 勝 呏 垩 墭 姓 娍 媵 憴 斘 昇 晠 曻 枡 榺 橳 殅 殸 泩 渻 湦 澠 焺 狌 珄 琞 甸 竔 箵 縄 繩 聖 聲 苼 蕂 譝 貹 賸 鉎 鍟 阩 陞 陹 鱦 鵿 鼪
 shengchan 生产
 shengcheng 生成 声称
 shengcun 生存
@@ -4422,7 +4430,7 @@ shizhi 是指 食指
 shizhong 始终
 shizi 师资
 shizijishi 师资及是
-shou 受 首 收 手 授 守 售 瘦 寿 兽 狩 绶 艏 収 嘼 垨 壽 夀 扌 掱 敊 涛 涭 濤 熟 獣 獸 痩 綬 膄 醻 鏉
+shou 受 收 手 首 授 守 售 瘦 寿 兽 狩 绶 艏 収 嘼 垨 壽 夀 扌 掱 敊 涛 涭 濤 熟 獣 獸 痩 綬 膄 醻 鏉
 shouban 首班
 shoubi 手臂
 shoucang 收藏
@@ -5249,6 +5257,7 @@ xiabanshen 下半身
 xiabiao 下标
 xiabing 夏冰
 xiabu 下部
+xiachang 狭长
 xiache 下车
 xiaci 下次 瑕疵
 xiade 下的
@@ -5295,7 +5304,7 @@ xiangqilai 响起来
 xiangqing 详情
 xiangrikui 向日葵
 xiangshan 香山
-xiangshi 详实
+xiangshi 详实 想时
 xiangshu 详述
 xiangsi 相似
 xiangta 向她
@@ -5906,7 +5915,7 @@ yishi 意识 仪式 已是 以示 以十 一时 遗失
 yishigan 仪式感
 yishou 一首
 yishu 艺术
-yisi 意思
+yisi 意思 一丝
 yisuo 一所
 yitao 一套
 yiti 一题
@@ -6126,6 +6135,7 @@ yukuai 愉快
 yulan 预览 玉兰
 yule 娱乐 玉了
 yuleping 娱乐屏
+yuli 余力
 yuliao 语料
 yuliu 预留
 yulong 玉龙
@@ -6493,7 +6503,7 @@ zhizai 旨在 只在
 zhize 指责
 zhizhe 智者
 zhizhen 指针
-zhizhi 纸质
+zhizhi 纸质 直指
 zhizhiqian 值之前
 zhizuo 制作
 zhong 中 种 重 众 终 钟 忠 衷 肿 仲 锺 踵 盅 冢 忪 舯 螽 乑 伀 偅 刣 喠 堹 塚 夂 妐 妕 媑 尰 幒 彸 徸 柊 歱 汷 泈 潼 炂 煄 狆 瘇 眾 祌 種 穜 童 筗 籦 終 緟 腫 舂 茽 董 蔠 蚛 蚣 蝩 螤 蟲 衆 衳 衶 褈 諥 蹱 迚 鈆 鈡 銿 鍾 鐘 鴤 鼨
