@@ -41,6 +41,7 @@ bi 9 1
 bian 7
 biancheng 1
 bianhua 1
+bianhuan 1
 bianma 2
 biantong 1
 bianyi 1 1
@@ -560,6 +561,7 @@ jue 1
 juede 26
 jueding 2
 juedui 2
+julei 1
 juli 3
 junguan 1
 kai 3
@@ -1271,7 +1273,7 @@ youyige 2
 youyigeci 1
 youyu 1
 youzheng 1
-yu 13 6
+yu 14 6
 yuan 1 1
 yuanlai 1
 yuanli 1
