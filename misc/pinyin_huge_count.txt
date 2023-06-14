@@ -172,7 +172,7 @@ cuo 7
 cuocuoshi 1
 cuoshan 1
 cuoshi 1 1
-d 840
+d 842
 da 14 11
 daan 4
 dabao 1 1
@@ -235,7 +235,7 @@ dier 1
 difang 2
 dijiao 1
 dili 1
-ding 2
+ding 3
 dingkong 1
 dipan 1
 disheng 1
@@ -467,7 +467,7 @@ ji 5
 jiagong 1
 jiajihua 2
 jiakuai 2
-jian 3
+jian 4
 jianbang 2
 jiance 2
 jiandan 2
@@ -480,6 +480,7 @@ jiangyao 1
 jiankong 1
 jianli 1
 jianxiao 1
+jiaoben 1
 jiaodu 1
 jiaojian 1
 jiaoshi 1
@@ -597,7 +598,7 @@ kunjing 1
 kuzi 1
 l 376
 la 1
-lai 25
+lai 26
 laishuo 7
 laizi 2
 laofang 2
@@ -910,7 +911,7 @@ shiwang 3
 shixian 2
 shiyan 2
 shiye 2
-shiyong 1
+shiyong 3
 shizai 4 1
 shizi 1
 shizijishi 1
@@ -1050,7 +1051,7 @@ weixie 7
 weiyan 1
 weiyi 1
 weiyu 1
-weizhi 2
+weizhi 3
 wen 5
 wenjian 5
 wenku 2
@@ -1125,6 +1126,7 @@ xiexu 2
 xiezi 1
 xiezuo 3 3
 xijie 1
+xilie 1
 xin 11 3 1
 xing 6
 xingcheng 3
@@ -1277,7 +1279,7 @@ yushi 7
 yuwang 1 1
 yuzhou 2
 za 1
-zai 133 8
+zai 134 8
 zaici 1
 zaidu 1
 zainali 1
@@ -1346,6 +1348,7 @@ zhisheng 2
 zhishi 21 19
 zhiwen 1
 zhiwu 1
+zhixing 1
 zhixu 1
 zhiyao 8
 zhiyi 1
