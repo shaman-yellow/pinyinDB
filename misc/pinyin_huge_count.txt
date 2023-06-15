@@ -924,7 +924,7 @@ shishui 2
 shitu 1 2
 shiwang 3
 shixian 2
-shiyan 2
+shiyan 3
 shiye 2
 shiyong 4
 shizai 4 1
@@ -1010,6 +1010,7 @@ tijiao 1
 tingqi 1
 tingxi 1
 tingxin 1
+tiqu 1
 tiwen 2
 tixing 1
 tong 9 1
