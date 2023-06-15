@@ -342,6 +342,7 @@ ganbu 1
 gandao 18
 gang 2
 ganghua 1
+gangwei 1
 ganjue 8
 ganshou 3
 ganxie 1
