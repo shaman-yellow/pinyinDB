@@ -106,6 +106,7 @@ caice 1
 caihui 1
 caiqu 1
 caiyou 1
+caiyun 1
 cangzai 3
 canji 1
 cankao 4
@@ -489,6 +490,7 @@ jiaoben 1
 jiaodu 1
 jiaojian 1
 jiaoshi 1
+jiaoshou 1
 jiaotang 4
 jiaru 1
 jiazhi 2
