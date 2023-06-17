@@ -1337,6 +1337,7 @@ fangan 方案
 fangbian 方便
 fangcha 方差
 fangda 放大
+fangdangbuji 放荡不羁
 fangfa 方法
 fangfan 防范
 fangfanfangzai 防范放在
@@ -6490,7 +6491,7 @@ zhifa 指法
 zhifeng 之风
 zhifu 支付 制服
 zhifubao 支付宝
-zhigan 枝干 只敢
+zhigan 只敢 枝干
 zhihao 只好
 zhihou 之后 滞后
 zhihui 智慧

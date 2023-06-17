@@ -187,7 +187,7 @@ cuo 7
 cuocuoshi 1
 cuoshan 1
 cuoshi 1 1
-d 975
+d 976
 da 15 11
 daan 4
 dabao 1 1
@@ -320,6 +320,7 @@ fan 2 1
 fang 8 2
 fangai 1
 fangda 1
+fangdangbuji 1
 fangfa 1
 fangjian 1
 fangqi 2
@@ -1047,6 +1048,7 @@ su 1
 suan 5 2
 suansuan 1
 sui 3
+suiji 1
 suiran 1
 suo 5
 suowei 1
@@ -1158,7 +1160,7 @@ wennuan 1
 wenti 11
 wenzhou 2
 wenzi 1
-wo 217
+wo 219
 wode 1
 wohe 1
 wohen 2
@@ -1235,7 +1237,7 @@ xiee 1 1
 xiehui 1
 xiexu 2
 xiezi 1
-xiezuo 3 3
+xiezuo 4 3
 xijie 1
 xilie 1
 xin 11 3 1
@@ -1460,7 +1462,7 @@ zhicheng 2
 zhichi 2
 zhidao 13
 zhide 1
-zhigan 1 2
+zhigan 4 1
 zhihao 1
 zhihou 8
 zhihui 4
