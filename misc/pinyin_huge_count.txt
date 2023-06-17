@@ -183,7 +183,7 @@ cuo 7
 cuocuoshi 1
 cuoshan 1
 cuoshi 1 1
-d 955
+d 956
 da 15 11
 daan 4
 dabao 1 1
@@ -440,7 +440,7 @@ haojiu 1
 haojuhaosan 1
 haowu 1
 haoxiang 17
-he 95 2
+he 96 2
 hecheng 1
 hehuang 1
 hei 4
@@ -478,7 +478,7 @@ huamian 1
 huan 3
 huang 1
 huanglichuang 1
-huanjing 1
+huanjing 2
 huanshang 1
 huayi 1
 hui 32 25
@@ -1133,6 +1133,7 @@ weiyi 1
 weiyu 1
 weizhi 4
 wen 5
+wendang 1
 wendao 1
 wenjian 6
 wenku 2
@@ -1252,7 +1253,7 @@ xuesheng 2
 xuexi 2
 xuexiao 5
 xuexiqu 1
-xulie 7
+xulie 8
 xunhuan 1
 xunhuankeni 1
 xunzhao 1
