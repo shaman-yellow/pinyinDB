@@ -1008,7 +1008,7 @@ shuijiao 1
 shuimian 1
 shuiping 1
 shuju 7
-shujuku 1
+shujuku 2
 shun 3
 shuo 86
 shuode 2
