@@ -2439,7 +2439,7 @@ jiebai 洁白
 jiechu 杰出
 jieci 借此 介词
 jiedai 接待
-jiedao 街道
+jiedao 街道 介导
 jiede 借的
 jiedian 节点
 jieduan 阶段
@@ -2510,6 +2510,7 @@ jilie 激烈
 jilin 吉林
 jilu 记录
 jilv 几率
+jimei 激酶
 jimeiyou 及没有
 jimiao 几秒
 jin 仅 进 近 金 今 尽 紧 禁 劲 津 斤 谨 锦 筋 晋 巾 浸 襟 瑾 矜 靳 缙 烬 噤 觐 馑 堇 衿 荩 廑 妗 卺 赆 槿 伒 侭 僅 僸 儘 兓 凚 劤 勁 厪 吟 唫 嚍 埐 堻 墐 壗 婜 嫤 嬐 嬧 寖 嶜 巹 惍 慬 搢 斳 晉 枃 榗 歏 殣 浕 溍 漌 濅 濜 煡 燼 珒 琎 琻 瑨 璡 璶 盡 砛 祲 竻 笒 紟 紾 緊 縉 肋 臸 荕 菫 菳 蓳 藎 覲 觔 訡 謹 賮 贐 進 釒 釿 鋟 錦 钅 锓 饉 馸 鹶 黅 齽
@@ -4588,6 +4589,7 @@ shuzhuang 树状
 shuzi 数字
 shuzu 数组
 si 死 四 思 斯 司 似 私 丝 寺 撕 肆 厮 嘶 伺 饲 嗣 祀 巳 驷 鸶 俟 汜 泗 厶 兕 蛳 咝 姒 澌 缌 耜 笥 锶 亖 以 佀 佁 価 俬 偲 傂 儩 凘 厕 厠 台 噝 娰 媤 孠 廝 徙 恖 愢 杫 析 枱 柶 梩 楒 榹 泀 泤 洍 涘 瀃 燍 牭 磃 祠 禗 禠 禩 竢 簛 糸 糹 絲 緦 纟 罒 罳 肂 肄 菥 蕬 蕼 虒 蜤 螄 螔 蟖 蟴 覗 謕 貄 逘 釲 鈶 鈻 鉰 銉 銯 鋖 鍶 鐁 雉 颸 飔 食 飤 飴 飼 饴 駟 騃 騦 鷉 鷥 麗 鼶
+siansuan 丝氨酸
 sibu 似不
 sichou 丝绸
 sifeng 四风
@@ -4623,6 +4625,7 @@ suan 算 酸 蒜 狻 匴 撰 痠 祘 笇 筭 篹 选 選
 suanchu 算出
 suanfa 算法
 suanfen 算分
+suansuan 苏氨酸
 sucai 素材
 sudu 速度
 sufa 速发

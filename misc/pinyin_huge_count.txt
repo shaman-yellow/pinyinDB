@@ -78,6 +78,7 @@ buda 1
 budao 2
 buduan 5
 budui 5
+bufen 1
 bugan 1
 bugou 2
 buguan 5
@@ -170,7 +171,7 @@ chuxian 5
 chuzai 2
 ci 1 1
 cishi 1
-cong 20
+cong 21
 conglai 3
 cubao 1
 cui 1
@@ -183,7 +184,7 @@ cuo 7
 cuocuoshi 1
 cuoshan 1
 cuoshi 1 1
-d 963
+d 964
 da 15 11
 daan 4
 dabao 1 1
@@ -217,7 +218,7 @@ danwei 1
 danxin 1
 danyou 2
 danyuan 1 1
-dao 48 2 1 2 2
+dao 49 2 2 2 2
 daochu 1
 daodi 2
 daole 2
@@ -494,7 +495,7 @@ huizhi 2
 hun 6
 hunguoqu 2
 hunhei 1
-huo 4
+huo 5
 huoda 1
 huoqu 2
 huozhe 11 5 1
@@ -552,6 +553,7 @@ jihua 2
 jihui 12
 jijinjichu 1
 jilu 1
+jimei 1
 jimeiyou 2
 jing 3
 jingdian 1 1
@@ -1022,6 +1024,7 @@ shushi 1
 shuxi 1
 shuyu 2
 si 9 1
+siansuan 1
 sihu 3
 sikao 4
 sile 1
@@ -1032,7 +1035,9 @@ sixing 1
 sm 1
 song 1
 sou 1
-suan 5
+su 1
+suan 5 2
+suansuan 1
 sui 3
 suiran 1
 suo 5
