@@ -3411,6 +3411,7 @@ morenzhi 默认值
 moshi 模式
 mosun 磨损
 mosuo 摸索
+moti 模体
 mou 某 谋 眸 缪 鍪 哞 侔 蛑 件 劺 厶 堥 婺 恈 敄 桙 毋 洠 牟 瞴 繆 蟱 袤 謀 鉾 鞪 鴾 麰
 mouge 某个
 mouji 某级
