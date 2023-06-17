@@ -184,7 +184,7 @@ cuo 7
 cuocuoshi 1
 cuoshan 1
 cuoshi 1 1
-d 967
+d 968
 da 15 11
 daan 4
 dabao 1 1
@@ -1278,7 +1278,7 @@ yang 4
 yangben 2
 yangqinaodai 1
 yanjing 18
-yanjiu 2
+yanjiu 3
 yanshen 2
 yanshi 1
 yanwo 1
