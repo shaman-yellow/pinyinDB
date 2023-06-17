@@ -183,7 +183,7 @@ cuo 7
 cuocuoshi 1
 cuoshan 1
 cuoshi 1 1
-d 962
+d 963
 da 15 11
 daan 4
 dabao 1 1
@@ -205,7 +205,7 @@ daliang 1
 dama 1
 dan 24
 danbai 4
-danbaizhi 5
+danbaizhi 6
 dang 1 1
 dangchu 1
 dangshi 5
@@ -1161,6 +1161,7 @@ wu 3 3 2
 wubi 1 1
 wuchi 1
 wufa 11
+wuli 1
 wuliao 4
 wulun 1
 wuqu 2
@@ -1233,7 +1234,7 @@ xingrong 1
 xingshi 3
 xingwei 2
 xingxiang 1
-xingzhi 2
+xingzhi 3
 xinli 3
 xinpian 1
 xinren 2
