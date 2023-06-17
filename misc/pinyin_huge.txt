@@ -110,6 +110,7 @@ baole 报了
 baoli 暴力
 baoliu 保留
 baolu 暴露
+baoluzai 暴露在
 baomi 保密
 baoming 包名 报名
 baomu 报幕
@@ -624,7 +625,7 @@ chidao 迟到
 chifan 吃饭
 chiku 吃苦
 chixu 持续
-chong 重 冲 充 崇 虫 宠 憧 忡 艟 茺 舂 铳 偅 傭 僮 喠 嘃 埫 寵 崈 徸 憃 揰 摏 樁 沖 浺 涌 漴 潼 烛 爞 珫 痋 盅 祌 种 種 緟 罿 翀 茧 蝩 蟲 衝 褈 蹖 蹱 酮 銃 隀
+chong 冲 重 充 崇 虫 宠 憧 忡 艟 茺 舂 铳 偅 傭 僮 喠 嘃 埫 寵 崈 徸 憃 揰 摏 樁 沖 浺 涌 漴 潼 烛 爞 珫 痋 盅 祌 种 種 緟 罿 翀 茧 蝩 蟲 衝 褈 蹖 蹱 酮 銃 隀
 chongbai 崇拜
 chongdingxiang 重定向
 chongfen 充分
@@ -816,6 +817,7 @@ dabian 答辩
 dadan 大胆
 dadao 达到 大道
 dade 大的
+dadi 打地
 dadou 大都
 dadu 打赌 大度
 daduan 大段
@@ -942,6 +944,7 @@ daquan 大全 打拳
 daren 达人
 daru 大入
 dasai 大赛
+dasaidanshi 大赛但是
 dasha 大厦
 dashi 大师 大势 大事
 dati 答题 大体
@@ -1734,6 +1737,7 @@ gua 挂 瓜 刮 寡 呱 褂 卦 剐 鸹 栝 胍 诖 冎 剮 劀 叧 咶 咼 啩 
 guai 怪 乖 拐 掴 叏 哙 噲 夬 恠 枴 柺 箉 罫
 guaiwu 怪物
 guajian 挂件
+gualan 刮烂
 guan 关 管 观 官 馆 惯 冠 贯 罐 灌 棺 莞 倌 纶 掼 盥 涫 鳏 鹳 丱 串 卝 婠 悹 悺 慣 懽 摜 斡 果 桄 樌 櫬 權 毌 沦 泴 淉 淪 潅 爟 琯 瓘 痯 瘝 癏 矔 矜 礶 祼 窤 筦 綸 罆 舘 菅 萖 蒄 覌 観 觀 貫 躀 輨 遦 錧 鏆 鑵 閞 関 闗 關 雚 館 鰥 鱞 鱹 鳤 鵍 鸛
 guanbi 关闭
 guanche 贯彻
@@ -2001,6 +2005,7 @@ hengxiang 横向
 henhao 很好
 henhenjin 狠狠劲
 heni 和你
+henji 痕迹
 henjiu 很久 很旧
 henkuai 很快
 henmang 很忙
@@ -2035,6 +2040,7 @@ hezhong 何种
 hezhu 合住
 hezi 盒子
 hezuo 合作
+hjuiji 汇集
 hong 红 轰 洪 鸿 哄 宏 虹 弘 烘 泓 闳 薨 讧 蕻 訇 黉 荭 仜 厷 叿 吰 吽 哅 唝 嗊 嚝 垬 妅 娂 宖 屸 巆 彋 愩 揈 撔 晎 汪 汯 浤 浲 港 渱 渹 潂 澋 澒 灴 焢 玒 玜 瓨 硔 硡 竑 竤 篊 粠 紅 紘 紭 綋 纮 羾 翃 翝 耾 舼 苰 葒 葓 訌 謍 谹 谼 谾 軣 輷 轟 鈜 鉷 銾 鋐 鍧 閎 閧 闀 闂 霐 霟 鞃 鬨 魟 鴻 黌
 hongbao 红包
 hongdian 红点
@@ -2163,6 +2169,7 @@ huiguo 回国 回过
 huihe 回合 会和
 huihua 会话
 huihui 慧慧
+huiji 汇集
 huijia 回家
 huilai 回来
 huilv 汇率
@@ -2693,6 +2700,7 @@ juesai 决赛
 juese 角色
 jufeng 巨凤
 juhui 聚会
+juiji 汇集
 jujiao 聚焦
 jujue 拒绝
 julei 聚类
@@ -3320,8 +3328,9 @@ mengbi 懵逼
 mengdui 蒙对
 menglong 梦龙 朦胧
 mengpi 蒙皮
+mengya 萌芽
 menhao 门号
-menya 门牙
+menya 门牙 萌芽
 mi 米 蜜 密 秘 迷 弥 谜 觅 眯 靡 咪 谧 泌 糜 汨 宓 麋 醚 弭 敉 芈 祢 脒 幂 縻 嘧 蘼 猕 糸 侎 冖 冞 冪 劘 哋 塓 孊 宻 尒 尓 尔 峚 幎 幦 幺 彌 戂 摩 摵 擟 擵 攠 榓 樒 檷 櫁 沕 沵 洣 淧 渳 溟 滵 漞 濔 濗 瀰 灖 熐 爢 爾 獯 獼 瓕 眫 眽 瞇 瞴 祕 禰 穈 簚 籋 粎 罙 羃 羋 苾 葞 蒾 蓂 蔝 蔤 藌 蝆 袮 覓 覔 覛 詸 謎 謐 辟 醾 醿 釄 銤 鑖 镾 鸍 麊 麛 鼏
 mian 面 免 棉 眠 缅 绵 勉 腼 冕 娩 湎 沔 眄 黾 渑 丏 俛 偭 冥 勔 厸 喕 婂 媔 嬵 宀 愐 檰 櫋 汅 泯 湣 澠 牑 瞑 矈 矊 矏 糆 絻 綿 緍 緜 緡 緬 缗 臱 芇 莬 葂 蝒 蠠 靣 靦 鮸 麪 麫 麵 麺 黽
 mianban 面板
@@ -3394,6 +3403,7 @@ mofa 魔法
 mohu 模糊
 mojin 摸进
 mokuai 模块
+molan 磨烂
 moni 模拟
 moqi 默契
 moren 默认
@@ -3600,6 +3610,7 @@ nong 农 弄 浓 侬 哝 脓 儂 咔 噥 憹 挊 挵 欁 濃 癑 禯 秾 穠 繷
 nongcun 农村
 nongli 农历
 nongsuo 浓缩
+nongyinbi 浓荫庇
 nou 耨 啂 嬬 搙 擩 槈 檽 獳 羺 譨 譳 鎒 鐞
 nu 怒 努 奴 弩 驽 胬 孥 仅 伖 伮 傉 呶 帑 搙 擩 砮 笯 褥 詉 駑
 nuan 暖 奻 渜 湪 濡 煖 煗 餪
@@ -4336,6 +4347,7 @@ shexiang 设想
 sheying 摄影
 shezhang 社长
 shezhi 设置
+shezhu 摄住
 shi 是 时 视 十 使 师 试 室 始 事 实 世 市 识 士 诗 式 失 史 示 食 势 石 释 施 适 氏 驶 饰 尸 拾 逝 湿 誓 狮 嗜 蚀 嘘 屎 侍 匙 峙 仕 恃 柿 轼 矢 噬 拭 虱 弑 蓍 埘 莳 炻 谥 鲥 豕 贳 铈 螫 舐 筮 鲺 酾 丗 乨 亊 什 似 佀 佦 兘 冟 勢 卋 厔 叓 呞 呩 咶 唑 啇 噓 埶 堤 塒 奭 姼 媞 嬕 実 宩 宲 寔 實 寺 屍 峕 崼 嵵 師 弒 彖 徥 忕 忯 恀 惿 戺 提 揓 斯 旹 昰 時 枾 柹 栻 楴 榁 榯 檡 殖 汁 沶 洂 浉 液 湜 湤 溡 溮 溼 澤 澨 濕 烒 煶 狧 狶 獅 瑡 畤 痑 眂 眎 眡 睗 礻 祏 禵 秲 竍 笶 笹 筛 箷 篒 篩 簭 籂 籭 絁 繹 绎 耆 肢 胑 舍 舓 葹 蒒 蒔 蝕 蝨 褆 褷 襫 襹 視 觢 訑 試 詩 諟 諡 謚 識 貰 赫 跩 軾 辻 遈 遞 適 遰 遾 邿 郝 醳 釃 釈 釋 釶 鈰 鉂 鉃 鉇 鉈 鉐 鉽 銴 鍉 鍦 鎩 铊 铩 飠 飭 飾 餙 餝 饣 饬 馶 駛 魳 鮖 鯴 鰘 鰣 鰤 鳲 鳾 鶳 鸤 鼫 鼭 齛 齥
 shia 是啊
 shibai 失败
@@ -4374,7 +4386,7 @@ shihou 时候 事后
 shihuai 释怀
 shiji 时机 实际
 shijia 施加
-shijian 事件 时间 实践
+shijian 时间 事件 实践
 shijianchuo 时间戳
 shijianduan 时间段
 shijianzhihe 时间之河
@@ -4441,7 +4453,7 @@ shizhi 是指 食指
 shizhong 始终
 shizi 师资
 shizijishi 师资及是
-shou 受 收 手 首 授 守 售 瘦 寿 兽 狩 绶 艏 収 嘼 垨 壽 夀 扌 掱 敊 涛 涭 濤 熟 獣 獸 痩 綬 膄 醻 鏉
+shou 受 手 收 首 授 守 售 瘦 寿 兽 狩 绶 艏 収 嘼 垨 壽 夀 扌 掱 敊 涛 涭 濤 熟 獣 獸 痩 綬 膄 醻 鏉
 shouban 首班
 shoubi 手臂
 shoucang 收藏
@@ -5003,7 +5015,7 @@ waiyu 外语
 waiyuan 外院
 waizai 外在
 wajue 挖掘
-wan 万 完 玩 晚 湾 碗 弯 挽 顽 腕 婉 惋 宛 丸 蔓 蜿 莞 畹 剜 豌 皖 纨 琬 脘 烷 芄 菀 绾 乛 倇 免 关 刓 卍 卐 唍 园 埦 塆 壪 夗 夘 妧 娩 婠 孯 岏 帵 彎 忨 惌 抏 捖 捥 掔 晩 晼 朊 杤 梚 椀 槾 汍 涴 潫 澫 灣 琓 盌 睕 笂 箢 紈 絻 綄 綩 綰 翫 脕 苋 莧 莬 萖 萬 薍 蚖 貦 貫 贃 贎 贯 踠 輐 輓 邜 鄤 鋄 鋔 鋺 錽 鍐 鎫 関 闗 關 頑 骩 骪 骫 魭
+wan 完 万 玩 晚 湾 碗 弯 挽 顽 腕 婉 惋 宛 丸 蔓 蜿 莞 畹 剜 豌 皖 纨 琬 脘 烷 芄 菀 绾 乛 倇 免 关 刓 卍 卐 唍 园 埦 塆 壪 夗 夘 妧 娩 婠 孯 岏 帵 彎 忨 惌 抏 捖 捥 掔 晩 晼 朊 杤 梚 椀 槾 汍 涴 潫 澫 灣 琓 盌 睕 笂 箢 紈 絻 綄 綩 綰 翫 脕 苋 莧 莬 萖 萬 薍 蚖 貦 貫 贃 贎 贯 踠 輐 輓 邜 鄤 鋄 鋔 鋺 錽 鍐 鎫 関 闗 關 頑 骩 骪 骫 魭
 wanbei 完备
 wanbi 完毕
 wanbing 万并
@@ -5247,7 +5259,7 @@ wuqiong 无穷
 wuqu 舞曲
 wuquan 五拳
 wuren 无人
-wushi 五十 务实
+wushi 五十 务实 无视
 wutai 舞台
 wuti 物体
 wuxi 无锡
@@ -5257,6 +5269,7 @@ wuxing 无形
 wuxiu 午休
 wuxu 无需
 wuyi 五一 无疑
+wuyin 无垠
 wuyiyi 无意义
 wuyong 误用
 wuzhong 物种
@@ -5340,6 +5353,7 @@ xianjiao 现教
 xianka 显卡
 xianlin 仙林
 xianlu 线路
+xianluo 陷落
 xianmu 羡慕
 xianqi 先启 限期
 xianquan 线圈
@@ -5574,6 +5588,7 @@ xiuhui 修回
 xiuman 袖漫
 xiuxika 休息咖
 xiuyang 修养
+xiuyu 羞于
 xiuzheng 修正
 xiuzi 袖子
 xiwang 希望
@@ -5690,7 +5705,6 @@ yangxu 杨旭
 yangyan 杨颜
 yangzhi 养殖 杨志
 yangzhiye 养殖业
-yangzi 杨子
 yanhou 延后
 yanhua 演化
 yanjia 严加
@@ -5850,7 +5864,8 @@ yimen 一门
 yimian 以免
 yiming 佚名 一名
 yin 音 银 因 引 印 隐 饮 阴 姻 瘾 吟 寅 殷 淫 茵 荫 尹 蚓 垠 喑 湮 胤 鄞 氤 霪 圻 铟 狺 吲 夤 堙 龈 洇 茚 窨 乑 乚 伒 众 侌 傿 冘 凐 听 唫 噖 噾 嚚 囙 圁 垔 垦 垽 堷 壹 婣 婬 峾 崟 崯 嶾 币 廕 廴 愔 慇 慭 憖 憗 懚 斦 朄 栶 梀 檃 檭 檼 櫽 欭 欽 歅 殥 沂 泿 洕 浔 淾 湚 溵 滛 潭 潯 濥 濦 烎 烟 犾 猌 玪 珢 璌 瘖 癊 癮 硍 碒 磤 禋 秵 筃 粌 絪 緸 縯 芩 苂 荶 蒑 蔩 蔭 蘟 螾 蟫 裀 言 訔 訚 訡 訢 誾 諲 讔 赺 趛 輑 酓 酳 釿 鈏 鈝 銀 銦 闇 闉 阥 陰 陻 隂 隠 隱 霒 霠 靷 鞇 韾 飮 飲 駰 骃 鮣 鷣 齗 齦 龂
-yinbi 隐蔽
+yinbi 隐蔽 荫庇
+yinbixia 荫庇下
 yincang 隐藏
 yinchu 引出
 yinci 因此
@@ -5918,7 +5933,7 @@ yinzi 因子
 yiqi 一起 以其 仪器 以期
 yiqian 以前
 yiqie 一切
-yiqing 一请 怡情
+yiqing 一请 怡情 移情
 yiqiu 以求
 yiqu 一趣
 yiquan 一拳
@@ -5989,7 +6004,7 @@ yongyou 拥有
 yongyu 用于 勇于 用语
 yongzhe 勇者
 yongzuo 用做 用作
-you 有 右 由 又 优 油 友 游 邮 幽 尤 忧 犹 悠 幼 诱 佑 黝 攸 呦 酉 柚 鱿 莠 囿 鼬 铀 卣 猷 牖 铕 疣 蚰 蝣 釉 蝤 繇 莜 侑 莸 宥 蚴 尢 丣 亴 偤 優 冘 叹 哊 唀 嚘 坳 奥 妋 姷 孧 尣 峟 峳 庮 怞 怣 怮 憂 懮 戭 扰 揂 揄 斿 栯 梄 梎 楢 槱 櫌 櫾 汓 汼 沋 泅 泈 泑 浟 湵 滺 瀀 牗 牰 狖 猶 獶 甴 痏 祐 禉 秞 糿 纋 羐 羑 羗 耰 聈 聱 肬 脜 脩 苃 莤 蒏 蕕 蚘 蜏 褎 褏 訧 誘 貁 輏 輶 迶 逌 逰 遊 邎 郵 鄾 酭 鈾 銪 銹 锈 駀 魷 鮋 鲉 麀
+you 有 右 又 由 优 油 友 游 邮 幽 尤 忧 犹 悠 幼 诱 佑 黝 攸 呦 酉 柚 鱿 莠 囿 鼬 铀 卣 猷 牖 铕 疣 蚰 蝣 釉 蝤 繇 莜 侑 莸 宥 蚴 尢 丣 亴 偤 優 冘 叹 哊 唀 嚘 坳 奥 妋 姷 孧 尣 峟 峳 庮 怞 怣 怮 憂 懮 戭 扰 揂 揄 斿 栯 梄 梎 楢 槱 櫌 櫾 汓 汼 沋 泅 泈 泑 浟 湵 滺 瀀 牗 牰 狖 猶 獶 甴 痏 祐 禉 秞 糿 纋 羐 羑 羗 耰 聈 聱 肬 脜 脩 苃 莤 蒏 蕕 蚘 蜏 褎 褏 訧 誘 貁 輏 輶 迶 逌 逰 遊 邎 郵 鄾 酭 鈾 銪 銹 锈 駀 魷 鮋 鲉 麀
 youai 友爱
 youba 又把
 youbian 邮编 右边
@@ -6466,6 +6481,7 @@ zhifa 指法
 zhifeng 之风
 zhifu 支付 制服
 zhifubao 支付宝
+zhigan 枝干
 zhihao 只好
 zhihou 之后 滞后
 zhihui 智慧
@@ -6736,6 +6752,7 @@ zixi 仔细
 zixing 自行 自省
 zixun 咨询
 ziyan 自研
+ziyang 滋养
 ziyi 自已
 ziyou 自有 自由
 ziyuan 资源 自愿
