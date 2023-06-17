@@ -39,7 +39,7 @@ babangding 把绑定
 babaxi 把把戏
 babuneng 把不能
 bai 白 百 败 摆 伯 拜 柏 呗 掰 捭 佰 稗 唄 庍 扒 拝 挀 排 擺 敗 栢 派 猈 竡 粨 粺 絔 薜 薭 襬 贁 鞁 鞴 韛
-baibai 拜拜
+baibai 拜拜 白白
 baida 白搭
 baidu 百度 拜读
 baifang 摆放
@@ -801,6 +801,7 @@ cunzaiyu 存在于
 cuo 错 措 搓 挫 撮 磋 蹉 矬 嵯 脞 痤 瘥 鹾 厝 锉 剉 剒 夎 嵳 庴 摧 昔 最 棤 澨 營 瑳 睉 縒 莝 莡 蒫 蓌 蔖 虘 襊 諎 躜 躦 逪 遳 酂 酇 醝 銼 錯 髊 鹺 齹
 cuoci 措辞
 cuocuoshi 错错失
+cuokai 搓开
 cuoshan 磋商
 cuoshi 措施 错视
 cuowei 错位
@@ -1270,6 +1271,7 @@ duozhong 多种
 duozou 夺走
 duqu 读取
 duse 堵塞
+dushen 独身
 dushou 毒手
 dute 独特
 duxie 读写
@@ -1448,6 +1450,7 @@ fenjie 分解
 fenlei 分类
 fenliang 分量
 fenmiao 分秒
+fennen 粉嫩
 fenpai 分派
 fenpei 分配
 fenping 分屏
@@ -3008,6 +3011,7 @@ lianban 联办
 lianbang 联邦
 liandong 联动
 liang 两 量 亮 良 辆 梁 俩 凉 粮 谅 粱 晾 踉 莨 墚 魉 椋 靓 両 俍 倆 倞 兩 哴 唡 啢 喨 悢 惊 掚 樑 涼 湸 煷 簗 糧 綡 緉 脼 蜋 蜽 裲 諒 蹒 蹣 輌 輛 輬 辌 鍄 閬 阆 靚 駺 魎
+liangban 两瓣
 liangce 两侧
 liangchu 亮出
 liangci 两次
@@ -3273,6 +3277,7 @@ mao 帽 毛 冒 猫 贸 矛 貌 茅 茂 髦 卯 耄 瑁 锚 懋 袤 铆 峁 牦 
 maocaogan 毛糙感
 maochong 冒充
 maodian 锚点
+maofa 毛发
 maoyu 冒雨
 matao 马涛
 matou 码头
@@ -3523,6 +3528,7 @@ nengliang 能量
 nengliangtiao 能量条
 nengyuan 能源
 nengzuo 能做
+nennen 嫩嫩
 ng 嗯 唔
 ni 你 逆 尼 呢 泥 倪 匿 拟 腻 妮 霓 昵 溺 旎 睨 鲵 坭 猊 怩 伲 祢 慝 铌 伱 儗 儞 児 兒 埿 堄 妳 婗 嫟 嬭 嬺 孨 孴 屔 屰 嶷 彌 惄 愵 懝 抐 抳 掜 擬 晲 暱 柅 棿 檷 氼 淣 滠 濔 濘 瀰 灄 狔 痆 眤 禰 秜 籾 縌 聻 胒 腝 膩 臡 苨 薿 蚭 蛪 蜺 袮 觬 誽 譺 貎 跜 輗 迡 郳 鈮 鉨 鑈 镾 隬 馜 鯢 麑 齯
 nian 年 念 廿 粘 碾 捻 蔫 撵 拈 黏 鲶 鲇 辇 埝 卄 哖 唸 姩 捵 撚 攆 榐 涊 淰 溓 痆 秊 秥 簐 艌 趁 趂 跈 蹍 蹨 躎 輦 輾 辗 鮎 鯰 鵇
@@ -4272,7 +4278,7 @@ sheji 设计 射击 涉及
 shejiao 社交
 shelie 涉猎
 shemi 奢靡
-shen 甚 身 什 深 神 参 申 审 沈 伸 慎 渗 绅 肾 呻 婶 莘 蜃 葚 娠 渖 矧 诜 砷 糁 谂 椹 胂 哂 伔 侁 侺 信 兟 參 叄 叅 吲 嘇 堔 妽 姺 嫀 嬸 孞 宷 審 屾 峷 幓 弞 愼 扟 抌 抻 搷 昚 曋 柛 棯 椮 榊 槮 氠 涁 淰 滲 瀋 燊 珅 甡 甧 瘆 瘮 眒 眘 瞋 瞫 矤 祳 穼 籶 籸 紳 綝 罙 罧 脤 腎 葠 蓡 蔘 薓 蜄 裑 覾 訠 訷 詵 諗 讅 谉 邥 鉮 鋠 震 頣 駪 魫 鯅 鯓 鯵 鰰 鰺 鲹 鵢 黮
+shen 身 甚 什 深 神 参 申 审 沈 伸 慎 渗 绅 肾 呻 婶 莘 蜃 葚 娠 渖 矧 诜 砷 糁 谂 椹 胂 哂 伔 侁 侺 信 兟 參 叄 叅 吲 嘇 堔 妽 姺 嫀 嬸 孞 宷 審 屾 峷 幓 弞 愼 扟 抌 抻 搷 昚 曋 柛 棯 椮 榊 槮 氠 涁 淰 滲 瀋 燊 珅 甡 甧 瘆 瘮 眒 眘 瞋 瞫 矤 祳 穼 籶 籸 紳 綝 罙 罧 脤 腎 葠 蓡 蔘 薓 蜄 裑 覾 訠 訷 詵 諗 讅 谉 邥 鉮 鋠 震 頣 駪 魫 鯅 鯓 鯵 鰰 鰺 鲹 鵢 黮
 shenao 深奥
 shenban 申办
 shenbao 申报
@@ -4835,6 +4841,7 @@ tifa 提法
 tigang 提纲
 tigao 提高
 tigong 提供
+tiguo 剃过
 tihuan 替换
 tiji 体积
 tijian 体检
@@ -5251,6 +5258,7 @@ wuhan 武汉
 wuhao 五号
 wujian 物件
 wujie 误解
+wujin 无尽
 wuli 物理 无礼 无力
 wuliang 无量
 wulianwang 物联网
@@ -5455,6 +5463,7 @@ xiaqu 下去
 xiashu 下述
 xiashuang 下爽
 xiashui 下水
+xiati 下体
 xiatian 夏恬
 xiatu 下图
 xiawen 下文 夏文
@@ -5547,6 +5556,7 @@ xingwen 行文
 xingxiang 形象
 xingxing 星星
 xingye 性也
+xingyu 性欲
 xingyun 幸运
 xingzheng 行政
 xingzhi 性质
@@ -5876,6 +5886,7 @@ yinbi 隐蔽 荫庇
 yinbixia 荫庇下
 yincang 隐藏
 yinchu 引出
+yinchun 阴唇
 yinci 因此
 yindao 引导
 yindu 印度
@@ -6357,6 +6368,7 @@ zhanxia 站下
 zhanxian 展现
 zhanxiu 展袖
 zhanyong 占用
+zhanyongnage 占用那个
 zhanzao 站早
 zhanzhuo 沾着
 zhao 钊 找 着 照 招 朝 赵 召 罩 兆 昭 肇 沼 诏 啁 棹 笊 佋 啅 嘲 垗 妱 巶 旐 晁 曌 枛 桃 櫂 淖 濯 炤 燳 爪 爫 狣 瑵 皽 盄 瞾 窼 箌 罀 羄 肁 肈 菬 著 蚤 詔 謿 趙 釗 釽 鉊 鍣 駋 鮡 鳭 鼂 鼌
