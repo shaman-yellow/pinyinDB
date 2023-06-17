@@ -187,7 +187,7 @@ cuo 7
 cuocuoshi 1
 cuoshan 1
 cuoshi 1 1
-d 979
+d 980
 da 15 11
 daan 4
 dabao 1 1
@@ -1162,7 +1162,7 @@ wennuan 1
 wenti 11
 wenzhou 2
 wenzi 1
-wo 219
+wo 220
 wode 1
 wohe 1
 wohen 2
