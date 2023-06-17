@@ -39,6 +39,7 @@ beiren 1
 beita 2
 ben 8
 benlai 2
+benti 1
 bi 9 1
 bian 7
 biancheng 1
@@ -593,7 +594,7 @@ jiuzhu 1
 jixing 1
 jixu 4
 jiyi 4
-jiyin 6
+jiyin 7
 jiziji 1
 ju 1
 jubu 1
@@ -1227,6 +1228,7 @@ xiawu 2
 xie 12 6
 xiechu 2
 xiee 1 1
+xiehui 1
 xiexu 2
 xiezi 1
 xiezuo 3 3
