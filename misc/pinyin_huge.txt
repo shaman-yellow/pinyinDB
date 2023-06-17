@@ -3203,6 +3203,7 @@ lunwei 沦为
 lunwen 论文
 lunzheng 论证
 luo 落 罗 络 洛 逻 裸 骆 萝 螺 锣 箩 摞 烙 捋 珞 骡 猡 镙 椤 倮 蠃 荦 瘰 泺 漯 脶 硌 雒 乐 儸 儽 剆 咯 啰 囉 峈 挼 捰 攎 攞 攭 曪 果 格 樂 橐 櫟 欏 欙 濼 烁 爍 犖 猓 玀 癳 皪 砢 硦 碌 礫 笿 籮 絡 纙 羅 腡 臝 茖 蓏 蘿 蛒 蜾 蝸 蠡 袼 覶 覼 詻 跞 路 躒 躶 邏 鉻 鎯 鏍 鑼 铬 頱 饠 駱 騾 驘 鮥 鱳 鵅 鸁
+luoansuan 酪氨酸
 luohe 罗和
 luoji 逻辑
 luokuan 落款
@@ -4495,6 +4496,7 @@ shoushi 手势
 shoushu 收束
 shousuo 收缩
 shoutang 手烫
+shouti 受题
 shouwan 手腕
 shouwei 收尾 首位
 shouxia 手下
@@ -5100,6 +5102,7 @@ weicou 为凑
 weidaima 伪代码
 weidao 位到 味道
 weideng 为等 伟等
+weidian 位点
 weidu 维度
 weigeshi 为格式
 weiguan 微观
