@@ -1301,7 +1301,7 @@ yeneng 1
 yetingku 1
 yeyou 2
 yezai 2
-yi 8 1 1
+yi 8 1 1 1
 yiban 1
 yibing 1
 yichang 1 1
@@ -1345,6 +1345,7 @@ yiran 2
 yisheng 6 2
 yishi 10
 yisi 4 1
+yitan 1
 yitao 1
 yitian 4
 yitiao 1
