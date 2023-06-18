@@ -667,7 +667,7 @@ kuhen 1
 kunhuo 2
 kunjing 1
 kuzi 1
-l 445
+l 446
 la 1
 lai 35
 laishuo 7
@@ -1063,7 +1063,7 @@ shuxi 1
 shuyu 3
 si 9 1
 siansuan 1
-sihu 3
+sihu 4
 sikao 4
 sile 1
 siren 1
@@ -1417,6 +1417,7 @@ yongru 1
 yongyu 3
 you 24 18 5 2
 youba 1
+youdian 1
 youge 1
 youhao 1
 youhen 1
