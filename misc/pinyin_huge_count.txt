@@ -1,5 +1,5 @@
 a 15 1
-abeiliya 186
+abeiliya 187
 ai 23 1
 an 9 1
 ang 2
@@ -190,7 +190,7 @@ cuocuoshi 1
 cuokai 1
 cuoshan 1
 cuoshi 1 1
-d 1023
+d 1027
 da 16 12
 daan 4
 dabao 1 1
@@ -458,7 +458,7 @@ haojiu 1
 haojuhaosan 1
 haowu 1
 haoxiang 17
-he 103 2
+he 104 2
 hecheng 1
 hehuang 1
 hei 4
@@ -478,7 +478,7 @@ hexia 1
 hjuiji 1
 hong 9
 honghongli 1
-hongli 114
+hongli 115
 hongliye 1
 hongmo 1
 hongse 1
@@ -538,10 +538,12 @@ jianli 1
 jianxiao 1
 jiaoben 1
 jiaodu 1
+jiaohu 3
 jiaojian 1
 jiaoshi 1
 jiaoshou 1
 jiaotang 6
+jiaowu 1
 jiaru 1
 jiazhi 2
 jiazhu 2
@@ -1506,7 +1508,7 @@ zhigan 4 1
 zhihao 1
 zhihou 8
 zhihui 4
-zhijian 3
+zhijian 5
 zhijie 4
 zhiliang 2
 zhiling 1
