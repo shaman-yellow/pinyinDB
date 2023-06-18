@@ -32,7 +32,7 @@ baozhuang 1
 baren 1
 bata 1
 bawo 3
-bei 51
+bei 52
 beibei 1
 beibiwunai 1
 beiren 1
@@ -191,7 +191,7 @@ cuocuoshi 1
 cuokai 1
 cuoshan 1
 cuoshi 1 1
-d 1047
+d 1048
 da 17 12
 daan 4
 dabao 1 1
@@ -280,7 +280,7 @@ dongmai 1
 dongtai 1
 dongxi 6
 dongzuo 1
-dou 34
+dou 35
 douhao 2
 doumao 1
 doushi 7
@@ -375,7 +375,7 @@ gaishu 1
 gakeneng 1
 gan 4 2 1
 ganbu 1
-gandao 20
+gandao 21
 gang 2
 ganghua 1
 gangwei 1
@@ -460,7 +460,7 @@ haochu 2
 haojiu 1
 haojuhaosan 1
 haowu 1
-haoxiang 21
+haoxiang 23
 he 104 2
 hecheng 1
 hehuang 1
@@ -618,7 +618,7 @@ jiuxing 2
 jiuyao 2
 jiuzhu 1
 jixing 1
-jixu 5
+jixu 6
 jiyi 4
 jiyin 7
 jiziji 1
@@ -637,7 +637,7 @@ juran 1
 kai 7
 kaishi 15
 kaixin 3
-kan 22
+kan 24
 kanba 1
 kandao 4
 kang 3
@@ -671,7 +671,7 @@ kuhen 1
 kunhuo 2
 kunjing 1
 kuzi 1
-l 455
+l 456
 la 1
 lai 35
 laishuo 7
@@ -1342,7 +1342,7 @@ yao 43
 yaohe 2
 yaoqiu 1
 yaoshi 20
-yaru 2
+yaru 3
 ye 3
 yebu 4
 yehui 3
