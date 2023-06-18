@@ -3489,7 +3489,7 @@ napa 哪怕
 naqu 拿去
 nashi 那是
 natian 哪天 那天
-nawei 哪位
+nawei 哪位 那位
 nawo 那我
 naxie 那些 哪些
 nayang 那样
@@ -6569,7 +6569,7 @@ zhizhe 智者
 zhizhen 指针
 zhizhi 纸质 直指
 zhizhiqian 值之前
-zhizuo 制作
+zhizuo 制作 之作
 zhong 中 种 重 众 终 钟 忠 衷 肿 仲 锺 踵 盅 冢 忪 舯 螽 乑 伀 偅 刣 喠 堹 塚 夂 妐 妕 媑 尰 幒 彸 徸 柊 歱 汷 泈 潼 炂 煄 狆 瘇 眾 祌 種 穜 童 筗 籦 終 緟 腫 舂 茽 董 蔠 蚛 蚣 蝩 螤 蟲 衆 衳 衶 褈 諥 蹱 迚 鈆 鈡 銿 鍾 鐘 鴤 鼨
 zhongbing 中并
 zhongbu 中部

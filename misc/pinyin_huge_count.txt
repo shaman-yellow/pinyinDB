@@ -191,8 +191,8 @@ cuocuoshi 1
 cuokai 1
 cuoshan 1
 cuoshi 1 1
-d 1048
-da 17 12
+d 1049
+da 17 13
 daan 4
 dabao 1 1
 dabi 1
@@ -235,6 +235,7 @@ daozhi 1 1
 daru 1
 dasai 1
 dasaidanshi 1
+dashi 1
 dating 5
 datui 1
 daxiao 3 1
@@ -349,7 +350,7 @@ feixuan 1
 fen 3 1
 feng 1
 fengge 1
-fengkuang 1
+fengkuang 2
 fenlei 1
 fenliang 1
 fennen 1
@@ -766,7 +767,7 @@ mu 2
 mubiao 1
 mudi 1
 n 5
-na 60 4 3
+na 61 4 3
 nabian 1
 nachu 1
 naer 3 3
@@ -786,6 +787,7 @@ nao 1
 napa 2
 nashi 3
 natian 6 4
+nawei 1 1
 nawo 3
 naxie 46 8
 nayang 4
@@ -1586,7 +1588,7 @@ zui 2
 zuiduo 2
 zuihou 5
 zuijin 1
-zuo 12 1
+zuo 12 1 1
 zuoban 3
 zuobu 1
 zuodao 1
