@@ -1247,6 +1247,7 @@ duo 多 夺 朵 躲 度 舵 堕 踱 咄 跺 哆 剁 惰 垛 驮 掇 铎 裰 哚 
 duochu 多处
 duoci 多次
 duoda 多大
+duode 夺得
 duoduan 多端
 duoduo 多多 咄咄
 duofang 多方
@@ -3492,6 +3493,7 @@ nayang 那样
 nayitian 哪一天
 nayou 哪有
 nayouyitian 哪有一天
+nazhiyan 那只眼
 nazhong 那种
 nazui 那最
 ne 呢 讷 那 呐 吶 哪 抐 疒 疔 眲 訥
@@ -4318,6 +4320,7 @@ shengxiao 生效
 shengxun 声讯
 shengyin 声音
 shengyinkeneng 声音可能
+shengyou 胜有
 shengyu 剩余
 shengyuan 生源
 shenhe 审核
@@ -4784,6 +4787,7 @@ tian 天 填 田 甜 添 腆 舔 恬 钿 阗 畋 忝 殄 掭 佃 倎 兲 典 吞
 tianbao 填报
 tianbiao 填表
 tianchong 填充
+tianguo 天国
 tianji 天机
 tianjia 添加
 tianjin 天津
@@ -5060,6 +5064,7 @@ wangpai 王牌
 wangpan 网盘
 wangping 王萍
 wangqiao 网桥
+wangran 惘然
 wangshang 网上
 wangtie 网贴
 wangtou 网投
@@ -5350,7 +5355,7 @@ xiangshan 香山
 xiangshi 详实 想时
 xiangshu 详述
 xiangsi 相似
-xiangta 向她
+xiangta 向她 想她
 xiangtong 相同
 xiangtouting 想偷听
 xiangxi 详细
@@ -5555,11 +5560,12 @@ xingwei 行为
 xingwen 行文
 xingxiang 形象
 xingxing 星星
+xingxingqu 兴兴趣
 xingye 性也
 xingyu 性欲
 xingyun 幸运
 xingzheng 行政
-xingzhi 性质
+xingzhi 性质 兴致
 xingzhuang 形状
 xinhao 信号
 xinji 心计
@@ -5587,7 +5593,7 @@ xinyuan 心远
 xinzai 新在
 xinzaixinzeng 新在新增
 xinzeng 新增
-xinzhi 心智
+xinzhi 心智 心致
 xinzhong 心中
 xiong 雄 兄 胸 凶 熊 匈 汹 芎 兇 哅 夐 宪 忷 恟 敻 昫 洶 焸 胷 訩 詗 詾 讻 诇 賯 赨
 xiongbu 胸部
