@@ -104,7 +104,7 @@ buxuyao 2
 buyao 11
 buyiyang 2
 buyong 1
-buzhi 1
+buzhi 2
 buzuo 2
 ca 1
 cai 5
@@ -172,7 +172,7 @@ chun 3 1 1
 chunchunjie 1
 chunmeng 2
 chuqu 1
-chuxian 5
+chuxian 6
 chuzai 2
 ci 1 1
 cishi 1
@@ -190,7 +190,7 @@ cuocuoshi 1
 cuokai 1
 cuoshan 1
 cuoshi 1 1
-d 1039
+d 1041
 da 17 12
 daan 4
 dabao 1 1
@@ -464,7 +464,7 @@ he 104 2
 hecheng 1
 hehuang 1
 hei 8
-heise 15
+heise 17
 hen 11 1
 henduo 3
 henhao 1
@@ -944,7 +944,7 @@ ru 12 7
 ruan 2
 ruci 19
 ruguo 8
-ruhe 13
+ruhe 15
 rukou 6
 rumeng 1
 ruoshi 1
@@ -996,7 +996,7 @@ shentou 1
 shenxia 2
 shenzhi 1
 shezhu 1
-shi 98 9 2
+shi 100 9 2
 shibai 1
 shibie 3
 shibushi 2
@@ -1087,7 +1087,7 @@ suowei 1
 suoyi 6
 suoyou 11
 suozai 1
-ta 454 36 15
+ta 455 36 15
 tade 1
 tai 5
 taiduan 1
@@ -1455,7 +1455,7 @@ yuwang 1 2
 yuzhao 1
 yuzhou 2
 za 2
-zai 152 10
+zai 155 10
 zaici 1
 zaidu 1
 zainali 1
