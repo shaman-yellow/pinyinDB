@@ -130,6 +130,7 @@ chabuduo 4
 chadao 1
 chadian 5
 chakai 1
+chakan 1
 changchang 2 1
 changqi 1
 changshi 2
@@ -407,7 +408,7 @@ genzong 7
 geshi 2
 gezhong 1
 gong 1
-gongju 4
+gongju 5
 gongneng 2
 gongzuo 2
 gou 3
