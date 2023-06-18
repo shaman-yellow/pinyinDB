@@ -376,7 +376,7 @@ gandao 19
 gang 2
 ganghua 1
 gangwei 1
-ganjue 8
+ganjue 9
 ganshou 4
 ganxie 1
 gao 3 1
@@ -605,6 +605,7 @@ jiudao 1
 jiudian 1
 jiuhui 12
 jiujing 1
+jiule 1
 jiushi 6
 jiushu 1
 jiuxia 1
@@ -778,7 +779,7 @@ nanyi 5
 nanyiyu 1
 nao 1
 napa 2
-nashi 2
+nashi 3
 natian 6 4
 nawo 3
 naxie 39 8
@@ -1343,7 +1344,7 @@ yeneng 1
 yetingku 1
 yeyou 2
 yezai 2
-yi 8 1 1 1
+yi 8 1 1 2
 yiban 1
 yibing 1
 yibu 1
