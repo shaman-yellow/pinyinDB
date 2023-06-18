@@ -192,7 +192,7 @@ cuocuoshi 1
 cuokai 1
 cuoshan 1
 cuoshi 1 1
-d 1055
+d 1057
 da 17 13
 daan 4
 dabao 1 1
@@ -334,7 +334,7 @@ fangdangbuji 1
 fangfa 1
 fangjian 1
 fangqi 2
-fangxiang 1
+fangxiang 2
 fangxin 1
 fangzhi 1
 fangzi 2
@@ -463,7 +463,7 @@ haojiu 1
 haojuhaosan 1
 haowu 1
 haoxiang 24
-he 105 2
+he 106 2
 hecheng 1
 hehuang 1
 hei 9
@@ -842,6 +842,7 @@ o 4
 ou 1
 pa 3
 paidui 1
+pailie 1
 paizi 1
 pan 2 2
 pao 4
