@@ -190,7 +190,7 @@ cuocuoshi 1
 cuokai 1
 cuoshan 1
 cuoshi 1 1
-d 1037
+d 1039
 da 17 12
 daan 4
 dabao 1 1
@@ -594,6 +594,7 @@ jinhou 1
 jinhua 1
 jinkuai 1
 jinmo 1
+jinran 1
 jinru 1
 jinxing 3
 jiran 2
@@ -615,7 +616,7 @@ jiuxing 2
 jiuyao 2
 jiuzhu 1
 jixing 1
-jixu 4
+jixu 5
 jiyi 4
 jiyin 7
 jiziji 1
@@ -634,7 +635,7 @@ juran 1
 kai 7
 kaishi 15
 kaixin 3
-kan 21
+kan 22
 kanba 1
 kandao 4
 kang 3
@@ -653,7 +654,7 @@ keshi 2
 ketang 3
 kewa 1
 keyi 17
-kong 3
+kong 4
 kongjian 4
 kongzhi 2
 ku 3 1 1
@@ -668,7 +669,7 @@ kuhen 1
 kunhuo 2
 kunjing 1
 kuzi 1
-l 450
+l 451
 la 1
 lai 35
 laishuo 7
@@ -784,7 +785,7 @@ napa 2
 nashi 3
 natian 6 4
 nawo 3
-naxie 43 8
+naxie 44 8
 nayang 3
 nayitian 2
 nayou 1
@@ -856,7 +857,7 @@ pu 1
 pubian 1
 pusha 1
 putong 1
-qi 4
+qi 5
 qian 12
 qiancheng 1
 qiang 4

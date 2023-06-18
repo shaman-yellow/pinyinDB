@@ -2591,6 +2591,7 @@ jinpo 紧迫
 jinqi 近期
 jinqu 进去
 jinque 紧缺
+jinran 浸染
 jinrong 金融
 jinru 进入
 jintian 今天
