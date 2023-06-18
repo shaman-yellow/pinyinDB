@@ -49,7 +49,7 @@ bianma 2
 biantong 1
 bianyi 1 1
 biaoda 8
-biaoji 1
+biaoji 2
 biaoshi 8
 biaoxian 1
 biaozheng 1
@@ -460,7 +460,7 @@ haochu 2
 haojiu 1
 haojuhaosan 1
 haowu 1
-haoxiang 23
+haoxiang 24
 he 104 2
 hecheng 1
 hehuang 1
