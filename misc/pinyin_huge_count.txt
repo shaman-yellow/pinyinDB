@@ -192,7 +192,7 @@ cuocuoshi 1
 cuokai 1
 cuoshan 1
 cuoshi 1 1
-d 1057
+d 1058
 da 17 13
 daan 4
 dabao 1 1
@@ -215,7 +215,7 @@ daliang 1
 dama 1
 dan 27
 danbai 4
-danbaizhi 8
+danbaizhi 9
 dang 1 1
 dangchu 1
 dangshi 5
@@ -317,6 +317,7 @@ edu 1
 ei 2
 ele 1
 er 22 21
+erji 1
 erlai 2
 erqie 13
 ershi 2
@@ -561,7 +562,7 @@ jiduan 1
 jie 4
 jiebai 2
 jieduan 2
-jiegou 1
+jiegou 2
 jieguo 3
 jiehe 2
 jieli 1
