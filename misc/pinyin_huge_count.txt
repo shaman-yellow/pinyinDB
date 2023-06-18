@@ -6,7 +6,7 @@ ang 2
 anpai 1
 anzhuang 1
 ayi 2
-ba 50 6
+ba 51 6
 baba 1
 babaxi 1
 babuneng 1
@@ -464,7 +464,7 @@ he 104 2
 hecheng 1
 hehuang 1
 hei 8
-heise 13
+heise 14
 hen 11 1
 henduo 3
 henhao 1
@@ -668,7 +668,7 @@ kuhen 1
 kunhuo 2
 kunjing 1
 kuzi 1
-l 448
+l 450
 la 1
 lai 35
 laishuo 7
@@ -784,7 +784,7 @@ napa 2
 nashi 3
 natian 6 4
 nawo 3
-naxie 41 8
+naxie 43 8
 nayang 3
 nayitian 2
 nayou 1
@@ -938,7 +938,7 @@ rongyi 3
 rou 2
 roulin 1
 routi 3
-ru 11 7
+ru 12 7
 ruan 2
 ruci 19
 ruguo 8
