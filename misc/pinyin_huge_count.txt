@@ -952,7 +952,7 @@ san 3
 sanliu 1
 sanquan 1
 sanzai 1
-se 3
+se 4
 sha 6 5
 shadiao 1
 shanchu 1
