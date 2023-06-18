@@ -190,7 +190,7 @@ cuocuoshi 1
 cuokai 1
 cuoshan 1
 cuoshi 1 1
-d 1035
+d 1037
 da 17 12
 daan 4
 dabao 1 1
@@ -462,7 +462,7 @@ haoxiang 20
 he 104 2
 hecheng 1
 hehuang 1
-hei 6
+hei 8
 heise 13
 hen 11 1
 henduo 3
@@ -652,7 +652,7 @@ keshi 2
 ketang 3
 kewa 1
 keyi 17
-kong 2
+kong 3
 kongjian 4
 kongzhi 2
 ku 3 1 1
@@ -783,7 +783,7 @@ napa 2
 nashi 3
 natian 6 4
 nawo 3
-naxie 39 8
+naxie 41 8
 nayang 3
 nayitian 2
 nayou 1
@@ -855,7 +855,7 @@ pu 1
 pubian 1
 pusha 1
 putong 1
-qi 3
+qi 4
 qian 12
 qiancheng 1
 qiang 4
@@ -989,6 +989,7 @@ shense 1
 shenshi 1
 shensu 1
 shenti 2
+shentou 1
 shenxia 2
 shenzhi 1
 shezhu 1
