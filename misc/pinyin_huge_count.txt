@@ -72,7 +72,7 @@ biyao 2
 bizhen 1
 bozhuang 1
 bozi 3
-bu 24
+bu 25
 buan 1
 buchu 1 1
 buda 1
@@ -1424,7 +1424,7 @@ yongru 1
 yongyu 3
 you 24 18 5 2
 youba 1
-youdian 1
+youdian 2 1
 youge 1
 youhao 1
 youhen 1
