@@ -1000,7 +1000,7 @@ shezhu 1
 shi 100 9 2
 shibai 1
 shibie 3
-shibushi 2
+shibushi 3
 shidai 1
 shifen 2
 shifou 2
