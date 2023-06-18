@@ -634,7 +634,7 @@ juran 1
 kai 7
 kaishi 15
 kaixin 3
-kan 20
+kan 21
 kanba 1
 kandao 4
 kang 3
