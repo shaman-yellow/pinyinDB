@@ -5966,6 +5966,7 @@ yiqing 一请 怡情 移情
 yiqiu 以求
 yiqu 一趣
 yiquan 一拳
+yiqun 衣裙
 yiran 依然
 yirujiwang 一如既往
 yishang 以上
@@ -6368,6 +6369,7 @@ zhangyi 张亦
 zhangyou 长幼
 zhangzai 张在
 zhangzhang 章章
+zhangzhangde 掌长得
 zhanji 战绩
 zhankai 展开
 zhansheng 战胜
