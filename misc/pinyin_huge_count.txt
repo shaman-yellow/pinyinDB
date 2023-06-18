@@ -192,7 +192,7 @@ cuocuoshi 1
 cuokai 1
 cuoshan 1
 cuoshi 1 1
-d 1058
+d 1059
 da 17 13
 daan 4
 dabao 1 1
@@ -215,7 +215,7 @@ daliang 1
 dama 1
 dan 27
 danbai 4
-danbaizhi 9
+danbaizhi 10
 dang 1 1
 dangchu 1
 dangshi 5
@@ -353,7 +353,7 @@ fen 3 1
 feng 1
 fengge 1
 fengkuang 2
-fenlei 1
+fenlei 2
 fenliang 1
 fennen 1
 fenxi 4
@@ -562,7 +562,7 @@ jiduan 1
 jie 4
 jiebai 2
 jieduan 2
-jiegou 2
+jiegou 3
 jieguo 3
 jiehe 2
 jieli 1
@@ -1062,7 +1062,7 @@ shuijiao 1
 shuimian 1
 shuiping 1
 shuju 7
-shujuku 2
+shujuku 5
 shun 3
 shuo 93
 shuode 2
