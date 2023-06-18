@@ -2136,6 +2136,7 @@ huansuan 换算
 huantai 换胎
 huanwei 换为
 huanxing 环形
+huanzai 换在
 huanzhuang 换装
 huaqian 花钱
 huaqiao 花桥 华侨

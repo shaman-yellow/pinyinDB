@@ -190,7 +190,7 @@ cuocuoshi 1
 cuokai 1
 cuoshan 1
 cuoshi 1 1
-d 1027
+d 1030
 da 16 12
 daan 4
 dabao 1 1
@@ -461,7 +461,7 @@ haoxiang 17
 he 104 2
 hecheng 1
 hehuang 1
-hei 4
+hei 5
 heise 13
 hen 11 1
 henduo 3
@@ -493,11 +493,12 @@ huafei 1
 huafen 1
 huai 1
 huamian 1
-huan 4
+huan 5
 huang 1
 huanglichuang 1
 huanjing 2
 huanshang 1
+huanzai 1
 huayi 1
 hui 32 25
 huida 16
@@ -937,7 +938,7 @@ ru 11 7
 ruan 2
 ruci 19
 ruguo 8
-ruhe 12
+ruhe 13
 rukou 6
 rumeng 1
 ruoshi 1
@@ -988,7 +989,7 @@ shenti 2
 shenxia 2
 shenzhi 1
 shezhu 1
-shi 97 9 2
+shi 98 9 2
 shibai 1
 shibie 3
 shibushi 2
@@ -1079,7 +1080,7 @@ suowei 1
 suoyi 6
 suoyou 11
 suozai 1
-ta 451 36 15
+ta 452 36 15
 tade 1
 tai 4
 taiduan 1
@@ -1446,7 +1447,7 @@ yuwang 1 2
 yuzhao 1
 yuzhou 2
 za 2
-zai 150 9
+zai 152 9
 zaici 1
 zaidu 1
 zainali 1
