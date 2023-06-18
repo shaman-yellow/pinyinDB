@@ -2148,7 +2148,7 @@ huaxue 化学
 huaya 画押
 huayi 华裔
 huayou 化有
-huazhong 华中
+huazhong 华中 画中
 hubu 互补
 huchi 互斥
 hucu 互促
