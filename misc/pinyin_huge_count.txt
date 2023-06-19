@@ -499,7 +499,7 @@ hexia 1
 hjuiji 1
 hong 10
 honghongli 2
-hongli 129
+hongli 130
 hongliye 1
 hongmo 1
 hongse 1
@@ -699,7 +699,7 @@ kuhen 1
 kunhuo 2
 kunjing 1
 kuzi 1
-l 487
+l 488
 la 1
 lai 36
 laishuo 7
@@ -814,6 +814,7 @@ nan 2
 nande 1
 nani 3
 nanmian 2
+nansheng 1
 nanyi 5
 nanyiyu 1
 nao 1
@@ -1133,6 +1134,7 @@ suowei 1
 suoyi 6
 suoyou 11
 suozai 2
+sushe 1
 ta 490 36 17
 tade 1
 tai 5
