@@ -115,6 +115,7 @@ baomi 保密
 baoming 包名 报名
 baomu 报幕
 baoqian 抱歉
+baowei 包围
 baoxian 保险
 baoxiang 包厢
 baoxiao 报销
@@ -624,6 +625,7 @@ chicun 尺寸
 chidao 迟到
 chifan 吃饭
 chiku 吃苦
+chilie 赤烈
 chixu 持续
 chong 冲 重 充 崇 虫 宠 憧 忡 艟 茺 舂 铳 偅 傭 僮 喠 嘃 埫 寵 崈 徸 憃 揰 摏 樁 沖 浺 涌 漴 潼 烛 爞 珫 痋 盅 祌 种 種 緟 罿 翀 茧 蝩 蟲 衝 褈 蹖 蹱 酮 銃 隀
 chongbai 崇拜
@@ -3682,6 +3684,7 @@ pang 旁 厐 庞 胖 乓 膀 磅 彷 螃 滂 耪 逄 仿 傍 嗙 夆 嫎 尨 彭
 pangda 厐大
 panguang 盘光
 panpan 盼盼
+panxuan 盘旋
 pao 跑 炮 抛 泡 袍 刨 咆 狍 疱 脬 庖 匏 包 嚗 垉 奅 抱 拋 摽 炰 爮 犥 瓟 皰 砲 礟 礮 穮 窌 胞 脟 苞 萢 藨 蚫 袌 褜 謈 軳 鉋 铇 鞄 颮 飑 鮑 鲍 麃 麅 麭
 paochu 抛出
 paode 跑得
@@ -5831,6 +5834,7 @@ yewufang 业务方
 yewuming 业务名
 yexiao 也小
 yexing 也行
+yexu 也许
 yeyao 也要
 yeyi 业已
 yeying 也应
@@ -6800,6 +6804,7 @@ ziyang 滋养
 ziyi 自已
 ziyou 自有 自由
 ziyuan 资源 自愿
+zize 自责
 zizhu 资助 自助 自主
 zong 总 宗 纵 踪 综 棕 粽 鬃 偬 腙 枞 倊 倧 傯 堫 嵏 嵕 嵸 從 惣 惾 愡 捴 揔 搃 摠 昮 朡 椶 樅 潀 潈 潨 熜 熧 燪 猔 猣 疭 瘲 碂 磫 稯 糉 綜 緃 総 緫 緵 縂 縦 縱 總 翪 艐 葼 蓗 蓯 蝬 豵 踨 蹤 錝 鍯 鏓 鑁 騌 騣 骔 鬉 鬷 鯮 鯼
 zongfen 总分
