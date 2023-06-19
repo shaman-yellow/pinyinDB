@@ -525,7 +525,7 @@ huida 16
 huidao 2
 huifu 1
 huiji 2
-huilai 2
+huilai 3
 huishi 2
 huixiang 1
 huiyi 1 1
@@ -694,7 +694,7 @@ kuhen 1
 kunhuo 2
 kunjing 1
 kuzi 1
-l 483
+l 484
 la 1
 lai 36
 laishuo 7
