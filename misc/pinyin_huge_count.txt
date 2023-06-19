@@ -865,7 +865,7 @@ nv 10
 nvwang 1
 o 4
 ou 1
-pa 3 1
+pa 4 1
 paidui 1
 pailie 1
 paizi 1
@@ -993,7 +993,7 @@ se 4
 sha 6 5
 shadiao 1
 shanchu 1
-shang 45
+shang 46
 shangci 1
 shangke 3
 shanglai 2
@@ -1125,7 +1125,7 @@ suowei 1
 suoyi 6
 suoyou 11
 suozai 2
-ta 486 36 15
+ta 487 36 15
 tade 1
 tai 5
 taiduan 1
@@ -1193,11 +1193,11 @@ wai 4
 wajue 1
 wan 3 1 1
 wancheng 3
-wang 3
+wang 3 1
 wangji 3
 wangluo 2
 wangran 1
-wangshang 1
+wangshang 1 1
 wangzhan 3
 wangzhe 1
 wanhao 1
@@ -1270,7 +1270,7 @@ wuzhong 2
 wuzhongshi 1
 wuzhu 4
 wuzhuduzi 1
-xia 18
+xia 19
 xiaba 6
 xiachang 1
 xialai 6
@@ -1584,6 +1584,7 @@ zhiqian 8
 zhishao 3
 zhisheng 3
 zhishi 25 23
+zhiti 1
 zhiwen 1
 zhiwu 1
 zhixia 1

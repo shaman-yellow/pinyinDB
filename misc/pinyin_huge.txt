@@ -5075,7 +5075,7 @@ wangpan 网盘
 wangping 王萍
 wangqiao 网桥
 wangran 惘然
-wangshang 网上
+wangshang 网上 往上
 wangtie 网贴
 wangtou 网投
 wangwen 网文
@@ -6555,6 +6555,7 @@ zhishou 之首
 zhishu 植树 知书
 zhisi 至四
 zhisu 之苏
+zhiti 直梯
 zhitou 指头
 zhiwai 之外
 zhiwang 指望
