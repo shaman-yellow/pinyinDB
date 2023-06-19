@@ -205,7 +205,7 @@ cuocuoshi 1
 cuokai 1
 cuoshan 1
 cuoshi 1 1
-d 1135
+d 1136
 da 18 13
 daan 5
 dabao 1 1
@@ -719,7 +719,7 @@ kuhen 1
 kunhuo 2
 kunjing 1
 kuzi 1
-l 513
+l 514
 la 1
 lai 37
 laishuo 7
@@ -1169,7 +1169,7 @@ suiji 1
 suiran 1
 suo 5
 suowei 1
-suoyi 7
+suoyi 8
 suoyou 11
 suozai 2
 sushe 1
@@ -1328,7 +1328,7 @@ wuzhuduzi 1
 xia 21
 xiaba 6
 xiachang 1
-xialai 7
+xialai 8
 xiamian 1
 xian 3 1
 xianchang 2
@@ -1425,6 +1425,7 @@ xuexiqu 1
 xulie 9
 xunhuan 1
 xunhuankeni 1
+xunmeng 1
 xunzhao 1
 xuyao 14
 ya 10
@@ -1535,7 +1536,7 @@ yo 1
 yong 14
 yongru 1
 yongyu 3
-you 28 20 11 2
+you 28 20 12 2
 youba 1
 youbu 1
 youdian 2 1
@@ -1637,7 +1638,7 @@ zhesuan 1
 zhewei 1
 zhewen 1
 zhexie 15
-zheyang 39
+zheyang 40
 zheye 1
 zheyi 3
 zheyiquan 1

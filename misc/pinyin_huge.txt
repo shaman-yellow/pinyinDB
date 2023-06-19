@@ -5730,6 +5730,7 @@ xunhuan 循环
 xunhuankeni 循环可逆
 xuni 虚拟
 xunlian 训练
+xunmeng 迅猛
 xunmi 寻觅
 xunsu 迅速
 xunwen 询问
