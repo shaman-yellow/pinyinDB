@@ -233,7 +233,7 @@ daijia 2
 daijin 1
 dailai 4
 daima 1
-daitu 8
+daitu 9
 daitudaitu 1
 daizhu 1
 dajia 2
@@ -1207,7 +1207,7 @@ suoyi 8
 suoyou 11
 suozai 3
 sushe 1
-ta 518 40 24
+ta 518 40 25
 tade 1
 tai 8
 taiduan 1
