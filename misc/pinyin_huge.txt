@@ -15,12 +15,14 @@ ande 俺的
 ang 昂 肮 盎 仰 卬 岇 昻 枊 醃 醠 骯
 anjian 按键 案件
 ankang 安康
+anl 安了
 anli 案例 安利
 anniu 按钮
 anpai 安排
 anquan 安全
 anquanxing 安全性
 anshen 安身
+anwei 安慰
 anye 俺也
 anyue 按约
 anzhao 按照
@@ -95,6 +97,7 @@ baobiao 报表
 baochi 保持
 baocun 保存
 baocuo 报错
+baode 抱得
 baofu 报复 抱负
 baogao 报告
 baoguan 报关
@@ -125,7 +128,9 @@ baoyi 报以
 baoyou 抱有
 baozha 爆炸
 baozhang 保障
+baozhe 抱着
 baozheng 保证
+baozhu 抱住
 baozhuang 包装
 baping 霸屏
 baqu 把去
@@ -224,6 +229,7 @@ biaoshu 表述
 biaoti 标题
 biaotou 表头
 biaoxian 表现
+biaoxiande 表现得
 biaoxiang 表象
 biaoye 表也
 biaoyin 标引
@@ -329,7 +335,8 @@ budui 不对
 buduo 不多
 bufa 不发 补发
 bufei 不菲
-bufen 部分
+bufen 部分 不分
+bufenqinghongzaobai 不分青红皂白
 bufu 不符
 bugan 不敢
 bugao 不高 不搞
@@ -354,6 +361,7 @@ bulun 不论
 buman 不满
 bumei 不昧
 bumen 部门
+bumian 不免
 bunan 不难
 buneng 不能
 buqu 不去
@@ -686,6 +694,7 @@ chuanru 传入
 chuanshu 传输
 chuantong 传统
 chuantou 穿透
+chuanzhe 穿着
 chuanzhen 传真
 chuban 出版
 chubu 初步
@@ -699,7 +708,9 @@ chuding 初定
 chufa 触发 出发 处罚
 chufaqi 触发器
 chufei 除非
+chuge 出格
 chuguo 出国
+chuhuyiliao 出乎意料
 chui 吹 垂 炊 锤 捶 陲 槌 棰 倕 圌 埀 惙 搥 桘 椎 箠 腄 菙 郵 錘 鎚 顀 鬌 魋 龡
 chujiao 触角
 chujuan 出卷
@@ -846,9 +857,11 @@ daima 代码
 daishang 带上
 daitou 带头
 daitu 歹徒
+daitudaitu 歹徒歹徒
 daixiao 代销
 daiyou 带有
 daiyu 待遇
+daizhu 逮住
 daji 大吉
 dajia 大家
 dajian 搭建
@@ -1405,6 +1418,7 @@ faren 法人
 fasan 发散
 fashe 发射
 fasheng 发生
+fashengdaitu 发生歹徒
 fashi 发饰
 fashou 发收
 fasong 发送
@@ -1563,7 +1577,7 @@ galeixing 咖类型
 gan 感 干 敢 赶 甘 肝 杆 尴 赣 橄 竿 秆 擀 坩 苷 柑 泔 矸 澉 疳 酐 淦 绀 旰 个 乹 乾 亁 仠 佄 倝 凎 凲 咁 奸 尲 尶 尷 幹 忓 扞 捍 攼 桿 榦 檊 汗 汵 浛 漧 灨 玕 玵 皯 盰 稈 笴 筸 篢 簳 粓 紺 芉 虷 衦 詌 諴 豃 贑 贛 趕 迀 釬 錎 飦 骭 魐 鰔 鱤 鳡 鳱
 ganbu 干部
 ganche 赶车
-gandao 赶到
+gandao 赶到 感到
 gang 钢 刚 港 岗 纲 缸 扛 杠 冈 肛 罡 戆 筻 亢 伉 冮 剛 堈 堽 岡 崗 戅 戇 抗 掆 棡 槓 溝 焵 牨 犅 犺 疘 矼 碙 綱 罁 罓 肮 釭 鋼 鎠 阬 頏 颃
 ganga 尴尬
 gangcai 刚才
@@ -1873,6 +1887,7 @@ guoye 郭烨 郭晔
 guoyu 过于
 gupan 顾盼
 guqi 故其
+guqie 姑且
 gushi 故事 古诗
 gusuan 估算
 guwang 股网
@@ -1897,6 +1912,7 @@ haifeng 海峰
 haige 海哥
 haigeng 还更
 haiguan 海关
+haiguo 还过
 haihai 海海 咳咳
 haihua 海华
 haihui 还会
@@ -2140,7 +2156,7 @@ huanhu 欢呼
 huanjie 环节
 huanjing 环境 幻境
 huanju 欢聚
-huanle 欢乐
+huanle 欢乐 换了
 huanmu 环幕
 huanshan 环山
 huanshang 换上
@@ -2149,6 +2165,7 @@ huantai 换胎
 huanwei 换为
 huanxing 环形
 huanzai 换在
+huanzhu 环住
 huanzhuang 换装
 huaqian 花钱
 huaqiao 花桥 华侨
@@ -2454,6 +2471,7 @@ jide 记得
 jidi 基地
 jiding 既定
 jidinghe 机顶盒
+jidong 激动
 jiduan 极端
 jie 解 节 接 界 结 街 姐 阶 介 借 戒 杰 届 皆 捷 截 洁 揭 劫 竭 藉 睫 诫 嗟 拮 孑 碣 秸 诘 桀 芥 偈 颉 讦 疖 疥 婕 羯 鲒 蚧 骱 喈 丯 亥 价 倢 假 偼 傑 價 刦 刧 刼 劼 卩 卪 吤 唧 唶 啑 嚌 圾 堦 堺 契 她 妎 媎 媘 媫 嫅 尐 屆 岊 岕 崨 嵑 嵥 嶰 嶻 巀 幯 庎 徣 忦 悈 扢 担 拾 掲 搩 擑 擮 擳 斺 昅 暨 曁 桔 桝 椄 楐 楬 楶 楷 概 榤 構 檞 櫭 毑 洯 渇 渴 湝 滐 潔 煯 犗 狤 獬 玠 琾 畍 疌 痎 癤 砎 砝 礍 祖 稭 節 籍 紇 紒 結 絜 繲 纥 耤 脻 艐 莭 菨 蓵 蛣 蛶 蜐 蝍 蝔 蠘 蠞 蠽 衱 衸 袓 袷 袺 裓 褯 觧 訐 詰 誡 誱 謯 趌 跲 踕 迼 鉣 鍇 鍻 锴 階 雃 鞂 鞊 頡 飷 髫 魝 魪 鮚 鶛
 jiebai 洁白
@@ -2821,6 +2839,7 @@ kaoshi 考试
 kaotian 靠天
 kaowan 考完
 kaoyan 考研
+kaozai 考在
 kapian 卡片
 ke 可 客 克 科 刻 课 颗 渴 柯 呵 棵 恪 咳 苛 磕 壳 坷 嗑 瞌 轲 稞 疴 蝌 溘 髁 钶 窠 颏 珂 岢 骒 缂 氪 锞 蚵 剋 勀 勊 匼 喀 堁 娔 尅 峇 嵑 嵙 嶱 悈 愘 愙 揢 搕 敤 榼 樖 欬 歁 殻 毼 渇 濭 炣 牁 犐 痾 盍 砢 硞 碣 碦 磆 礊 礚 窼 簻 緙 翗 胢 艐 萪 薖 衉 袔 課 趷 軻 醘 鈳 鉿 錁 錒 铪 锕 頦 顆 騍 龕 龛
 kean 可按
@@ -3827,6 +3846,7 @@ qiangdiao 强调
 qiangdu 强度
 qianghua 强化
 qianghuaban 强化版
+qiangji 枪击
 qiangli 强力
 qianglie 强烈
 qiangqiang 强强
@@ -3902,6 +3922,7 @@ qilv 七律
 qimei 凄美
 qin 侵 亲 钦 琴 秦 勤 芹 擒 寝 覃 沁 禽 噙 揿 檎 锓 芩 嗪 螓 衾 廑 溱 吣 儭 厪 吢 唚 坅 埁 埐 堇 墐 媇 嫀 寑 寢 寴 嵚 嶔 嶜 庈 廞 忴 慬 懃 懄 扲 抋 捦 搇 撳 斳 昑 梫 槿 橬 櫬 欽 浸 涁 渗 滲 澿 濅 瀙 珡 琹 瘽 矜 矝 笉 綅 耹 肣 臤 菣 菦 菳 蓁 蕲 藽 蘄 蚙 螼 蠄 衿 親 誛 赺 赾 鈂 鈊 鈙 鋟 雂 靲 頜 顉 顩 颌 駸 骎 鬵 鮼 鳹
 qing 请 清 情 青 轻 晴 庆 倾 卿 亲 擎 顷 氢 罄 蜻 磬 謦 苘 圊 檠 黥 鲭 氰 箐 綮 倩 傾 儬 凊 剠 勍 啨 埥 声 夝 媇 寈 庼 廎 慶 掅 擏 暒 棾 樈 檾 櫦 殑 殸 氫 涇 淸 渹 漀 濪 玪 甠 硘 硜 碃 精 綪 胜 莔 葝 請 軽 輕 郬 鑋 靑 靘 頃 鯖 鶄
+qingai 清爱 情爱
 qingba 清吧 请把
 qingbao 情报
 qingchu 清楚 清除 请出
@@ -3913,6 +3934,7 @@ qingjia 请假
 qingjiang 请将
 qingjiao 请教
 qingjie 清洁
+qingjingxia 情景下
 qingjiu 请就
 qingkan 请看
 qingkong 清空 晴空
@@ -3932,6 +3954,7 @@ qingshi 轻视 情势
 qingsong 轻松
 qingtian 请田
 qingting 请听
+qingwei 轻微
 qingwen 请问
 qingwu 请勿
 qingxi 清晰
@@ -4806,6 +4829,7 @@ teding 特定
 tehua 特化
 tei 忒
 teng 腾 疼 藤 誊 滕 僜 儯 幐 漛 痋 籐 籘 縢 膯 虅 螣 謄 邆 霯 駦 騰 驣 鰧 鼟
+tengtong 疼痛
 tengxun 腾讯
 tequan 特权
 tese 特色
@@ -5075,7 +5099,7 @@ wancheng 完成
 wande 玩得
 wanfa 玩法
 wanfan 晚饭
-wang 网 往 王 望 忘 亡 汪 旺 枉 妄 惘 罔 尢 辋 魍 亾 仼 兦 匡 尣 尩 尪 尫 彺 徃 徍 忹 抂 暀 朚 朢 棢 瀇 焹 琞 皇 盳 網 莣 菵 蚟 蛧 蝄 誷 輞 迋 迬
+wang 往 网 王 望 忘 亡 汪 旺 枉 妄 惘 罔 尢 辋 魍 亾 仼 兦 匡 尣 尩 尪 尫 彺 徃 徍 忹 抂 暀 朚 朢 棢 瀇 焹 琞 皇 盳 網 莣 菵 蚟 蛧 蝄 誷 輞 迋 迬
 wangbao 网报
 wangci 忘词
 wangcong 王聪
@@ -5112,6 +5136,7 @@ wangyou 网友 王友 王有
 wangzai 望再
 wangzhan 网站
 wangzhe 望着
+wangzhebian 往这边
 wangzhi 网址
 wangzhuang 网状
 wangzhuo 王卓
@@ -5187,7 +5212,7 @@ weixian 危险
 weixianweixin 危险微信
 weixiao 微小
 weixie 威胁
-weixin 微信
+weixin 微信 违心
 weiyan 威严
 weiyi 唯一 位移
 weiyu 位于
@@ -5501,7 +5526,7 @@ xiaoyao 小妖
 xiaoyi 效益
 xiaoyu 小于
 xiaoyuan 校园 校院
-xiaozhang 校长 小张 销账
+xiaozhang 校长 小张 销账 嚣张
 xiaozhi 小指
 xiaozu 小组
 xiaqu 下去
@@ -5558,6 +5583,9 @@ xiguan 习惯
 xiha 嘻哈
 xihua 细化
 xihuan 喜欢
+xihuanheise 喜欢黑色
+xihuanyouqu 喜欢有趣
+xihuanzhezhong 喜欢这种
 xijie 细节
 xilie 系列
 xilu 西路
@@ -5594,6 +5622,7 @@ xingong 信工
 xingqu 兴趣
 xingrong 形容
 xingshi 形式 形势 行事
+xingshiqing 刑事情
 xingu 欣顾
 xinguan 信管
 xingwei 行为
@@ -5678,6 +5707,7 @@ xuanti 选题
 xuanwei 选位
 xuanwu 炫舞
 xuanxiang 选项
+xuanxiao 喧嚣
 xuanxiu 选秀 选修
 xuanyou 选优
 xuanze 选择
@@ -6012,6 +6042,7 @@ yiqun 衣裙 一群
 yiran 依然
 yirujiwang 一如既往
 yishang 以上
+yishen 一身
 yisheng 医生 一声
 yishi 意识 仪式 已是 以示 以十 一时 遗失
 yishigan 仪式感
@@ -6061,7 +6092,7 @@ yongfa 用法
 yonghu 用户 拥护
 yonghuo 用或
 yongjin 用尽
-yongli 用例
+yongli 用例 用力
 yongliang 永亮
 yongmei 咏梅
 yongnao 用脑
@@ -6227,6 +6258,7 @@ yuefen 月份
 yuefu 岳父
 yuegan 越干
 yuejing 粤京
+yuelaiyuejin 越来越紧
 yueli 阅历 乐理
 yueshu 约束
 yuetian 越舔
@@ -6465,6 +6497,7 @@ zhefen 这份
 zhege 这个
 zhegua 者寡
 zhehe 者和 这和
+zhehuishi 这回事
 zhehuo 这货
 zhejiang 浙江
 zhejiu 这就 折旧
@@ -6587,7 +6620,7 @@ zhiqian 之前
 zhishang 智商 之上
 zhishao 至少
 zhisheng 只剩
-zhishi 知识 只是 指示
+zhishi 只是 知识 指示
 zhishou 之首
 zhishu 植树 知书
 zhisi 至四
