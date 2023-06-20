@@ -619,7 +619,7 @@ jibu 1
 jichu 1 1
 jichuqu 1
 jid 1
-jidong 1
+jidong 2
 jiduan 1
 jie 4
 jiebai 2
