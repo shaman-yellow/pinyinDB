@@ -41,7 +41,7 @@ bata 1
 bawo 3
 baxi 1
 bei 59 1
-beibao 3
+beibao 4
 beibaod 1
 beibei 1
 beibiwunai 1
@@ -227,7 +227,7 @@ cuocuoshi 1
 cuokai 1
 cuoshan 1
 cuoshi 1 1
-d 1216
+d 1217
 da 29 19
 daan 5
 dabao 1 1
@@ -243,7 +243,7 @@ daijia 2
 daijin 1
 dailai 5
 daima 1
-daitu 30
+daitu 31
 daitudaitu 1
 daizhu 1
 dajia 2
@@ -525,7 +525,7 @@ haineng 3
 haishi 14
 haixu 1
 haiyao 3
-haiyou 16
+haiyou 17
 haizai 7
 han 1
 handeta 1
@@ -544,7 +544,7 @@ hei 14
 heise 23
 heling 1
 hen 11 1
-henduo 3
+henduo 4
 henhao 1
 henhenjin 1
 heni 3
@@ -808,7 +808,7 @@ liewen 1
 lijie 5
 likai 12
 liliang 3
-limian 4
+limian 5
 ling 4
 lingdao 1
 lingjiao 1
@@ -1103,7 +1103,7 @@ routi 3
 ru 15 7
 ruan 2
 ruci 25
-ruguo 9
+ruguo 10
 ruhe 17
 rukou 6
 rumeng 1
@@ -1266,7 +1266,7 @@ suiji 1
 suiran 1
 suo 5
 suowei 1
-suoyi 8
+suoyi 9
 suoyou 11
 suozai 3
 sushe 1
@@ -1413,6 +1413,7 @@ woshuo 2
 woxiang 5
 woyao 5
 wozai 3
+wozhe 1
 wozhu 2
 wu 3 3 4
 wubi 1 2
@@ -1523,7 +1524,7 @@ xinxi 1
 xinzhi 1 1
 xinzhong 1
 xiong 1
-xiongqian 1
+xiongqian 2
 xiuxika 1
 xiuyu 1
 xiwang 1
