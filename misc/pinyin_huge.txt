@@ -139,6 +139,7 @@ bata 把他 把它
 bawo 把握
 baxi 把戏
 bazhan 霸占
+bazhangyin 巴掌印
 bazhi 把值
 bei 被 背 北 备 悲 辈 杯 倍 贝 碑 卑 蓓 惫 悖 狈 呗 焙 鹎 孛 邶 陂 埤 碚 褙 鐾 鞴 萆 钡 俻 俾 偝 偹 備 僃 哱 唄 喺 垻 怫 愂 憊 揹 昁 杮 柸 桮 梖 棑 棓 椑 波 牬 犕 狽 珼 琲 痺 盃 禙 箃 糒 苝 茀 菩 萯 葡 藣 蛽 蜚 襬 誖 諀 貝 跋 軰 輩 鄁 鉳 鋇 錍 鐴 骳 鵯
 beibao 背包
@@ -146,6 +147,7 @@ beibaod 背包的
 beibei 被被
 beibiwunai 被逼无奈
 beida 北大
+beidai 背带
 beifen 备份
 beijing 背景 北京
 beilou 北楼
@@ -438,7 +440,7 @@ caiqu 采取
 cairang 才让
 caishui 财税
 caiwu 财务 财物
-caixiang 才像
+caixiang 才像 踩响
 caiyang 采样
 caiyanglv 采样率
 caiyao 菜肴
@@ -580,6 +582,7 @@ chaxun 查询
 chayi 差异
 chazhao 查找
 che 车 彻 撤 扯 澈 掣 坼 砗 伡 俥 偖 勶 呫 唓 喢 多 夛 奲 宅 尺 屮 徹 揊 摰 撦 斥 池 烢 烲 焎 爡 瞮 硨 硩 聅 莗 蛼 詀 謵 車 迠 頙
+chechengwei 车成为
 chedi 彻底
 chedui 车队
 chen 晨 辰 陈 称 沉 尘 臣 趁 衬 郴 谶 琛 忱 嗔 伧 抻 谌 宸 榇 龀 碜 侲 傖 儭 嚫 堪 塡 填 塵 墋 夦 帘 愖 捵 揨 敐 曟 枕 桭 棧 棽 樄 櫬 沈 湛 瀋 烥 煁 疢 疹 瘎 瘨 眈 瞋 硶 磣 稱 綝 縝 缜 肜 胂 茞 莀 莐 蔯 薼 螴 襯 訦 諃 諶 謓 謲 讖 賝 贂 趂 趻 跈 踸 軙 迧 醦 鈂 鍖 闖 闯 陳 霃 鷐 麎 齓 齔
@@ -636,6 +639,7 @@ chepiao 车票
 chezhan 车站
 chi 赤 吃 斥 迟 持 尺 池 痴 齿 驰 耻 翅 匙 侈 哧 嗤 啻 弛 蚩 炽 笞 敕 叱 饬 踟 鸱 褫 豉 坻 墀 茌 篪 傺 媸 螭 彳 眵 魑 瘛 佁 侙 俿 剟 勅 卙 卶 叺 呎 呬 呮 呹 哆 啸 喜 喫 嘨 嘯 噄 噭 坘 垑 奓 她 妛 屟 岻 彨 彲 徲 恜 恥 慗 慸 憏 懘 扡 抬 抶 拆 拕 拖 拸 捇 提 搋 摛 摴 攡 杘 柅 柢 樆 欼 歗 歭 歯 汖 沱 沶 治 泜 淔 湁 滞 滯 漦 灻 烾 熾 狋 瓻 痓 痸 瘈 癡 眙 瞝 祇 离 移 竾 筂 箈 箎 粚 糦 絺 翄 翤 翨 耛 肔 胝 胣 胵 脪 腟 芪 茬 荎 莉 菭 蚇 蚳 蛇 蝭 袲 袳 裭 訵 誀 誃 誺 謘 謻 貾 赿 趍 趐 趩 跅 跢 跮 踅 踶 軧 迡 迣 遅 遟 遫 遲 邌 鉓 鉹 銐 鍉 離 雴 飭 飾 餝 饎 饰 馳 騺 驪 骊 鳷 鴟 鵄 鵣 鶒 鶗 鶙 鷘 麶 黐 齒 齝
 chibang 翅膀
+chibie 吃憋
 chichi 迟迟
 chicun 尺寸
 chidao 迟到
@@ -676,6 +680,7 @@ chouqu 抽取
 chouwei 筹委
 chouxiang 抽象
 chouyan 抽烟
+chouzhun 瞅准
 chouzi 筹资
 chu 除 处 初 出 楚 触 储 础 厨 畜 躇 橱 雏 矗 怵 锄 杵 搐 绌 黜 褚 蜍 蹰 刍 滁 楮 憷 亍 樗 俶 傗 儊 儲 処 助 嘼 埱 媰 岀 幮 廚 慉 懨 拀 摢 摴 敊 斶 柠 椘 榋 槒 橻 檚 櫉 櫖 櫥 欪 歜 涂 淑 滀 濋 炪 犓 珿 琡 璴 硫 礎 祝 禇 竌 竐 篨 絀 絮 耝 耡 臅 芻 菆 著 蒢 蒭 蓫 蕏 藸 處 蟵 蠩 觕 觸 詘 諔 諸 诎 诸 豖 豠 貙 趎 跦 踀 踰 躕 鄐 鉏 鋤 閦 雛 鶵 鸀 齣 齭 齼
 chuai 揣 啜 踹 嘬 膪 搋 欼 腄 膗
@@ -696,6 +701,7 @@ chuangye 创业
 chuangyi 创意
 chuangzao 创造
 chuangzuo 创作
+chuanhen 穿痕
 chuanmei 传媒
 chuanru 传入
 chuanshu 传输
@@ -917,6 +923,7 @@ dangzhu 挡住
 dangzu 党组
 danji 单击 单机
 danju 单据
+dankong 弹孔
 danli 单例 单利
 danliang 胆量
 danlie 单列
@@ -1158,6 +1165,7 @@ diqiu 地球
 diqu 地区
 disan 第三
 disanfang 第三方
+dishang 地上
 disheng 低声
 dishuo 地说
 disi 第四
@@ -1222,6 +1230,7 @@ douyi 都已
 douyin 抖音
 douyou 都有
 douzai 都在
+douzi 豆子
 douzuo 都做
 du 度 读 都 独 毒 督 渡 肚 杜 睹 堵 赌 妒 嘟 渎 笃 牍 镀 犊 黩 髑 椟 芏 蠹 儥 凟 剢 剫 匵 厾 噣 土 塗 妬 嬻 宅 帾 斁 晵 暏 樚 樞 橐 櫝 殬 殰 涜 瀆 牘 犢 獨 琽 瓄 皾 睪 秺 竇 竺 笁 篤 纛 荰 蝳 螙 蠧 裻 襡 襩 覩 詫 読 讀 讟 诧 豄 賭 贕 醏 錖 鍍 鍺 鑟 锗 闍 阇 陼 靯 韇 韣 韥 頓 顿 騳 黷
 duan 端 短 断 段 锻 缎 煅 椴 簖 偳 剬 塅 媏 彖 斷 毈 瑖 碫 篅 籪 緞 耑 腶 葮 褍 踹 躖 鍛 鍴
@@ -1480,6 +1489,7 @@ fengmian 封面
 fengong 分工
 fengqi 风气
 fenguan 分管
+fengxi 缝细 缝隙
 fengxian 风险
 fenhao 分号 分毫
 fenjie 分解
@@ -1532,6 +1542,7 @@ fulu 附录
 fumei 赴美
 fumian 负面
 fumu 父母
+fuqi 扶起
 fuqian 肤浅
 fushi 复试 服饰
 fushu 负数 附属
@@ -1919,11 +1930,12 @@ guzhen 古镇
 h 和
 ha 哈 蛤 铪 吓 呵 奤 妎 為 獬 虾 蝦 鉿 丷
 haha 哈哈
-hai 海 还 嗨 孩 害 嘿 咳 亥 骇 骸 胲 醢 氦 侅 咍 咴 嗐 嚡 塰 拸 欬 烸 猲 絯 還 郂 酼 閡 阂 頦 颏 餀 饚 駭 駴
+hai 还 海 嗨 孩 害 嘿 咳 亥 骇 骸 胲 醢 氦 侅 咍 咴 嗐 嚡 塰 拸 欬 烸 猲 絯 還 郂 酼 閡 阂 頦 颏 餀 饚 駭 駴
 haiba 海拔
 haibao 海报
 haibei 还被
 haibu 还不
+haicanliu 还残留
 haide 孩得
 haidei 还得
 haifeng 海峰
@@ -2284,6 +2296,7 @@ huoyun 货运
 huozhe 或者 活着 货着
 hutong 胡同
 huxiang 互相
+huying 呼应
 huzhou 湖州
 ji 及 即 几 级 计 机 给 己 击 鸡 积 记 基 济 辑 极 寄 际 技 集 纪 奇 急 激 继 既 籍 吉 挤 迹 季 寂 绩 疾 饥 祭 缉 忌 剂 圾 姬 矶 肌 嫉 讥 藉 叽 脊 冀 稽 妓 棘 骥 畸 蓟 汲 悸 岌 伎 笈 跻 瘠 亟 诘 暨 霁 羁 稷 偈 戟 嵇 楫 唧 鲫 髻 荠 箕 觊 蒺 畿 虮 齑 殛 墼 佶 掎 芨 丌 麂 蕺 咭 嵴 芰 笄 哜 洎 乩 戢 屐 剞 跽 玑 鲚 赍 犄 丮 乁 亼 伋 倚 偮 僟 其 兾 刉 刏 剤 劑 勣 卙 卟 卽 厝 叝 吇 呰 喞 嗘 嘰 嚌 坖 垍 堲 塉 墍 妀 姞 姼 尐 居 屰 岋 峜 嵆 嶯 帺 幾 庴 廭 彐 彑 彶 徛 忣 惎 愱 憿 懠 懻 揖 揤 撃 撠 撽 擊 擠 攲 敧 旡 旣 暩 曁 枅 梞 棋 楖 極 槉 槣 樭 機 橶 檕 檝 檵 櫅 櫭 毄 汥 泲 洁 淁 済 湒 漃 漈 潗 濈 濟 瀱 焏 犱 狤 猗 璂 璣 璾 畟 疵 痵 瘵 癠 癪 皀 皍 睽 瞉 瞿 磯 禝 禨 秸 稘 稩 穄 穊 積 穖 穧 筓 箿 簊 簎 粢 糭 系 紀 紒 級 結 給 継 緝 縘 績 繋 繫 繼 结 罽 羇 羈 耤 耭 胔 脔 脨 膌 臮 艥 艻 芶 苙 茍 茤 莋 萁 萕 葪 蒩 蔇 蕀 蕲 薊 薺 蘄 蘎 蘮 蘻 虀 蜡 蝍 螏 蟣 蟻 蟿 蠀 裚 褀 襀 襋 覉 覊 覘 覬 覿 觇 觌 觙 觭 計 訐 記 誋 諅 諔 譏 譤 讦 谻 谿 賫 賷 趌 趞 跂 跡 踑 踖 踦 蹐 蹟 躋 躤 躸 輯 轚 郅 郆 鄿 銈 銡 錤 鍓 鏶 鐖 鑇 鑙 隔 際 隮 雞 雦 雧 霵 霽 革 鞊 鞿 韲 颳 飢 饑 騎 驥 骑 鬾 魝 魢 魥 鮆 鯚 鯯 鯽 鰶 鰿 鱀 鱭 鱾 鳮 鵋 鶏 鶺 鷄 鷑 鸄 鹡 齊 齌 齍 齎 齏 齐
 jia 加 假 佳 价 架 家 甲 驾 夹 嫁 嘉 贾 稼 茄 佼 挟 颊 皎 侥 枷 珈 戛 迦 伽 浃 痂 胛 笳 荚 葭 钾 镓 嘏 郏 挢 岬 徼 湫 敫 袈 瘕 恝 铗 袷 蛱 跏 傢 價 叚 呷 咖 唊 圿 埉 夏 夓 夾 婽 宊 幏 徦 忦 戞 扴 抸 押 拁 拮 挈 挾 揩 揳 擖 斚 斝 暇 梜 椵 榎 榢 槚 檟 毠 泇 浹 犌 猰 猳 玾 筴 糘 耞 脥 腵 莢 蛺 蝦 裌 豭 貑 賈 跲 郟 鉀 鉫 鉿 鋏 鎵 铪 頡 頬 頰 颉 餄 饸 駕 駱 骆 骱 鴶 鵊 麚
@@ -2403,6 +2416,7 @@ jianzhu 建筑
 jiao 较 叫 教 交 脚 觉 校 角 焦 骄 郊 轿 搅 嚼 胶 缴 绞 饺 椒 矫 娇 佼 狡 浇 跤 姣 窖 剿 侥 皎 蕉 酵 礁 鲛 徼 湫 敫 僬 鹪 峤 蛟 铰 艽 茭 挢 噍 醮 乔 侨 僑 僥 儌 劋 勦 勪 却 卻 呌 咬 喬 嘂 嘄 嘐 嘦 噭 妖 嫶 嬌 嬓 孂 学 學 峧 嵺 嶕 嶠 嶣 恔 悎 憍 憢 憿 挍 捁 摷 撟 撹 攪 敎 敥 敽 敿 斠 晈 暞 曒 樔 橋 櫵 湬 滘 漖 潐 澆 激 灂 灚 烄 焳 煍 燋 獥 珓 璬 皦 皭 矯 稾 穚 窌 笅 筊 簥 糾 絞 繳 纐 纠 腳 膠 膲 臫 芁 茮 菽 萩 蕎 藠 虠 蟜 蟭 覐 覚 覺 訆 譑 譥 賋 趫 趭 踋 蹻 較 轇 轎 鄗 釂 釥 鉸 鐎 餃 驕 骹 鮫 鱎 鵁 鵤 鷦 鷮
 jiaoan 教案
 jiaoben 脚本
+jiaobusheng 脚步声
 jiaocai 教材
 jiaocha 较差
 jiaochang 较长
@@ -2686,7 +2700,7 @@ jisuan 计算
 jisuanji 计算机
 jiti 集体 肌体
 jituan 集团
-jiu 旧 久 酒 就 九 究 救 纠 揪 疚 舅 韭 赳 鸠 灸 咎 啾 臼 鹫 阄 僦 厩 玖 柩 桕 鬏 丩 乆 乣 倃 剹 勼 匓 匛 匶 噍 奺 廄 廏 廐 愁 慦 捄 揂 揫 摎 朻 杦 柾 樛 橚 殧 氿 汣 湫 湬 牞 畂 稵 穋 窌 糺 糾 紤 繆 缪 舊 舏 萛 蝤 镹 韮 鬮 鯦 鳩 鷲 麔 齨
+jiu 旧 久 就 酒 九 究 救 纠 揪 疚 舅 韭 赳 鸠 灸 咎 啾 臼 鹫 阄 僦 厩 玖 柩 桕 鬏 丩 乆 乣 倃 剹 勼 匓 匛 匶 噍 奺 廄 廏 廐 愁 慦 捄 揂 揫 摎 朻 杦 柾 樛 橚 殧 氿 汣 湫 湬 牞 畂 稵 穋 窌 糺 糾 紤 繆 缪 舊 舏 萛 蝤 镹 韮 鬮 鯦 鳩 鷲 麔 齨
 jiuban 旧版
 jiuchao 就抄
 jiuci 就此
@@ -2719,7 +2733,7 @@ jiuyao 就要
 jiuye 就业
 jiuyou 就有 旧友
 jiuyue 九月
-jiuzhu 揪住
+jiuzhu 揪住 救住
 jiwang 既往
 jiwei 计为 机位 几位 纪委 既为
 jixia 记下
@@ -2749,6 +2763,7 @@ juan 捐 卷 倦 眷 娟 隽 绢 鹃 涓 镌 锩 鄄 狷 桊 蠲 劵 勌 勬 呟
 juanhang 倦航
 juannei 卷内
 juanpan 卷判
+juanru 卷入
 juban 举办
 jubei 具备
 jubu 局部
@@ -2828,7 +2843,9 @@ kaluo 卡罗
 kan 看 刊 侃 堪 砍 坎 槛 勘 瞰 龛 阚 莰 戡 嵌 偘 冚 凵 喊 埳 堿 塪 墈 崁 嵁 惂 扻 栞 檻 欿 歁 監 矙 碪 磡 竷 莶 薟 衎 譼 輡 輱 轁 轗 闞 靬 顑 餡 馅 龕
 kanba 看吧
 kanbi 堪比
+kanbuqing 看不清
 kandao 看到
+kande 看得
 kang 抗 康 慷 扛 炕 亢 糠 伉 闶 钪 匟 囥 坑 奋 嫝 嵻 忼 摃 杭 槺 沆 漮 犺 砊 穅 粇 荒 躿 邟 鈧 鏮 閌 阬 骯 鱇
 kanghui 康辉
 kangyi 抗议
@@ -3027,6 +3044,7 @@ lanqiu 篮球
 lanse 蓝色
 lantan 懒谈
 lanwei 烂尾
+lanzhu 拦住
 lao 老 劳 牢 捞 姥 佬 潦 唠 烙 酪 涝 崂 痨 醪 铹 栳 铑 耢 僗 僚 労 勞 咾 哰 嗠 嘐 嘮 嫪 嶗 恅 憥 憦 撈 撩 朥 橑 橯 浶 澇 狫 獠 珯 癆 硓 磱 窂 簩 粩 絡 络 耮 荖 落 蓼 蛯 蟧 軂 轑 銠 鐒 顟 髝 鮱
 laoban 老板
 laocheng 老程
@@ -3290,11 +3308,13 @@ luoxian 螺线
 luoxiao 罗小
 luoxuan 螺旋
 luoyu 罗雨
+luozai 摞在
 luozhao 裸照
 luozhu 罗筑
 luping 录屏
 luqu 录取
 luru 录入
+lushang 路上
 lushuang 鲁霜
 luxian 路线
 luxiang 卢湘
@@ -3435,6 +3455,7 @@ miaozhun 瞄准
 mibu 弥补
 mie 灭 蔑 篾 咩 乜 蠛 吀 咪 哶 孭 幭 懱 搣 櫗 滅 瀎 眜 薎 衊 覕 谂 鑖 鱴 鴓
 mima 密码
+mimi 密秘
 min 民 敏 悯 闽 泯 珉 皿 抿 闵 苠 岷 缗 玟 愍 黾 鳘 僶 冧 冺 刡 勄 呡 垊 姄 崏 忞 怋 慜 憫 捪 敃 敯 旻 旼 暋 汶 渂 湏 湣 潣 琘 琝 瑉 痻 盷 盿 眠 砇 碈 笢 笽 簢 緍 緡 繩 绳 罠 蠠 賯 鈱 錉 鍲 閔 閩 鰵 鴖 黽
 minda 民大
 ming 名 铭 明 鸣 命 冥 茗 溟 酩 瞑 暝 螟 佲 凕 姳 嫇 慏 掵 朙 榠 洺 猽 眀 眳 萌 蓂 覭 詺 鄍 銘 鳴
@@ -3549,6 +3570,7 @@ nanlu 南路
 nanmian 难免
 nanrui 南瑞
 nansheng 男生
+nanshou 男受
 nantong 南通
 nanyi 难以
 nanyiyu 难以于
@@ -3880,7 +3902,7 @@ qiang 强 墙 枪 抢 腔 呛 锵 跄 羌 蔷 戕 襁 樯 炝 蜣 嫱 锖 戗 �
 qiangang 钱钢 钱刚
 qiangbi 墙壁
 qiangda 强大
-qiangdiao 强调
+qiangdiao 强调 腔调
 qiangdu 强度
 qianghua 强化
 qianghuaban 强化版
@@ -4144,6 +4166,7 @@ ranhou 然后
 rao 扰 绕 饶 娆 桡 荛 嬈 挠 撓 擾 橈 犪 穘 繚 繞 缭 蕘 蟯 襓 遶 隢 饒
 raoguo 绕过
 re 热 惹 喏 偌 捼 渃 熱 若 蹃
+rede 惹得
 regengxin 热更新
 remen 热门
 ren 人 任 刃 认 忍 仁 韧 纫 饪 壬 仞 稔 葚 荏 妊 轫 衽 亻 仭 儿 刄 姙 屻 忈 忎 恁 扨 朲 杒 栠 栣 梕 棯 涊 牣 秂 秹 紉 紝 絍 綛 纴 肕 腍 芢 荵 菍 袵 訒 認 讱 躵 軔 釰 鈓 銋 靭 靱 韌 飪 餁 魜 鵀
@@ -4162,7 +4185,7 @@ renmen 人们
 renqi 任期 任其
 renqiang 人墙
 rensheng 人生
-renshi 认识 人事
+renshi 认识 人事 人士
 renshou 人手
 renshu 人数
 rentong 认同
@@ -4239,6 +4262,7 @@ ruxia 如下
 ruyue 如约
 ruzhu 入住
 sa 洒 撒 萨 卅 仨 飒 挲 脎 摋 攃 桬 檫 櫒 殺 泧 潵 灑 纚 蔡 蕯 薩 訯 躠 鈒 鎝 鏾 钑 隡 霅 靸 鞈 颯 馺
+sachu 洒出
 sai 赛 塞 腮 噻 鳃 僿 嗮 嘥 思 愢 揌 毢 毸 簑 簺 賽 顋 鰓
 saihou 赛后
 saihuo 赛获
@@ -4708,6 +4732,7 @@ sibu 似不
 sichou 丝绸
 sifeng 四风
 sige 四个
+sihou 嘶吼
 sihu 似乎
 siji 死机
 sikao 思考
@@ -4718,6 +4743,7 @@ siren 四人
 sisha 撕杀
 siwang 死亡
 siwei 思维 四位
+sixia 四下
 sixiang 思想
 sixing 死刑
 siyao 私钥
@@ -4811,7 +4837,7 @@ suzhi 素质
 suzhou 苏州
 suzhu 宿主
 suzhuang 诉状
-ta 她 它 他 踏 塔 塌 榻 嗒 蹋 沓 遢 挞 鳎 闼 铊 趿 漯 溻 獭 侤 傝 呾 咜 嚃 嚺 墖 太 崉 拓 搨 搭 撘 撻 榙 毾 涾 湿 溚 澾 濌 濕 牠 狧 獺 祂 禢 荅 褟 誻 譶 蹹 躢 达 迏 迖 逹 達 遝 鉈 錔 鎉 鎑 闒 闟 闥 阘 鞈 鞑 鞜 鞳 韃 鮙 鰨
+ta 她 他 它 踏 塔 塌 榻 嗒 蹋 沓 遢 挞 鳎 闼 铊 趿 漯 溻 獭 侤 傝 呾 咜 嚃 嚺 墖 太 崉 拓 搨 搭 撘 撻 榙 毾 涾 湿 溚 澾 濌 濕 牠 狧 獺 祂 禢 荅 褟 誻 譶 蹹 躢 达 迏 迖 逹 達 遝 鉈 錔 鎉 鎑 闒 闟 闥 阘 鞈 鞑 鞜 鞳 韃 鮙 鰨
 tachuan 它传
 tade 他的 她的
 tahe 他和
@@ -4832,6 +4858,7 @@ taizhou 泰州
 tajun 她均
 tale 她了
 talv 他律
+tamatamen 她码他们
 tamen 她们 他们 它们
 tamiao 他喵
 tan 谈 探 弹 坦 叹 坛 摊 贪 滩 毯 谭 潭 瘫 炭 覃 痰 忐 坍 袒 碳 澹 檀 昙 镡 郯 锬 钽 但 倓 傝 僋 儃 啴 嗿 嘆 嘽 嘾 埮 墰 墵 壇 壜 婒 弾 彈 怹 惔 憛 憳 憻 掸 撢 撣 擹 攤 暺 曇 榃 橝 歎 沈 淡 湛 湠 漢 潬 灘 炎 璮 痑 癉 癱 禪 緂 繵 罈 罎 胆 舑 舔 舕 荨 菼 蕁 蕈 藫 裧 襢 談 譚 譠 貚 貪 賧 赕 醈 醓 醰 鉭 錟 顃 餤 鷤 黮
@@ -5023,6 +5050,7 @@ tongxing 通行
 tongxu 铜须
 tongxue 同学 童靴
 tongxun 通讯
+tongxunqi 通讯起
 tongyang 同样
 tongyi 同一 统一 同意
 tongyige 同一个
@@ -5229,6 +5257,7 @@ weidao 位到 味道
 weideng 为等 伟等
 weidian 位点
 weidu 维度
+weiduguolai 围堵过来
 weigeshi 为格式
 weiguan 微观
 weihai 危害
@@ -5522,6 +5551,8 @@ xiaochang 小常
 xiaochen 小陈
 xiaochengxu 小程序
 xiaochu 消除 笑出
+xiaode 笑得
+xiaodechulai 笑得出来
 xiaodi 小弟
 xiaodong 晓东
 xiaodou 小豆 校都
@@ -5574,6 +5605,7 @@ xiaoxie 小写
 xiaoxin 小心
 xiaoxinyiyi 小心翼翼
 xiaoxu 小徐
+xiaoyan 硝烟
 xiaoyang 小杨
 xiaoyao 小妖
 xiaoyi 效益 笑意
@@ -5641,6 +5673,7 @@ xihuanheise 喜欢黑色
 xihuanyouqu 喜欢有趣
 xihuanzhezhong 喜欢这种
 xijie 细节
+xijuyanyuan 喜剧演员
 xilie 系列
 xilu 西路
 xiluo 奚落
@@ -5855,9 +5888,11 @@ yanguan 验关
 yangxiao 杨晓
 yangxu 杨旭
 yangyan 杨颜
+yangzhang 仰仗
 yangzhi 养殖 杨志
 yangzhiye 养殖业
 yanhou 延后
+yanhu 掩护
 yanhua 演化
 yanjia 严加
 yanjiang 演讲
@@ -5870,6 +5905,7 @@ yankan 眼看
 yanke 严苛
 yanluo 燕罗
 yanmo 淹没
+yanran 俨然
 yanse 颜色
 yanshen 延伸
 yanshi 演示 延时
@@ -5988,7 +6024,7 @@ yier 一二
 yifan 一番
 yifang 乙方 以防
 yifen 一份 一分
-yifu 以赴 依附
+yifu 以赴 依附 一副
 yigao 一稿
 yige 一个
 yigege 一个个
@@ -6122,6 +6158,7 @@ yiwancheng 已完成
 yiwang 以往 遗忘
 yiwei 以为
 yiwen 一问 译文
+yiwusuozhi 一无所知
 yixia 一下 以下
 yixiang 意向
 yixiao 一笑
@@ -6205,6 +6242,7 @@ youle 有了
 youliang 优良
 youlie 优劣
 youma 有吗
+youmen 油门
 youmeng 有梦
 youni 由你
 youpa 又怕
@@ -6396,6 +6434,7 @@ zaici 再次 在此
 zaicong 在从
 zaidao 再到
 zaide 在的
+zaidi 在地
 zaiding 再订
 zaidu 再度
 zaifa 在发
@@ -6963,6 +7002,7 @@ zoujin 走近
 zouli 走哩
 zoushi 走时
 zouxiang 走向
+zouyitang 走一躺
 zu 阻 组 足 族 祖 租 卒 诅 俎 镞 菹 伜 伹 倅 傶 卆 哫 啐 嘁 岨 崒 崪 徂 怚 柤 沮 淬 爼 珇 砠 稡 箤 紣 組 綷 苴 葅 蒩 詛 謯 趱 趲 踤 踿 蹴 鉃 鉏 鉐 錊 鎐 鎺 鏃 鑿 靻 顇 駔 驵
 zuan 赚 钻 攥 纂 躜 缵 劗 揝 撮 攒 攢 欑 篹 籫 繤 纉 纘 賺 躦 鑚 鑽
 zuancheng 钻成
@@ -7028,6 +7068,7 @@ zuoguo 做过
 zuohao 做好
 zuoji 座机
 zuojin 坐进
+zuolao 做牢
 zuole 做了 作了
 zuopin 作品
 zuoqilai 坐起来
