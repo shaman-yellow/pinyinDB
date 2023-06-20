@@ -69,7 +69,7 @@ bieren 1
 bihuazhe 1
 bijiao 1
 bijing 3
-bing 7 1
+bing 7 1 1
 bingbu 6
 bingbushi 2
 bingqie 1
@@ -223,7 +223,7 @@ cuocuoshi 1
 cuokai 1
 cuoshan 1
 cuoshi 1 1
-d 1184
+d 1185
 da 20 14
 daan 5
 dabao 1 1
@@ -280,7 +280,7 @@ daying 4
 dazhe 4
 de 80 21 1
 dedao 4
-dei 11
+dei 12
 deng 6
 dengdao 3
 dengjia 2
@@ -784,7 +784,7 @@ lianxu 1
 liaojie 1
 liewen 1
 lijie 5
-likai 11
+likai 12
 liliang 3
 limian 4
 ling 4
@@ -865,7 +865,7 @@ mu 2
 mubiao 1
 mudi 1
 n 7
-na 80 5 4
+na 82 5 4
 nabian 1
 nachu 1
 naer 3 3
@@ -895,6 +895,7 @@ nayang 4
 nayitian 2
 nayou 1
 nayouyitian 1
+nazhi 1
 nazhiyan 3
 nazhong 1
 ne 6
@@ -1169,7 +1170,7 @@ shizai 4 1
 shizhong 1
 shizi 1
 shizijishi 1
-shou 22 10 3 1
+shou 23 10 3 1
 shoudao 3 3
 shouduan 2
 shouji 4
@@ -1237,7 +1238,7 @@ taiduo 1
 taishao 1
 taitou 3
 taiyuan 1
-tamen 8 4 3
+tamen 8 5 3
 tan 6
 tanhua 3
 tanwan 2
@@ -1699,7 +1700,7 @@ zheer 6
 zhege 41
 zhehuishi 2
 zhejiang 2
-zheli 26
+zheli 27
 zheme 28
 zhen 1 1
 zhende 2
@@ -1725,7 +1726,7 @@ zheye 1
 zheyi 4
 zheyiquan 1
 zhezhong 4
-zhi 9 8 1 2
+zhi 9 9 1 2
 zhicheng 2
 zhichi 2
 zhichu 1
