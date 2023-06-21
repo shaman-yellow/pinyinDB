@@ -26,7 +26,7 @@ baochi 2
 baode 1
 baofu 8 1
 baohan 2
-baokuo 1
+baokuo 2
 baoli 10 2
 baolu 3
 baoluzai 1
@@ -355,7 +355,7 @@ duan 2 2
 duanli 1
 duanzan 2
 duduan 2
-dui 41
+dui 42
 duice 1
 duifang 1
 duini 4
@@ -418,7 +418,7 @@ fashe 1
 fasheng 5
 fashengdaitu 1
 faxian 7
-fei 6 1 2
+fei 7 1 2
 feiwu 1
 feixuan 1
 fen 6 1
@@ -557,7 +557,7 @@ haojuhaosan 1
 haole 2
 haowu 1
 haoxiang 30
-he 126 2
+he 127 3
 hecheng 1
 hehuang 1
 hei 14
@@ -574,6 +574,7 @@ henjiu 4
 henkuai 2
 heren 1
 heshi 3
+hesuan 1 1
 heta 4
 hexia 1
 hjuiji 1
@@ -741,7 +742,7 @@ jiuzhu 1 1
 jixing 1
 jixu 7
 jiyi 7
-jiyin 7
+jiyin 9
 jizai 1
 jiziji 1
 ju 2 1
@@ -1208,7 +1209,7 @@ shenxia 2
 shenzhi 3
 shesheng 1
 shezhu 1
-shi 128 10 3 1
+shi 129 10 3 1
 shibai 1
 shibie 3
 shibushi 3
@@ -1298,7 +1299,7 @@ song 4 1
 songkai 1
 sou 1
 su 1
-suan 8 3
+suan 8 4
 suansuan 1
 sui 3 1
 suihou 2
@@ -1749,6 +1750,7 @@ youyu 1
 youzheng 1
 yu 18 6
 yuan 1 1
+yuanjian 1 1
 yuanlai 2
 yuanli 1
 yuanliuliu 2
