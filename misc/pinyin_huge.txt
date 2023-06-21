@@ -237,6 +237,7 @@ biaotou 表头
 biaoxian 表现
 biaoxiande 表现得
 biaoxiang 表象
+biaoxing 表型
 biaoye 表也
 biaoyin 标引
 biaoza 表咱
