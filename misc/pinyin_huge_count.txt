@@ -510,7 +510,8 @@ gezhong 2
 gong 1
 gongan 1
 gongju 5
-gongneng 3
+gongneng 4
+gongnengshichang 1
 gongzuo 2
 gou 4
 goucheng 1

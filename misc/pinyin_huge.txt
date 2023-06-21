@@ -1761,6 +1761,7 @@ gongke 攻克 工科
 gongmian 共勉
 gongmin 公民
 gongneng 功能
+gongnengshichang 功能失常
 gongping 公平
 gongqi 工期 龚琪
 gongqiu 供求
