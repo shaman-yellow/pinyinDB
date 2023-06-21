@@ -425,6 +425,7 @@ fangzui 1
 fankang 6
 fanren 1
 fanshe 1
+fanwei 1
 fanyi 1
 fashe 2
 fashel 1
@@ -1671,7 +1672,7 @@ yangzhang 1
 yanhu 1
 yanjian 1
 yanjing 22
-yanjiu 4
+yanjiu 5
 yanmo 1
 yanran 1
 yanse 1
