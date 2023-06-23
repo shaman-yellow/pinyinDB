@@ -611,7 +611,7 @@ hongliye 1
 hongmo 1
 hongse 1
 hongyi 9
-hongyishui 24
+hongyishui 26
 hou 20
 houfang 1
 houguo 2
@@ -657,6 +657,7 @@ huoqu 2
 huozhe 18 6 1
 hutong 2
 huying 1
+hys 1
 ji 7
 jia 1
 jiagong 1
@@ -792,7 +793,7 @@ julei 2
 juli 4
 junguan 1
 juran 2
-kai 16
+kai 17
 kaishi 15
 kaixin 3
 kan 30
@@ -838,7 +839,7 @@ kuitan 2
 kunhuo 2
 kunjing 1
 kuzi 1
-l 600
+l 601
 la 5
 lai 47
 laishuo 7
@@ -1059,7 +1060,7 @@ pan 2 3
 pangbai 1
 pangbian 1
 panxuan 2
-pao 8
+pao 9
 paode 2
 pei 1
 peifu 1
