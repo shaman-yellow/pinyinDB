@@ -1766,7 +1766,7 @@ yaoshi 21
 yaoxie 1
 yaoye 1
 yeba 1
-yeshi 1
+yeshi 1 1
 yidian 1
 yihuier 1
 yimuyiyang 1
