@@ -251,7 +251,7 @@ cuocuoshi 1
 cuokai 1
 cuoshan 1
 cuoshi 1 1
-d 1306
+d 1307
 da 30 19
 daan 5
 dabao 1 1
@@ -332,7 +332,7 @@ diannao 6
 dianxiangan 1
 dianzai 1
 diao 9 2
-diaocha 1
+diaocha 2
 diaonan 1
 dier 1
 difang 3
@@ -566,7 +566,7 @@ haihui 5
 haimei 11
 haineng 3
 haishi 14
-haixu 1
+haixu 2
 haiyao 3
 haiyou 18
 haizai 11
@@ -1115,7 +1115,7 @@ qingai 1 1
 qingchu 5
 qingjingxia 1
 qingkuai 2
-qingkuang 1
+qingkuang 2
 qinglv 2
 qingni 2
 qingqiu 1
@@ -1284,7 +1284,7 @@ shijian 16 8 1
 shijianzhihe 1
 shijie 21
 shike 2
-shiqing 13
+shiqing 13 1
 shiqu 1 2
 shiren 1
 shisheng 1
@@ -1372,7 +1372,7 @@ suoyi 9
 suoyou 11
 suozai 3
 sushe 1
-ta 563 58 52
+ta 564 58 52
 tade 1
 tai 8
 taiduan 1
@@ -1699,7 +1699,7 @@ yanxi 1
 yanxu 1
 yanzheng 1
 yanzhong 5 2
-yao 55 2
+yao 56 2
 yaohe 3
 yaoqiu 1
 yaoshi 21
