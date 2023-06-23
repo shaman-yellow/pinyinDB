@@ -1,5 +1,5 @@
 a 21 1
-abeiliya 246
+abeiliya 247
 ai 27 1
 an 9 2
 ang 2
@@ -53,6 +53,7 @@ beiren 1
 beita 2
 ben 8
 benlai 3
+benren 1
 benti 1
 bi 11 1
 bian 10
@@ -91,7 +92,8 @@ bixu 7
 biyao 5
 bizhen 1
 bozhuang 1
-bozi 8
+bozi 8 1
+bozishang 1
 bu 44
 buan 1
 buchong 1
@@ -100,7 +102,7 @@ buda 1
 budao 2
 buduan 7
 budui 6
-bufen 2 1
+bufen 3 1 1
 bufenqinghongzaobai 1
 bugan 3
 bugou 2
@@ -120,7 +122,7 @@ bunan 1
 buneng 7
 buqu 3
 bushang 1
-bushi 28 2
+bushi 29 3
 bushide 1
 bushou 1
 buting 1
@@ -132,7 +134,7 @@ buyao 11
 buyiyang 2
 buyong 1
 buzhi 3
-buzhidao 2
+buzhidao 3
 buzuo 2
 ca 1
 cai 12
@@ -230,6 +232,7 @@ chuqu 2
 chuxian 6
 chuzai 2
 ci 3 2
+ciqing 1
 cishi 1
 cong 35
 congcong 2
@@ -248,7 +251,7 @@ cuocuoshi 1
 cuokai 1
 cuoshan 1
 cuoshi 1 1
-d 1300
+d 1306
 da 30 19
 daan 5
 dabao 1 1
@@ -266,6 +269,7 @@ dailai 5
 daima 1
 daitu 45
 daitudaitu 1
+daiyou 1
 daizhu 1
 dajia 2
 dajiao 1
@@ -311,7 +315,7 @@ daxueshengmen 2
 daying 4
 dazhe 5
 de 87 26 2
-dedao 4
+dedao 5
 dei 14
 deng 6
 dengdao 3
@@ -392,7 +396,7 @@ e 7
 edu 1
 ei 2
 ele 1
-er 24 24 2
+er 24 25 2
 erji 1
 erlai 2
 erqie 13
@@ -528,12 +532,13 @@ gualan 1
 guan 1
 guande 1
 guang 7
+guangguailuli 1
 guanjian 2
 guanxi 7
 guanxin 1
 guanyu 3
 guanyuan 1
-guanzhu 1
+guanzhu 2
 gui 1
 guifan 1
 guilv 1
@@ -649,7 +654,7 @@ hunmibuxing 2
 huo 5
 huoda 1
 huoqu 2
-huozhe 16 6 1
+huozhe 18 6 1
 hutong 2
 huying 1
 ji 7
@@ -769,7 +774,7 @@ jiuyao 2
 jiuzhu 1 1
 jixing 1
 jixu 7
-jiyi 7
+jiyi 8
 jiyin 9
 jizai 1
 jiziji 1
@@ -793,15 +798,15 @@ kaixin 3
 kan 30
 kanba 1
 kanbuqing 1
-kandao 4
+kandao 5 1
 kande 1
 kang 3
 kangyi 1
 kangzheng 1
-kanjian 9
+kanjian 10 3
 kankan 11
 kansi 2
-kanwo 1
+kanwo 2
 kao 2
 kaozai 1
 ke 7
@@ -829,10 +834,11 @@ kuaile 1
 kuayu 2
 kuayukuayue 1
 kuhen 1
+kuitan 2
 kunhuo 2
 kunjing 1
 kuzi 1
-l 598
+l 600
 la 5
 lai 47
 laishuo 7
@@ -901,7 +907,8 @@ luozai 1
 luru 1
 lushang 3
 luxian 1
-ma 8 2 2
+luxun 1
+ma 8 2 3
 mai 3 1
 maili 1
 mali 2
@@ -925,7 +932,7 @@ meixi 1
 meiyou 56
 meizhou 1
 men 44 4
-meng 5
+meng 8
 mengya 3
 mi 2
 mian 10 1
@@ -938,7 +945,7 @@ miaoxiao 1
 miaozhun 1
 mimi 1
 ming 2
-mingbai 3
+mingbai 4
 mingdi 1
 mingming 3 4
 mingxian 1
@@ -961,12 +968,12 @@ mudi 1
 muyuan 1
 muzhi 1
 n 8
-na 111 5 4
+na 111 6 4
 nabian 1
 nachu 1
 naer 3 3
 nafang 1
-nage 25 20
+nage 26 21
 nageren 1
 nai 1
 nali 17 8
@@ -1049,6 +1056,7 @@ paidui 1
 pailie 1
 paizi 1
 pan 2 3
+pangbai 1
 pangbian 1
 panxuan 2
 pao 8
@@ -1165,6 +1173,7 @@ rao 2
 re 1 1
 rede 1
 ren 111 3 1
+renge 1
 renhe 7
 renping 1
 renqiang 1
@@ -1204,7 +1213,7 @@ shache 1
 shadiao 1
 shan 1
 shanchu 1 1
-shang 63
+shang 64
 shangci 1
 shangke 4
 shanglai 2
@@ -1240,7 +1249,7 @@ shengyinkeneng 1
 shengyou 1
 shenjing 1
 shenke 1
-shenme 12
+shenme 13
 shenqi 1
 shenqian 1
 shenqing 2 1
@@ -1268,7 +1277,7 @@ shige 7
 shigu 1
 shih 1
 shihe 2
-shihou 10 1
+shihou 11 1 1
 shijia 1
 shijian 16 8 1
 shijianzhihe 1
@@ -1362,7 +1371,7 @@ suoyi 9
 suoyou 11
 suozai 3
 sushe 1
-ta 563 57 52
+ta 563 58 52
 tade 1
 tai 8
 taiduan 1
@@ -1389,10 +1398,11 @@ teding 1
 tengtong 3
 teshu 1
 teyi 2
-tezheng 1
+tezheng 2
 ti 1 1 2
-tian 9
+tian 10
 tianguo 2
+tianna 1
 tianshang 3 1
 tiao 6
 tiaojian 5
@@ -1424,6 +1434,7 @@ tongxue 2
 tongxun 1
 tongxunqi 1
 tongyige 1
+tongzhuo 1
 tou 12
 touchu 2
 touzhe 1
@@ -1494,6 +1505,7 @@ weizhi 4
 wen 5 1 1
 wendang 1
 wendao 1
+wenhao 1
 wenjian 6
 wenku 2
 wennuan 1
@@ -1501,9 +1513,9 @@ wenti 11
 wenwen 1
 wenzhou 2
 wenzi 1
-wo 268
+wo 276
 wode 1
-wohe 1
+wohe 3
 wohen 2
 wohui 6
 wojiu 1
@@ -1565,7 +1577,7 @@ xiangta 1 1
 xiangtouting 1
 xiangxiang 4 1
 xiangxin 4
-xiangyao 13
+xiangyao 14
 xiangzhi 1
 xiangzisha 1
 xianluo 1
@@ -1602,7 +1614,8 @@ xiee 1 1
 xiehui 1
 xiexu 2
 xiezi 1
-xiezuo 5 3
+xiezuo 6 3
+xiezuod 1
 xihuan 7
 xihuanheise 1
 xihuanyouqu 1
@@ -1641,7 +1654,7 @@ xiongqian 2
 xisui 1
 xiuxika 1
 xiuyu 1
-xiwang 1
+xiwang 2
 xixue 1
 xiyin 1
 xu 5
@@ -1691,3 +1704,9 @@ yaoqiu 1
 yaoshi 21
 yaoxie 1
 yaoye 1
+yinji 2
+yiyang 1
+zai 1
+zheshi 1
+zhong 2
+zuozai 1

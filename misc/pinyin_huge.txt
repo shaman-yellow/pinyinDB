@@ -2635,6 +2635,7 @@ bozhu 博主
 bozhuang 波状
 bozhuo 剥啄
 bozi 拨子 脖子 跛子 钵子 脖子
+bozishang 脖子上
 bozu 伯祖
 bozumu 伯祖母
 bu 不 补 捕 步 部 布 怖 卜 簿 哺 埔 卟 埠 钸 逋 醭 晡 瓿 钚 佈 僕 勏 吥 咘 埗 堡 婄 尃 峬 庯 廍 悑 抪 拊 捗 捬 撲 擈 柨 歨 歩 溥 獛 秿 箁 篰 荹 蔀 薄 補 誧 踄 輹 轐 郶 鈈 鈽 附 陠 鞴 餔 餢 鯆 鳪 鵏 鸔
@@ -19898,7 +19899,7 @@ kuishou 魁首
 kuisi 窥伺
 kuisong 馈送
 kuisun 亏损
-kuitan 喟叹 窥探
+kuitan 窥探 喟叹
 kuitao 溃逃
 kuitong 愧痛
 kuitou 盔头
@@ -22485,6 +22486,7 @@ luxiantu 路线图
 luxiayou 卤虾油
 luxing 路行
 luxu 陆续
+luxun 鲁迅
 luyan 路演
 luyi 路椅
 luyin 录音 录音
@@ -33948,6 +33950,7 @@ tianmi 甜蜜
 tianmianjiang 甜面酱
 tianming 天命 天明 天命
 tianmu 天幕 田亩
+tianna 提案哪
 tiannandibei 天南地北
 tiannanhaibei 天南海北
 tianni 甜腻
@@ -38111,6 +38114,7 @@ xiezitai 写字台
 xiezouqu 协奏曲
 xiezui 谢罪
 xiezuo 写作 协作 协作 写作
+xiezuod 写作的
 xifa 戏法 细发 西法
 xifan 稀饭
 xifang 西方 西方
