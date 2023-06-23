@@ -5031,7 +5031,7 @@ chouzhun 瞅准
 chouzi 筹资 绸子 筹资
 chouzu 筹组
 chouzuo 酬酢
-chu 除 处 初 出 楚 触 储 础 厨 畜 躇 橱 雏 矗 怵 锄 杵 搐 绌 黜 褚 蜍 蹰 刍 滁 楮 憷 亍 樗 俶 傗 儊 儲 処 助 嘼 埱 媰 岀 幮 廚 慉 懨 拀 摢 摴 敊 斶 柠 椘 榋 槒 橻 檚 櫉 櫖 櫥 欪 歜 涂 淑 滀 濋 炪 犓 珿 琡 璴 硫 礎 祝 禇 竌 竐 篨 絀 絮 耝 耡 臅 芻 菆 著 蒢 蒭 蓫 蕏 藸 處 蟵 蠩 觕 觸 詘 諔 諸 诎 诸 豖 豠 貙 趎 跦 踀 踰 躕 鄐 鉏 鋤 閦 雛 鶵 鸀 齣 齭 齼
+chu 除 出 处 初 楚 触 储 础 厨 畜 躇 橱 雏 矗 怵 锄 杵 搐 绌 黜 褚 蜍 蹰 刍 滁 楮 憷 亍 樗 俶 傗 儊 儲 処 助 嘼 埱 媰 岀 幮 廚 慉 懨 拀 摢 摴 敊 斶 柠 椘 榋 槒 橻 檚 櫉 櫖 櫥 欪 歜 涂 淑 滀 濋 炪 犓 珿 琡 璴 硫 礎 祝 禇 竌 竐 篨 絀 絮 耝 耡 臅 芻 菆 著 蒢 蒭 蓫 蕏 藸 處 蟵 蠩 觕 觸 詘 諔 諸 诎 诸 豖 豠 貙 趎 跦 踀 踰 躕 鄐 鉏 鋤 閦 雛 鶵 鸀 齣 齭 齼
 chuai 揣 啜 踹 嘬 膪 搋 欼 腄 膗
 chuaice 揣测
 chuaiduo 揣度
@@ -5379,7 +5379,7 @@ chuizhou 炊帚
 chuizi 锤子
 chuizou 吹奏
 chuizouyue 吹奏乐
-chuji 储积 储集 出击 出继 初级 触及 触机 雏妓 雏鸡
+chuji 触及 储积 储集 出击 出继 初级 触机 雏妓 雏鸡
 chujia 出价 出嫁 出家
 chujian 锄奸
 chujiangruxiang 出将入相
@@ -7500,7 +7500,7 @@ dezhu 得主
 dezhuan 的专
 dezi 的字
 dezui 得罪
-di 第 低 帝 地 的 提 底 弟 敌 抵 递 滴 迪 蒂 堤 笛 缔 涤 嘀 诋 谛 狄 邸 睇 嫡 翟 砥 娣 棣 荻 羝 坻 柢 觌 骶 氐 绨 镝 碲 籴 仾 俤 偙 僀 儥 勺 厎 呧 唙 啇 啲 啻 嚁 坔 坘 埅 埊 埞 墆 墑 墬 奃 媂 嵽 嶳 廸 弔 弚 弤 彽 怟 慸 扚 拞 掋 揥 摕 敵 旳 杓 杕 枤 梊 梑 楴 樀 浟 渧 滌 焍 牴 玓 珶 甋 疐 眱 碮 磾 祶 禘 篴 糴 約 締 约 聜 肑 胝 腣 芍 苐 苖 莜 菂 菧 蓧 蔋 蔐 蔕 藋 藡 蚳 蝃 螮 袛 覿 觝 詆 諟 諦 豴 赿 趆 踧 踶 蹄 蹏 蹢 軧 逐 逓 逮 遞 適 遰 釱 鉪 鍉 鏑 阺 隄 隶 靮 鞮 頔 題 题 馰 髢 鬄 魡 鯳 鸐
+di 第 地 低 帝 的 提 底 弟 敌 抵 递 滴 迪 蒂 堤 笛 缔 涤 嘀 诋 谛 狄 邸 睇 嫡 翟 砥 娣 棣 荻 羝 坻 柢 觌 骶 氐 绨 镝 碲 籴 仾 俤 偙 僀 儥 勺 厎 呧 唙 啇 啲 啻 嚁 坔 坘 埅 埊 埞 墆 墑 墬 奃 媂 嵽 嶳 廸 弔 弚 弤 彽 怟 慸 扚 拞 掋 揥 摕 敵 旳 杓 杕 枤 梊 梑 楴 樀 浟 渧 滌 焍 牴 玓 珶 甋 疐 眱 碮 磾 祶 禘 篴 糴 約 締 约 聜 肑 胝 腣 芍 苐 苖 莜 菂 菧 蓧 蔋 蔐 蔕 藋 藡 蚳 蝃 螮 袛 覿 觝 詆 諟 諦 豴 赿 趆 踧 踶 蹄 蹏 蹢 軧 逐 逓 逮 遞 適 遰 釱 鉪 鍉 鏑 阺 隄 隶 靮 鞮 頔 題 题 馰 髢 鬄 魡 鯳 鸐
 dia 嗲
 diai 低矮
 dian 堤岸 点 电 店 典 颠 甸 淀 垫 殿 滇 奠 惦 掂 碘 癫 巅 踮 佃 玷 簟 阽 坫 靛 钿 癜 丶 佔 傎 厧 唸 埝 墊 壂 奌 婝 婰 嵮 巓 巔 扂 拈 攧 敁 敟 椣 槇 槙 橂 橝 沾 涎 湺 澱 琔 痶 瘨 癲 磹 腍 蒧 蕇 蜓 蜔 詀 蹎 鈿 電 頕 顚 顛 驔 點 齻
@@ -8584,6 +8584,7 @@ douqing 豆青
 douqu 斗渠 斗趣 逗趣
 douquanzi 兜圈子
 douran 陡然
+dourandou 陡然都
 dourong 豆蓉
 douru 豆乳
 dousha 豆沙
@@ -9231,7 +9232,7 @@ epian 萼片
 epiao 饿殍
 eqi 恶气
 eqing 俄顷
-er 二 而 儿 尔 耳 迩 饵 洱 鸸 珥 铒 鲕 贰 佴 侕 児 兒 刵 咡 唲 嬭 尒 尓 峏 弍 弐 杒 栭 栮 樲 毦 洏 渪 濡 爾 粫 耏 聏 胹 臑 荋 薾 衈 袻 誀 貮 貳 趰 輀 輭 轜 邇 鉺 陑 陾 隭 餌 駬 髵 髶 鮞 鴯
+er 而 二 儿 尔 耳 迩 饵 洱 鸸 珥 铒 鲕 贰 佴 侕 児 兒 刵 咡 唲 嬭 尒 尓 峏 弍 弐 杒 栭 栮 樲 毦 洏 渪 濡 爾 粫 耏 聏 胹 臑 荋 薾 衈 袻 誀 貮 貳 趰 輀 輭 轜 邇 鉺 陑 陾 隭 餌 駬 髵 髶 鮞 鴯
 era 儿啊
 eran 愕然
 erba 二八
@@ -9566,7 +9567,7 @@ fanche 翻车
 fanchen 凡尘 反衬
 fancheng 泛称 返程
 fanchou 犯愁 范畴
-fanchu 反刍 犯怵
+fanchu 反刍 犯怵 翻出
 fanchuan 反串 帆船 翻船
 fanchunxiangji 反唇相讥
 fandao 反倒 反倒
@@ -10182,7 +10183,8 @@ feisi 肥私
 feisu 飞速
 feite 非特
 feiteng 沸腾 飞腾
-feitian 肥田 飞天
+feitian 飞天 肥田
+feitiandundi 飞天顿地
 feitiaojianfanshe 非条件反射
 feiting 飞艇
 feitongxiaoke 非同小可
@@ -12244,7 +12246,7 @@ gouweicao 狗尾草
 gouweier 够味儿
 gouweixudiao 狗尾续貂
 gouwu 垢污
-gouxian 构陷
+gouxian 构陷 勾线
 gouxiang 构想 构象 构想
 gouxiao 勾销 购销
 gouxindoujiao 勾心斗角 钩心斗角
@@ -13437,6 +13439,7 @@ haiqin 海侵
 haiqu 海区
 haiqunzhima 害群之马
 hairan 骇然
+hairen 骇人
 hairenchong 害人虫
 hairentingwen 骇人听闻
 haisa 海撒
@@ -15269,8 +15272,10 @@ huhui 互惠
 hui 回 会 汇 挥 辉 灰 惠 毁 悔 恢 慧 绘 徽 讳 贿 徊 晦 秽 诲 诙 晖 彗 麾 烩 荟 卉 茴 喙 蛔 恚 洄 珲 蕙 哕 咴 浍 虺 缋 桧 隳 蟪 佪 僡 儶 匯 叀 嘒 噅 噕 噦 嚖 囘 囬 圚 堕 墮 壞 婎 媈 孈 寭 屷 幑 廆 廻 廽 彙 彚 徻 恛 恵 憓 懳 拻 揮 撝 暉 暳 會 椲 楎 槥 橞 檅 檓 檜 櫘 毀 毇 沬 泋 洃 涣 湏 滙 潓 澮 濊 瀈 灳 烜 烠 烣 煇 煒 燬 燴 獩 琿 璤 璯 痐 瘣 皓 眭 睢 睳 瞺 禈 穢 篲 絵 繢 繪 翙 翚 翬 翽 芔 蒐 蔧 薈 薉 藱 蘬 蘳 虫 蚘 蛕 蜖 螝 袆 褘 襘 詯 詼 誨 諱 譓 譭 譮 譿 豗 賄 輝 輠 违 迴 逥 違 銊 鏸 鐬 闠 阓 隓 靧 鞼 韋 韢 韦 頮 顪 餯 鮰 鰴 鼿 齀
 huian 晦暗 灰暗
 huibai 回拜 灰白
+huibaituo 会摆脱
 huibang 毁谤
 huibao 回报 汇报 回包 汇报
+huibei 会被
 huibi 回避 回避
 huibian 汇编 汇编 挥鞭
 huibiao 会标 徽标
@@ -17254,7 +17259,7 @@ jihuajingji 计划经济
 jihuan 疾患
 jihuang 饥荒
 jihuashengyu 计划生育
-jihui 击毁 忌讳 机会 机徽 际会 集会 机会 几回
+jihui 击毁 忌讳 机会 机徽 际会 集会 机会 几回 积灰
 jihuichengben 机会成本
 jihuizhuyi 机会主义
 jihuo 即或 急火 激活 缉获 激活
@@ -17425,6 +17430,7 @@ jingbo 精博
 jingbu 经部
 jingcai 净菜 竞猜 精彩 精采 竞猜 精彩
 jingcha 惊诧 警察 警察
+jingchaju 警察局
 jingchang 经常 静场
 jingchanzhi 净产值
 jingchao 精巢
@@ -17587,6 +17593,7 @@ jingshen 净身 景深 精审 精深 精神 精神
 jingshenbaoli 精神暴力
 jingshenbing 精神病
 jingshenchuhu 净身出户
+jingshendousou 精神抖擞
 jingshenfenliezheng 精神分裂症
 jingsheng 劲升 警省
 jingshenpeichang 精神赔偿
@@ -17638,7 +17645,7 @@ jingweifenming 泾渭分明
 jingweitianhai 精卫填海
 jingweiyi 经纬仪
 jingwu 劲舞 憬悟 景物 警务 静物
-jingxi 京戏 惊喜 精细 惊喜 精细
+jingxi 惊喜 京戏 精细 惊喜 精细
 jingxia 惊吓 镜匣
 jingxian 惊羡 惊险 敬献 敬羡 经线 警衔
 jingxiang 景象 竞相 镜像 镜箱 颈项 镜像
@@ -20356,6 +20363,7 @@ lanyong 滥用
 lanyuchongshu 滥竽充数
 lanzao 蓝藻
 lanzhang 兰章 烂账
+lanzhou 兰舟
 lanzhu 拦住
 lanzi 篮子
 lanzong 揽总
@@ -32142,6 +32150,7 @@ shuineng 水能
 shuini 水泥
 shuinian 水碾
 shuiniao 水鸟
+shuinidi 水泥地
 shuiniding 水泥钉
 shuiniu 水牛 水牛
 shuiniuer 水牛儿
@@ -33238,7 +33247,7 @@ taigang 抬杠
 taigao 抬高 太高
 taigong 太公
 taigu 太古
-taiguo 泰国
+taiguo 泰国 太过
 taihai 台海
 taihe 抬盒
 taihou 太后
@@ -33419,7 +33428,7 @@ tanghao 堂号
 tanghu 汤壶
 tanghua 唐花 堂花 烫花
 tanghuang 堂皇
-tanghui 堂会 汤晖 唐慧
+tanghui 堂会 汤晖 唐慧 躺回
 tanghulu 糖葫芦
 tanghunshui 蹚浑水
 tanghuo 倘或
@@ -34099,7 +34108,7 @@ tiaocao 跳槽
 tiaocha 调茬
 tiaochang 条畅
 tiaochen 条陈
-tiaochu 调处 挑出
+tiaochu 调处 挑出 跳出
 tiaoci 挑刺
 tiaocier 挑刺儿
 tiaodaliang 挑大梁
@@ -37129,7 +37138,7 @@ xiangcun 乡村
 xiangdang 相当 相当
 xiangdangdang 响当当
 xiangdangran 想当然
-xiangdao 向导
+xiangdao 向导 想到
 xiangdedao 想得到
 xiangdeng 相等
 xiangdeyizhang 相得益彰
@@ -37292,7 +37301,7 @@ xiangxian 象限
 xiangxiang 想像 想象 相像 相向 想象 想想
 xiangxiangli 想像力 想象力
 xiangxin 相信 相信
-xiangxing 相形 象形
+xiangxing 相形 象形 相性
 xiangxingjianchu 相形见绌
 xiangxingwenzi 象形文字
 xiangxinli 向心力
@@ -40176,6 +40185,7 @@ yaoqinahan 摇旗呐喊
 yaoqing 邀请 邀请 要请
 yaoqingsai 邀请赛
 yaoqiu 要求 要求
+yaoqu 要去
 yaoqun 咬群
 yaoran 杳然
 yaorao 妖娆
@@ -40493,7 +40503,7 @@ yichong 益虫
 yichou 一筹
 yichoumozhan 一筹莫展
 yichouwannian 遗臭万年
-yichu 役畜 益处
+yichu 役畜 益处 一处
 yichuan 遗传
 yichuangongcheng 遗传工程
 yichuanxue 遗传学
@@ -41182,7 +41192,7 @@ yipang 一旁
 yipanqi 一盘棋
 yipansansha 一盘散沙
 yipaodaxiang 一炮打响
-yipian 一偏 遗篇
+yipian 一偏 一片 遗篇
 yipianbingxin 一片冰心
 yipiangaiquan 以偏概全
 yipie 一瞥
@@ -41550,7 +41560,7 @@ yongzhong 臃肿
 yongzhongjiaojiao 庸中佼佼
 yongzhu 永驻
 yongzhuang 泳装
-you 有 又 优 由 友 游 右 油 邮 幽 尤 忧 犹 悠 幼 诱 佑 黝 攸 呦 酉 柚
+you 又 有 优 由 友 游 右 油 邮 幽 尤 忧 犹 悠 幼 诱 佑 黝 攸 呦 酉 柚
 youai 友爱 有碍
 youan 幽暗 黝暗 黝黯
 youban 游伴
@@ -42659,7 +42669,7 @@ zaigezaiwu 载歌载舞
 zaihai 灾害
 zaihan 在韩
 zaihang 在行
-zaihe 载荷
+zaihe 载荷 在和
 zaihu 在乎
 zaihuan 灾患
 zaihuang 灾荒
@@ -43569,7 +43579,7 @@ zhejiu 折旧 这就 折旧
 zheju 蛰居 谪居
 zhekou 折扣 辙口
 zhelan 遮拦
-zheli 哲理 着哩 这里
+zheli 哲理 这里 着哩
 zheluo 折箩
 zheme 这么 这么
 zhemedian 这么点
@@ -43666,7 +43676,7 @@ zhengedaidan 枕戈待旦
 zhengede 真格的
 zhenger 整儿
 zhengerbajing 正儿八经
-zhengfa 征伐 征发 政法 正法 蒸发
+zhengfa 蒸发 征伐 征发 政法 正法
 zhengfan 征帆 正犯 正反
 zhengfang 正房 正方
 zhengfangti 正方体
@@ -45762,7 +45772,7 @@ zouyang 走样
 zouyue 奏乐
 zouyun 走运
 zouzhang 奏章 走账
-zouzhe 奏折
+zouzhe 奏折 走着
 zouzheqiao 走着瞧
 zouzu 走卒
 zouzui 走嘴
