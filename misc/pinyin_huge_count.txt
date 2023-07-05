@@ -286,7 +286,7 @@ cuocuoshi 1
 cuokai 1
 cuoshan 1
 cuoshi 1 1
-d 1436
+d 1437
 da 30 19
 daan 5
 dabao 1 1
@@ -653,7 +653,7 @@ haole 4
 haolei 1
 haowu 1
 haoxiang 35
-he 139 3
+he 140 3
 hecheng 1
 hehuang 1
 hei 14
@@ -1147,6 +1147,7 @@ nazhong 2
 ne 13
 nei 6
 neirong 2
+neixin 1
 nen 4
 neng 24
 nengfou 2
@@ -1223,6 +1224,7 @@ pianpian 2
 pianren 1
 pianxie 1
 piaoyi 1
+pibei 1
 pidi 1
 pinfan 1
 pinfu 1
@@ -1323,7 +1325,7 @@ quxiang 1
 quyu 3
 ran 3
 raner 21
-rang 45 2
+rang 46 2
 rangchu 1
 rangni 3
 rangrangsheng 1
@@ -1434,7 +1436,7 @@ shenxun 1
 shenzhi 5 1
 shesheng 1
 shezhu 1
-shi 155 10 6 4 1
+shi 156 10 7 4 1
 shibai 1
 shibie 3
 shibushi 3
@@ -1787,7 +1789,7 @@ xianluo 1
 xianmu 2
 xiansuo 1
 xianyiren 5
-xianzai 35
+xianzai 36
 xianzhu 1
 xiao 9 10
 xiaode 1
@@ -1952,6 +1954,7 @@ yixia 2 1
 yiyang 4
 yizhi 3
 yizhiyu 1
+yizhong 1
 you 7 5
 youdian 2 3
 youge 1
@@ -1985,6 +1988,8 @@ zhengfa 3
 zhengge 1
 zheyang 1
 zhidao 2
+zhinegn 1
+zhineng 1
 zhishi 1
 ziji 1
 zishi 1

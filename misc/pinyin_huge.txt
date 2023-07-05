@@ -44005,6 +44005,8 @@ zhengzhuang 整装 正装 症状
 zhengzhuangdaifa 整装待发
 zheyang 这样
 zhidao 知道
+zhinegn 只能
+zhineng 只能
 zhishi 只是
 ziji 子集
 zishi 姿势
