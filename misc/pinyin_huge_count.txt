@@ -1,5 +1,5 @@
 a 28 1
-abeiliya 283
+abeiliya 284
 abidiyu 2
 ai 27 1
 aishengtanqi 1
@@ -905,6 +905,7 @@ kaixin 3
 kan 34
 kanba 1
 kanbuqing 2
+kandai 1
 kandao 5 2
 kande 1
 kang 3
@@ -1152,7 +1153,7 @@ nengfou 2
 nenggou 3
 nengli 1
 nennen 1
-ni 110 1
+ni 112 1
 nian 2 1
 niangcheng 1
 nianqing 4
@@ -1508,7 +1509,7 @@ shuiping 1
 shuju 8
 shujuku 5
 shun 4
-shuo 138
+shuo 139
 shuode 3 1
 shuofa 1
 shuoguo 1
@@ -1705,7 +1706,7 @@ wenti 13 2
 wenwen 1
 wenzhou 2
 wenzi 2 1
-wo 315
+wo 316
 wobushi 1
 wode 2
 wohaoxihuan 1
@@ -1965,7 +1966,7 @@ zainali 3
 zaisan 1
 zaoshang 2
 ze 1
-zenme 7
+zenme 9
 zenmehui 1
 zenmeyang 1
 zhan 1 1
