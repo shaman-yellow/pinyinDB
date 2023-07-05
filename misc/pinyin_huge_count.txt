@@ -270,6 +270,7 @@ cun 1
 cunchu 1
 cunzai 6
 cuo 15 1
+cuoci 1
 cuocuoshi 1
 cuokai 1
 cuoshan 1
@@ -342,7 +343,7 @@ daxue 4
 daxueshengmen 2
 daying 4
 dazhe 5
-de 91 31 2
+de 92 31 2
 debudao 1
 dedao 5
 dei 16
@@ -889,7 +890,7 @@ kanjian 10 4
 kankan 11 2
 kanlai 1
 kansi 2
-kanwo 2
+kanwo 3
 kao 2
 kaozai 1
 ke 8
@@ -1612,7 +1613,7 @@ wangzhebian 1
 wanhao 1
 wanju 1
 wanliu 1
-wanmei 1
+wanmei 2
 wanquan 2
 wanshang 4 1
 wanyier 1
