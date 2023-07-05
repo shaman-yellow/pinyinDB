@@ -1677,6 +1677,7 @@ wenzi 2 1
 wo 309
 wobushi 1
 wode 2
+wohaoxihuan 1
 wohe 3
 wohen 2
 wohui 6
