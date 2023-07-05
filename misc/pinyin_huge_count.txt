@@ -833,7 +833,7 @@ jiran 3 3
 jirantamen 1
 jishi 2 1 2
 jishu 5
-jisuan 2
+jisuan 3
 jisuanji 1
 jiti 1
 jiu 36 10 3 1
