@@ -29980,6 +29980,7 @@ shafeikuxin 煞费苦心
 shafengjing 杀风景 煞风景
 shagan 沙肝
 shaganer 沙肝儿
+shaganshang 沙肝上
 shagao 杉篙
 shagua 傻瓜
 shaguaxiangji 傻瓜相机
@@ -38047,6 +38048,7 @@ xiedan 谢丹
 xiedao 邪道
 xiede 写的 写得
 xiedi 泄底 鞋底
+xiedian 写点
 xiedie 躞蹀
 xieding 协定 歇顶 谢顶
 xiedou 械斗
