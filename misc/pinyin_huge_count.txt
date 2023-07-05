@@ -1117,7 +1117,7 @@ nengfou 2
 nenggou 3
 nengli 1
 nennen 1
-ni 109 1
+ni 110 1
 nian 2 1
 niangcheng 1
 nianqing 4
@@ -1802,7 +1802,7 @@ xingyun 1
 xingzhi 4 1
 xinli 5 2
 xinpian 1
-xinren 2
+xinren 3
 xintiao 1
 xinwen 1
 xinxi 2
