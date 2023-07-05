@@ -952,7 +952,7 @@ kunhuo 2
 kunjing 1
 kusimingxiang 1
 kuzi 1
-l 656
+l 657
 la 5
 lache 1
 lai 56
@@ -1383,7 +1383,7 @@ shanchu 1 1
 shang 69
 shangci 1
 shangke 4
-shanglai 2
+shanglai 3
 shangle 2
 shangmian 2
 shangqu 5
@@ -1551,7 +1551,7 @@ suoyi 12
 suoyou 12
 suozai 3
 sushe 1
-ta 625 88 54
+ta 625 91 54
 tade 1
 tai 10
 taidu 1
@@ -1576,6 +1576,7 @@ tashishi 1
 tashuo 2
 tata 1
 tatamen 1 1
+tazhuishanglail 1
 teding 1
 tengtong 3
 teshu 2
