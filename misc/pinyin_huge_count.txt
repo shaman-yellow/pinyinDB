@@ -1243,6 +1243,7 @@ qingshi 2 1
 qingwei 1
 qingxin 1
 qingxu 4
+qinhe 1
 qinni 2
 qipian 4
 qishen 1
