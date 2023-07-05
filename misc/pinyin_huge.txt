@@ -2691,6 +2691,7 @@ budaoweng 不倒翁
 budayu 不大于
 budazizhao 不打自招
 bude 部的 不得
+budebu 不得不
 budejin 不得劲
 budeliao 不得了
 budeng 不等
@@ -14307,6 +14308,7 @@ hezuo 合作
 hezuohua 合作化
 hezuoshe 合作社
 hjuiji 汇集
+hl 红黎
 hong 红 轰 洪 鸿 哄 宏 虹 弘 烘 泓 闳 薨 讧 蕻 訇 黉 荭 仜 厷 叿 吰 吽 哅 唝 嗊 嚝 垬 妅 娂 宖 屸 巆 彋 愩 揈 撔 晎 汪 汯 浤 浲 港 渱 渹 潂 澋 澒 灴 焢 玒 玜 瓨 硔 硡 竑 竤 篊 粠 紅 紘 紭 綋 纮 羾 翃 翝 耾 舼 苰 葒 葓 訌 謍 谹 谼 谾 軣 輷 轟 鈜 鉷 銾 鋐 鍧 閎 閧 闀 闂 霐 霟 鞃 鬨 魟 鴻 黌
 hongan 红案
 hongbaixishi 红白喜事
@@ -23226,6 +23228,7 @@ meichang 每常
 meicheng 美称
 meici 每次 没词
 meicier 没词儿
+meicuo 没错
 meidameixiao 没大没小
 meide 美德
 meideshuo 没的说
@@ -24841,6 +24844,7 @@ nayouyitian 哪有一天
 nazhen 那阵
 nazhener 那阵儿
 nazhi 那只
+nazhishou 那只手
 nazhiyan 那只眼
 nazhong 那种
 nazhuyi 拿主意
@@ -37577,7 +37581,7 @@ xiaochun 小春
 xiaoci 小词 消磁
 xiaocong 小葱
 xiaocongming 小聪明
-xiaodao 孝道
+xiaodao 孝道 笑道
 xiaodaoerxiaoxi 小道儿消息
 xiaodaoxiaoxi 小道消息
 xiaodaren 小大人
@@ -43998,3 +44002,9 @@ zhengzhongxiahuai 正中下怀
 zhengzhuan 正传
 zhengzhuang 整装 正装 症状
 zhengzhuangdaifa 整装待发
+zheyang 这样
+zhidao 知道
+zhishi 只是
+ziji 子集
+zishi 姿势
+zou 奏 走
