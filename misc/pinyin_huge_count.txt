@@ -174,7 +174,7 @@ celue 1
 ceng 1 1
 cengjing 1
 cengmian 1
-ceshi 4
+ceshi 6
 chabuduo 5
 chadao 1
 chadian 7
@@ -1892,7 +1892,7 @@ yibu 1
 yidan 1
 yidian 1
 yidong 1
-yige 5
+yige 7
 yigebazhangpaibuxiang 2
 yihuier 1
 yijing 1
@@ -1941,7 +1941,8 @@ zhengfa 3
 zhengge 1
 zhenming 2
 zhenxiang 2
-zheshi 2
+zheshi 4
+zheshiyigeceshi 1
 zhexie 2
 zheyang 6
 zhezhong 1
