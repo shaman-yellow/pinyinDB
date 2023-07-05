@@ -656,6 +656,7 @@ baixiang 白相 白鲞 败象
 baixibao 白细胞
 baixie 拜谢 败谢
 baixing 百姓 败兴
+baixinhuxi 白心呼吸
 baixiong 白熊
 baixu 败絮
 baixuan 败选
@@ -3084,7 +3085,7 @@ caichu 裁处
 caida 财大
 caidai 彩带
 caidan 菜单 彩旦 彩蛋
-caidao 菜刀 踩道
+caidao 菜刀 踩道 猜到
 caidaqicu 财大气粗
 caidi 采地
 caidian 彩点 彩电 菜点 踩点
@@ -5883,6 +5884,7 @@ congsu 从俗 从速
 congtan 丛谈
 congtang 从堂
 congtou 从头 葱头
+congwei 从未
 congwu 聪悟
 congxian 从先
 congxiao 从小
@@ -24517,6 +24519,7 @@ muzi 模子 毪子
 n 嗯 唔 咹 哏
 na 哪 拿 那 呢 纳 娜 呐 捺 钠 镎 肭 衲 乸 內 内 南 吶 呶 嗱 妠 抐 拏 挐 淰 秅 笚 笝 箬 篛 納 絮 蒘 蒳 袦 訤 詉 誽 豽 貀 蹃 軜 郍 鈉 鎿 雫 靹 魶
 naban 拿办
+naben 拿本
 nabian 那边
 nacai 纳彩
 nachengzi 那程子
@@ -31163,7 +31166,7 @@ shibude 使不得
 shibuganwei 食不甘味
 shibukedang 势不可当 势不可挡
 shibuliangli 势不两立 誓不两立
-shibushi 时不时 时不时
+shibushi 时不时 时不时 是不是
 shibuwodai 时不我待
 shibuxian 十不闲
 shibuxianer 什不闲儿 十不闲儿
@@ -38022,6 +38025,7 @@ xide 习得
 xideng 熄灯
 xidi 席地 洗底 洗涤 隙地
 xidian 细点 西点
+xidiao 洗掉
 xidiji 洗涤剂
 xidingdeng 吸顶灯
 xidong 噏动 翕动
@@ -42838,6 +42842,7 @@ zailai 再来
 zaili 在理
 zailimian 在里面
 zaimei 在美
+zaimeiyou 再没有
 zaimian 栽面
 zaimin 灾民
 zaina 在哪
@@ -45312,6 +45317,7 @@ zhuomian 桌面
 zhuomianshang 桌面上
 zhuomicang 捉迷藏
 zhuomo 捉摸 着墨
+zhuomobutou 捉摸不投
 zhuomuniao 啄木鸟
 zhuona 捉拿
 zhuoni 着你
@@ -45992,324 +45998,3 @@ zuiduo 最多
 zuie 罪恶
 zuier 蕞尔
 zuifan 罪犯
-zuiguai 嘴乖
-zuigui 醉鬼
-zuiguo 罪过
-zuihan 醉汉
-zuihao 最好
-zuihou 最后
-zuihoutongdie 最后通牒
-zuihua 醉话
-zuihuiguodaiyu 最惠国待遇
-zuijia 最佳 醉驾
-zuijian 最简 嘴尖
-zuijianshi 最简式
-zuijiao 嘴角
-zuijin 最近 嘴紧
-zuijiu 醉酒
-zuikuai 最快 嘴快
-zuikui 罪魁
-zuili 槜李 罪戾
-zuilian 嘴脸
-zuiming 罪名
-zuinie 罪孽
-zuipizi 嘴皮子
-zuiqian 罪愆
-zuiren 罪人 醉人
-zuiruan 嘴软
-zuiruo 最弱
-zuishengmengsi 醉生梦死
-zuisong 嘴松
-zuisui 嘴碎
-zuisun 嘴损
-zuitai 醉态
-zuitian 嘴甜
-zuitou 嘴头
-zuiwei 最为
-zuiwen 嘴稳
-zuiwengzhiyibuzaijiu 醉翁之意不在酒
-zuixiang 醉乡
-zuixin 最新 醉心
-zuixing 嘴形 罪行
-zuixunxun 醉醺醺
-zuiyan 嘴严 醉眼
-zuiyi 醉意
-zuiying 嘴硬
-zuiyou 最优 罪尤
-zuiyouyingde 罪有应得
-zuizao 最早
-zuize 罪责
-zuizheng 罪证
-zuizhi 嘴直
-zuizhong 最终
-zuizhongchanpin 最终产品
-zuizhuang 罪状
-zuizi 嘴子
-zuji 祖籍 足迹 阻击
-zujia 租价
-zujian 组件 组建 足见
-zujie 租借 租界 阻截
-zujiedi 租借地
-zujin 租金 足金
-zuju 祖居
-zujue 阻绝
-zukang 阻抗
-zulan 阻拦
-zulei 族类
-zuli 阻力
-zuliao 足疗
-zulin 租赁
-zulv 祖率
-zumu 祖母
-zumulv 祖母绿
-zun 尊 遵 樽 鳟 僎 僔 噂 墫 奠 嶟 拵 捘 捽 栫 瀳 繜 罇 袸 譐 跧 踆 蹲 銌 鐏 鱒 鶎 鷷 撙
-zunao 阻挠
-zuncheng 尊称
-zunchong 尊崇
-zuncong 遵从
-zungui 尊贵
-zuni 阻尼
-zunjie 撙节
-zunjing 尊敬
-zunlan 樽懒
-zunming 遵命
-zunqin 尊亲
-zunrong 尊容
-zunshou 遵守
-zunxing 遵行
-zunxun 遵循
-zunyan 尊严
-zunzhang 尊长
-zunzhao 遵照
-zunzhong 尊重
-zunzhu 遵嘱
-zunzu 樽俎
-zuo 左 做 作 乍 佐 侳 凿 咗 唑 嘬 坐 岝 岞 座 怍 挫 捽 昨 柞 柮 椊 琢 砟 祚 秨 稓 笮 筰 糳 繓 胙 苲 莋 葃 葄 蓙 袏 諎 酢 醋 鈼 鑿 阼 飵
-zuoai 做爱
-zuoan 作案
-zuoba 作罢
-zuoban 做伴 坐班
-zuobangyoubi 左膀右臂
-zuobao 作保
-zuobi 作弊
-zuobian 左边
-zuobianqi 坐便器
-zuobiao 坐标
-zuobiaoxi 坐标系
-zuobie 作别
-zuobiezi 嘬瘪子
-zuobishangguan 作壁上观
-zuobu 做不
-zuobuguo 左不过
-zuocan 佐餐 柞蚕
-zuocang 座舱
-zuocao 坐草
-zuoce 左侧
-zuochan 坐禅
-zuocheng 作成
-zuochishankong 坐吃山空
-zuochu 作出 做出
-zuochuang 坐床
-zuoci 坐次 座次
-zuoda 作答 坐大
-zuodai 坐待
-zuodao 做到
-zuodaopangmen 左道旁门
-zuode 做的 做得
-zuodeng 坐等
-zuodi 坐地
-zuodian 坐垫
-zuodifenzang 坐地分赃
-zuodong 做东
-zuodui 作对
-zuoe 作恶
-zuoer 座儿 昨儿
-zuoerlundao 坐而论道
-zuofa 做法 作伐 作法
-zuofang 作坊
-zuofazibi 作法自毙
-zuofei 作废
-zuofeng 作风
-zuogeng 作梗
-zuogong 做功 做工
-zuogongke 做功课
-zuogu 作古 坐骨
-zuoguai 作怪
-zuoguanchengbai 坐观成败
-zuogui 做鬼
-zuoguo 做过 坐果
-zuogushenjing 坐骨神经
-zuoguyoupan 左顾右盼
-zuohao 做好
-zuohua 坐化
-zuohuaibuluan 坐怀不乱
-zuohuo 做活
-zuohuoer 做活儿
-zuohupi 作虎皮
-zuoji 座机
-zuojia 作价 作假 作家 坐架 坐驾 座驾
-zuojian 作件 作践
-zuojianfanke 作奸犯科
-zuojiangcao 酢浆草
-zuojiangshan 坐江山
-zuojianzifu 作茧自缚
-zuojin 左近
-zuojingguantian 坐井观天
-zuoju 坐具
-zuoke 作客 做客 坐科
-zuokun 坐困
-zuola 坐蜡
-zuolao 坐牢
-zuole 做了 作了
-zuolengbandeng 坐冷板凳
-zuoli 佐理 坐力 柞栎
-zuolian 作脸
-zuoliao 佐料 作料
-zuolibai 做礼拜
-zuolibuan 坐立不安
-zuolibuning 坐立不宁
-zuolinyoushe 左邻右舍
-zuoluan 作乱
-zuolun 左轮
-zuoluo 坐落
-zuomaimai 做买卖
-zuomanyue 做满月
-zuomei 作美 做媒
-zuomeng 做梦
-zuomian 左面
-zuomo 琢磨
-zuomu 柞木
-zuonan 作难
-zuonie 作孽
-zuonong 作弄
-zuoou 作呕
-zuopai 做派 左派
-zuopei 作陪
-zuopiezi 左撇子
-zuopin 作品
-zuoqi 坐骑
-zuoqian 左迁
-zuoqin 做亲
-zuoqing 左倾
-zuoqiu 坐鞧 左丘
-zuoquan 左券
-zuoquantao 做圈套
-zuoren 做人
-zuorenqing 做人情
-zuori 昨日
-zuoru 坐蓐
-zuosangzi 左嗓子
-zuose 作色
-zuoshandiao 坐山雕
-zuoshang 坐商
-zuoshangjiao 左上角
-zuoshangke 座上客
-zuoshanguanhudou 坐山观虎斗
-zuosheng 作声 做声
-zuoshenghuo 做生活
-zuoshengri 做生日
-zuoshengyi 做生意
-zuoshi 做事 作势 坐失 坐实 坐视
-zuoshou 做寿 左手 左首
-zuoshoujiao 做手脚
-zuoshouyuli 坐收渔利
-zuoshu 作数
-zuosi 作死
-zuosichou 柞丝绸
-zuosu 作速
-zuosui 作祟
-zuotai 作态 坐台 坐胎
-zuotan 座谈 坐探 左袒
-zuotang 坐堂
-zuotian 昨天
-zuotianxia 坐天下
-zuotong 作痛
-zuotu 作图
-zuowan 做完 昨晚
-zuowei 作为 座位 作伪 坐位
-zuoweizuofu 作威作福
-zuowen 作文
-zuowenzhang 做文章
-zuowu 作物 坐误
-zuowuxuxi 座无虚席
-zuoxi 作息 做戏 坐席 座席
-zuoxia 左下
-zuoxiajiao 左下角
-zuoxiang 坐像
-zuoxiangqicheng 坐享其成
-zuoxie 做些
-zuoxing 作兴
-zuoxingzi 左性子
-zuoxiu 作秀 做秀
-zuoxuewen 做学问
-zuoyan 左眼
-zuoyao 坐药
-zuoye 作业 昨夜 坐夜
-zuoyi 作揖 坐椅 左翼 座椅
-zuoyidaibi 坐以待毙
-zuoyong 作用 作俑
-zuoyongli 作用力
-zuoyou 左右
-zuoyoufengyuan 左右逢源
-zuoyoukaigong 左右开弓
-zuoyouming 座右铭
-zuoyoushou 左右手
-zuoyoutan 左右袒
-zuoyue 作乐
-zuoyuezi 坐月子
-zuozai 坐在
-zuozang 坐赃
-zuozeixinxu 做贼心虚
-zuozhan 作战
-zuozhe 作者
-zuozhen 坐诊 坐镇
-zuozheng 佐证 作证 做证 左证
-zuozhenxian 做针线
-zuozhi 坐支
-zuozhiyouchu 左支右绌
-zuozhong 座钟
-zuozhu 佐助 做主
-zuozhuan 左转
-zuozhuang 坐庄
-zuozhun 作准
-zuozi 撮子 座子
-zuozou 左走
-zuozuo 做作
-zupu 族谱
-zuqin 族亲
-zuqiu 足球
-zuqu 组曲
-zuquan 族权
-zuqun 族群
-zuran 阻燃
-zuren 族人
-zuse 足色 阻塞
-zushang 祖上
-zushangrou 俎上肉
-zushi 祖师 组诗
-zushiye 祖师爷
-zushu 祖述
-zushui 租税
-zusui 卒岁 足岁
-zusun 祖孙
-zutan 足坛
-zutuan 组团
-zuwu 卒伍
-zuxi 祖喜
-zuxia 足下
-zuxian 祖先
-zuye 卒业 祖业
-zuyi 足以 族裔
-zuyin 足银
-zuyong 租用
-zuyuan 组员
-zuyue 租约 足月
-zuzhang 组长 族长
-zuzhi 组织 阻止 阻滞
-zuzhiduomou 足智多谋
-zuzhishenghuo 组织生活
-zuzhou 诅咒
-zuzhuang 组装
-zuzi 租子
-zuzong 祖宗
-zuzubeibei 祖祖辈辈
