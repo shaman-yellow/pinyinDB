@@ -17973,7 +17973,7 @@ jishen 寄身 跻身
 jisheng 寄生 计生
 jishengchong 寄生虫
 jishenjing 脊神经
-jishi 几十 即时 即使 即是 及时 几时 即事 即食 基石 季世 寄食 技师 既是 机师 机时 济世 济事 疾驶 积食 纪事 纪实 继室 计时 记事 集市 集释
+jishi 几十 即使 即时 即是 及时 几时 即事 即食 基石 季世 寄食 技师 既是 机师 机时 济世 济事 疾驶 积食 纪事 纪实 继室 计时 记事 集市 集释
 jishibenmoti 纪事本末体
 jishier 记事儿
 jishigongzi 计时工资
@@ -43998,16 +43998,3 @@ zhengzhiyanbizhiyan 睁只眼闭只眼
 zhengzhizhidaoyuan 政治指导员
 zhengzhizhidu 政治制度
 zhengzhong 怔忪 正中 郑重
-zhengzhongqishi 郑重其事
-zhengzhongxiahuai 正中下怀
-zhengzhuan 正传
-zhengzhuang 整装 正装 症状
-zhengzhuangdaifa 整装待发
-zheyang 这样
-zhidao 知道
-zhinegn 只能
-zhineng 只能
-zhishi 只是
-ziji 子集
-zishi 姿势
-zou 奏 走
