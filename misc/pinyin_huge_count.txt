@@ -891,6 +891,7 @@ kankan 11 2
 kanlai 1
 kansi 2
 kanwo 3
+kanwowanmeidecuoci 1
 kao 2
 kaozai 1
 ke 8
