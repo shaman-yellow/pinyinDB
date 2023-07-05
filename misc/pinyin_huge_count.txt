@@ -31,7 +31,7 @@ baochi 2
 baode 1
 baofu 8 1
 baohan 2
-baokuo 2
+baokuo 3
 baoli 12 2
 baolu 3
 baoluzai 1
@@ -149,6 +149,7 @@ buyiyang 2
 buyong 1
 buzhi 3
 buzhidao 8
+buzhou 1
 buzuo 2
 ca 1
 cai 13
@@ -517,7 +518,7 @@ fuzhu 1
 ga 10
 gadang 1
 gafasheng 1
-gai 11 2
+gai 13 2
 gaibian 2
 gaiguo 1
 gaishu 1
@@ -564,7 +565,7 @@ gezhe 1
 gezhong 2
 gong 1
 gongan 1
-gongju 5
+gongju 6
 gongneng 4
 gongnengshichang 1
 gongzuo 2
@@ -833,7 +834,7 @@ jiran 3 3
 jirantamen 1
 jishi 2 1 2
 jishu 5
-jisuan 3
+jisuan 4
 jisuanji 1
 jiti 1
 jiu 36 10 3 1
@@ -986,7 +987,7 @@ liqishouzhang 1
 lirun 1
 lishi 4
 liu 3
-liucheng 1
+liucheng 2
 liushi 1 1
 liuwen 1
 liuyi 1
@@ -1429,7 +1430,7 @@ shiwo 1
 shixian 4 3
 shiyan 4
 shiye 3
-shiyong 4
+shiyong 5
 shizai 4 1
 shizhong 1
 shizi 1
